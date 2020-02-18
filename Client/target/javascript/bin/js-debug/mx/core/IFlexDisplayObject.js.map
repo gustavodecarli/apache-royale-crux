@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IFlexDisplayObject.js",
+"lineCount":128,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6DA6K0B,CAAC,KAAW,C;;;;;;;;;;;;;6DAWZ,CAAC,KAAW,C;;;;;;;;;;;;;;;;;;;;;oDChExB,CAAC,CAAQ,EAAE,CAAQ,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6DA2BV,CAAC,QAAe,EAAE,SAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/core/IDisplayObjectInterface.as","frameworks/projects/MXRoyale/src/main/royale/mx/core/IFlexDisplayObject.as"],
+"names":[]
+}

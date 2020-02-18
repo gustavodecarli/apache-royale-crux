@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IParent.js",
+"lineCount":108,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8DA2C2B,CAAC,CAAQ,EAAE,aAA4B,C;;;;;;;;;;;;;;;;;;gEAcrC,CAAC,CAAQ,EAAE,KAAS,EAAE,aAA4B,C;;;;;;;;;;;;;;;;mEAa/C,CAAC,CAAQ,C;;;;;;;;;;;;;;;;iEAaZ,CAAC,CAAQ,EAAE,aAA4B,C;;;;;;;;;;;;;;;;;gEAsBxC,CAAC,KAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IParent.as"],
+"names":[]
+}

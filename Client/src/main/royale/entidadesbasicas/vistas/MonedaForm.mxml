@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * Copyright 2010 Swiz Framework Contributors
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not
+ * use this file except in compliance with the License. You may obtain a copy of
+ * the License. You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ */
+// Apache Royale Crux example based on https://github.com/swiz/swiz-examples/tree/master/SwizQuickStartExample-Flex4
+-->
+<j:GridCell xmlns:fx="http://ns.adobe.com/mxml/2009"
+			xmlns:j="library://ns.apache.org/royale/jewel"
+			xmlns:js="library://ns.apache.org/royale/basic"
+						xmlns:mx="library://ns.apache.org/royale/mx"
+			desktopNumerator="1" desktopDenominator="2"
+			tabletNumerator="1" tabletDenominator="2"
+			phoneNumerator="1" phoneDenominator="1">
+
+	<j:beads>
+		<js:ContainerDataBinding/>
+		
+	</j:beads>
+
+	<fx:Script>
+		<![CDATA[
+
+
+			import entidadesbasicas.eventos.SeleccionarEvent;
+			import entidadesbasicas.modelo.Moneda;
+
+			import org.apache.royale.collections.ArrayList;
+			import org.apache.royale.events.Event;
+
+			[Bindable]
+
+			/**
+			 * We could inject the whole controller instance, but we only need
+			 * one property from the controller, the current user, so we just
+			 * inject that property.
+			 * Using setter style binding below instead of direct property binding Injection here (for variety in example)
+			 */
+			public var moneda : Moneda;
+
+			[Bindable]
+			public var monedas : ArrayList;
+
+			[Inject( source = "userController.models", bind = "true" )]
+			public function setMonedas(val:ArrayList):void{
+				this.monedas = val;
+				this.dg.dataProvider = val;
+			}
+
+			[Inject( source = "userController.currentModelo", bind = "true" )]
+			public function setUser(val:Moneda):void{
+				this.moneda = val;
+			}
+
+			/**
+			 * Handle the user hitting the save button. We capture the form data
+			 * and dispatch a standard Flex event. No Crux-specific events or
+			 * special central dispatcher needed!
+			 */
+			private function onClick(e:Event) : void
+			{
+
+				var event : SeleccionarEvent = new SeleccionarEvent( SeleccionarEvent.SELECCIONAR );
+				dispatchEvent( event );
+
+				// var a : AsyncToken  = serviceResp.getOperation("seleccionar").send();
+			}
+		]]>
+
+	
+	</fx:Script>
+
+	<j:Form>
+
+		<j:FormHeading label="Crux + Remote Object + Jewel"/>
+		<j:Button click="onClick(event)" text="Click me" />
+
+            <j:DataGrid localId="dg" width="400" height="500" emphasis="primary" >
+				<j:columns>
+					<j:DataGridColumn label="Codigo" 		
+									dataField="codigo" 
+									columnWidth="200"/>
+
+					<j:DataGridColumn label="Descripcion" 	
+									  dataField="descripcion"
+									  columnWidth="200"/>
+				</j:columns>
+            </j:DataGrid>
+		
+	</j:Form>
+</j:GridCell>
+

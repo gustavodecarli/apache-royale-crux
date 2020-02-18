@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"InvalidCategoryError.js",
+"lineCount":54,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;AAwDoB,sCAAhB,WAAoC,CAAC,OAAc,C,CACnD,C;mEACU,O,CAAQ,C;AAClB,C;;;;;;;;;;;;;;;;;;;;;;;AAmBa,yDAAhB,WAAwB,CAAC,C,CACtB,C;EACI,OAAO,MAAM,CAAC,KAAA,OAAO,CAAC,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/logging/errors/InvalidCategoryError.as"],
+"names":[]
+}

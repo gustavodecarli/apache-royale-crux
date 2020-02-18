@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IList.js",
+"lineCount":218,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iDAoGoB,CAAC,IAAW,C;;;;;;;;;;;;;;;;;;;;;;mDAmBV,CAAC,IAAW,EAAE,KAAS,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;mDAwBvB,CAAC,KAAS,EAAE,QAAgB,C;;;;;;;;;;;;;;;;;;;;;;;;sDAqBzB,CAAC,IAAW,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;qDA8Bb,CAAC,IAAW,EAAE,QAAsB,EACnC,QAAsB,EACtB,QAFyI,C;;mDAmB5I,CAAC,C;;;;;;;;;;;;;;;;;;;;sDAiBE,CAAC,KAAS,C;;;;;;;;;;;;;;;;;;;;;;;;mDAoBb,CAAC,IAAW,EAAE,KAAS,C;;;;;;;;;;;;;;;;;;;iDAiBzB,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/collections/IList.as"],
+"names":[]
+}

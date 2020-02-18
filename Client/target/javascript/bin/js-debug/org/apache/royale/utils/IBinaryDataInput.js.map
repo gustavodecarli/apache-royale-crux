@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IBinaryDataInput.js",
+"lineCount":100,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4EAwB2B,CAAC,KAAgB,EAAE,MAAe,EAAE,MAAe,C;;;;;;yEAUtD,CAAC,C;;;;;;sEACJ,CAAC,C;;;;;;8EACO,CAAC,C;;;;;;uEACR,CAAC,C;;;;;;+EACO,CAAC,C;;;;;;qEACX,CAAC,C;;;;;;6EACO,CAAC,C;;;;;;uEAEP,CAAC,C;;;;;;wEACA,CAAC,C;;;;;;qEAEJ,CAAC,C;;;;;;;0EACI,CAAC,MAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/IBinaryDataInput.as"],
+"names":[]
+}

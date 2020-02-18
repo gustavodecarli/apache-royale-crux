@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IDisposable.js",
+"lineCount":29,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;+DAmBkB,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/IDisposable.as"],
+"names":[]
+}

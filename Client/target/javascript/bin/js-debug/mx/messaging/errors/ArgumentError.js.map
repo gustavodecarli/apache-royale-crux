@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ArgumentError.js",
+"lineCount":61,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAoDoB,iCAAhB,WAA6B,CAAC,GAAU,C,CACxC,C;8DACU,G,CAAI,C;AACd,C;;;;;;;;;;;;;;;;;;;;;;;AAmBgB,oDAAhB,WAAwB,CAAC,C,CACzB,C;EACI,IAAS,sBAAL,KAAY,GAAG,gBAAgB,C;EACnC,IAAI,KAAA,OAAO,IAAI,IAAI,C;IACf,KAAK,IAAI,YAAY,GAAG,KAAA,OAAO,GAAG,IAAI,C;EAC1C,I;IACI,KAAK,IAAI,GAAG,C;EAChB,OAAO,KAAK,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/errors/ArgumentError.as"],
+"names":[]
+}

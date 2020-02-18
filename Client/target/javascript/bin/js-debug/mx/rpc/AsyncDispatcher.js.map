@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"AsyncDispatcher.js",
+"lineCount":68,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AAmCoB,sBAAhB,WAA+B,CAAC,MAAe,EAAE,IAAU,EAAE,KAAY,C,CACzE,C;EACW,C;EACP,KAAA,8BAAO,GAAG,MAAM,C;EAChB,KAAA,4BAAK,GAAG,IAAI,C;EACZ,KAAA,6BAAM,GAAG,IAAI,6BAAK,CAAC,KAAK,CAAC,C;EACzB,KAAA,6BAAM,CAAC,gBAAgB,CAAC,6BAAK,CAAC,KAAK,E,yCAAE,K,oEAAiB,CAAC,C;EACvD,KAAA,6BAAM,CAAC,KAAK,CAAC,CAAC,C;AAClB,C;;;;;;;;;;;;;AAQiB,yEAAjB,WAAkC,CAAC,KAAW,C,CAC9C,C;EACI,KAAA,6BAAM,CAAC,IAAI,CAAC,CAAC,C;EACb,KAAA,6BAAM,CAAC,mBAAmB,CAAC,6BAAK,CAAC,KAAK,E,yCAAE,K,oEAAiB,CAAC,C;EAE1D,KAAA,8BAAO,CAAC,KAAK,CAAC,IAAI,EAAE,KAAA,4BAAK,CAAC,C;AAC9B,C;;;;;;;AAQY,+DAAgB,C;;;;;;;AAChB,6DAAW,C;;;;;;;AACX,8DAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/rpc/AsyncDispatcher.as"],
+"names":[]
+}

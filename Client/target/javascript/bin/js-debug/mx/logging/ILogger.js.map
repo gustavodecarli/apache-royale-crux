@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ILogger.js",
+"lineCount":312,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2CAwHgB,CAAC,KAAS,EAAE,OAAc,EAAM,IAAI,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6CA0ClC,CAAC,OAAc,EAAM,IAAI,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6CAyCzB,CAAC,OAAc,EAAM,IAAI,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6CAyCzB,CAAC,OAAc,EAAM,IAAI,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4CAwC1B,CAAC,OAAc,EAAM,IAAI,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4CAwCzB,CAAC,OAAc,EAAM,IAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/logging/ILogger.as"],
+"names":[]
+}

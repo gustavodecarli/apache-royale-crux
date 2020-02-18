@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MetaDataArgDefinition.js",
+"lineCount":58,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AA+BwB,kDAAhB,WAAqC,CAAC,IAAW,EAAE,KAAY,C,CAC/D,C;+EACU,I,CAAK,C;EACX,KAAA,yDAAM,GAAG,KAAK,C;AAClB,C;;;;;;;;;;;;;;AAEY,sHAAa,C;;;;;;;AAsBT,qEAAhB,WAAwB,CAAC,C,CACzB,C;EACI,OAAO,YAAY,GAAC,KAAA,KAAK,GAAC,YAAY,GAAC,KAAA,yDAAM,GAAC,GAAG,C;AACrD,C;;;kFAlByB,CAAC,C,CAC1B,C;EACI,OAAO,KAAA,yDAAM,C;AACjB,C;;;gFAQuB,CAAC,C,CAAQ,C;EAC5B,OAAO,KAAA,KAAK,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/MetaDataArgDefinition.as"],
+"names":[]
+}

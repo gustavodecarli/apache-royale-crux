@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"FormLayout.js",
+"lineCount":76,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAiDkB,gDAAhB,WAA0B,CAAC,C,CAC3B,C;4EACQ,C;AACR,C;;;;;;;;;;;;;;;AAKoB,kEAAwB,GAAG,aAAa,C;;;;;;;;;;;;;;;AAYnC,4EAAzB,WAA0C,CAAC,KAAkB,C,CAC7D,C;;4FAC0B,C;EAIxB,IAAG,KAAA,aAAa,CAAC,QAAQ,CAAC,MAAM,CAAC,C;IAChC,KAAA,aAAa,CAAC,MAAM,CAAC,MAAM,CAAC,C;EAC7B,KAAA,aAAa,CAAC,GAAG,CAAC,MAAM,CAAC,C;AAE3B,C;;;;;;;;;AAMyB,iEAAzB,WAA+B,CAAC,C,CAChC,C;;EAwBc,OAAO,IAAI,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/layouts/FormLayout.as"],
+"names":[]
+}

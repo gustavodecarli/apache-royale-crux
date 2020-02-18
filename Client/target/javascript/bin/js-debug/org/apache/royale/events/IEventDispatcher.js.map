@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IEventDispatcher.js",
+"lineCount":56,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+EA2CiC,CAAC,IAAW,EAAE,OAAgB,EAAE,WAA2B,EAAE,gBAA8B,C;;;;;;;;;kFACxF,CAAC,IAAW,EAAE,OAAgB,EAAE,WAA2B,EAAE,gBAA8B,C;;;;;;;+EAC9F,CAAC,IAAW,C;;;;;;;4EACf,CAAC,KAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/IEventDispatcher.as"],
+"names":[]
+}

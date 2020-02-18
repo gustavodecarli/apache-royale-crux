@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CommandMessageExt.js",
+"lineCount":60,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AA2CoB,uCAAhB,WAAiC,CAAC,OAA2B,C,CAC7D,C;;mEACW,C;EACP,KAAA,gDAAQ,GAAG,OAAO,C;AACtB,C;;;;;;;;;;;;;;AAEyB,+DAAzB,WAAsC,CAAC,MAAkB,C,CACzD,C;EACI,IAAI,KAAA,gDAAQ,IAAI,IAAI,C;IAChB,KAAA,gDAAQ,CAAC,aAAa,CAAC,MAAM,CAAC,C;EAClC,I;oFACwB,M,GAAO,C;AACnC,C;;;;;;;AAoBY,kGAAuB,C;;;2EATG,CAAC,C,CACvC,C;EAEI,IAAI,KAAA,gDAAQ,IAAI,IAAI,C;IAChB,OAAO,KAAA,gDAAQ,CAAC,SAAS,C;EAE7B,O,8EAAsB,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/messages/CommandMessageExt.as"],
+"names":[]
+}

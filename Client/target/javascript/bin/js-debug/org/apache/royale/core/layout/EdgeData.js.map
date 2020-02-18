@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"EdgeData.js",
+"lineCount":92,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;AAiCqB,sCAAhB,WAAwB,CAAC,C;;;;;;;;;;;;;;AAIhB,6FAAY,C;;;;;;;AACN,4FAAW,C;;;;;;;AACX,8FAAa,C;;;;;;;AACb,+FAAc,C;;;qEAER,CAAC,C,CACzB,C;EACC,OAAO,KAAA,4CAAK,C;AACb,C;;;qEACwB,CAAC,KAAY,C,CACrC,C;EACU,KAAA,4CAAK,GAAG,KAAK,C;AACvB,C;;;oEACuB,CAAC,C,CACxB,C;EACC,OAAO,KAAA,2CAAI,C;AACZ,C;;;oEACuB,CAAC,KAAY,C,CACpC,C;EACU,KAAA,2CAAI,GAAG,KAAK,C;AACtB,C;;;sEAC4B,CAAC,C,CAC1B,C;EACI,OAAO,KAAA,6CAAM,C;AACjB,C;;;sEACyB,CAAC,KAAY,C,CACtC,C;EACO,KAAA,6CAAM,GAAG,KAAK,C;AACrB,C;;;uEAE0B,CAAC,C,CAC3B,C;EACI,OAAO,KAAA,8CAAO,C;AAClB,C;;;uEAC0B,CAAC,KAAY,C,CACvC,C;EACO,KAAA,8CAAO,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/layout/EdgeData.as"],
+"names":[]
+}

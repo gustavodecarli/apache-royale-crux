@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SortFieldCompareTypes.js",
+"lineCount":71,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AAsDwB,oCAAhB,WAAqC,CAAC,C;;;;;;;;;;;;;;;AAgBlB,yCAAW,GAAG,MAAM,C;;;;;;;;AAWpB,yCAAW,GAAG,MAAM,C;;;;;;;;AAWpB,4CAAc,GAAG,SAAS,C;;;;;;;;AAW1B,2CAAa,GAAG,QAAQ,C;;;;;;;;AAWxB,wCAAU,GAAG,KAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/collections/SortFieldCompareTypes.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ChannelError.js",
+"lineCount":33,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAoDoB,gCAAhB,WAA4B,CAAC,GAAU,C,CACvC,C;6DACU,G,CAAI,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/errors/ChannelError.as"],
+"names":[]
+}

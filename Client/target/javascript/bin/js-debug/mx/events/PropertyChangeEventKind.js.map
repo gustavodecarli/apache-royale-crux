@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"PropertyChangeEventKind.js",
+"lineCount":41,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAiDqB,wCAAa,GAAG,QAAQ,C;;;;;;;;AAUxB,wCAAa,GAAG,QAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/events/PropertyChangeEventKind.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SecurityErrorEvent.js",
+"lineCount":61,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAgGiB,4BAAhB,WAAkC,CAAC,IAAW,EAAE,OAAuB,EACvE,UAA0B,EAAE,IAAgB,EAAE,EADsF,C,CAEpI,C;;;;;yDACO,I,EAAM,O,EAAS,U,CAAW,C;AACjC,C;;;;;;;;;;;;;;;AAnCoB,2CAAqB,GAAG,eAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/events/SecurityErrorEvent.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MethodParameter.js",
+"lineCount":57,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;AA6BkB,iDAAhB,WAA+B,CAAE,KAAS,EAAE,IAAU,EAAE,QAAiB,C,CACzE,C;EACC,IAAI,CAAC,KAAK,GAAG,KAAK,C;EAClB,IAAI,CAAC,IAAI,GAAG,IAAI,C;EAChB,IAAI,CAAC,QAAQ,GAAG,QAAQ,C;AACzB,C;;;;;;;;;;;;;AAMW,iE,IAAS,C;;;;;;;AAMT,gEAAU,C;;;;;;;AAMV,oEAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/MethodParameter.as"],
+"names":[]
+}

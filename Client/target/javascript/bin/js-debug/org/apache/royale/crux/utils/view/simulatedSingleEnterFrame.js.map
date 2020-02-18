@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"simulatedSingleEnterFrame.js",
+"lineCount":75,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2DA0CC,WAAyC,CAAC,SAAmB,EAAE,QAAiB,EAAE,UAA0B,C,CAAO,C;;EAClH,IAAI,CAAC,SAAS,C;IAAE,MAAM,C;;EAgBrB,IAAM,sBAAF,EAAS,G,OAAG,mEAAO,CAAC,GAAG,CAAC,GAAG,CAAC,SAAS,C,CAAC,C;EAC1C,IAAI,CAAC,KAAK,CAAC,EAAE,CAAC,C;IAAE,oBAAoB,CAAC,EAAE,CAAC,C;EACxC,IAAI,CAAC,UAAU,EAAE,C;IAChB,mEAAO,CAAC,GAAG,CAAC,GAAG,CAAC,SAAS,EAAE,qBAAqB,CAAC,mEAAO,CAAC,WAAW,CAAC,QAAQ,EAAE,SAAS,CAAC,CAAC,CAAC,C;EAC5F,C;AAGF,C;;;;;;;;;;;;;;;;;;;;;AAaoB,uEAAO,GAAG,IAAI,GAAG,CAAC,CAAC,C;;;;;;;;;AAMhB,+EAAvB,WAAkC,CAAC,QAAiB,EAAE,SAAmB,C,CAAW,C;EACnF,OAAO,QAAQ,CAAC,SAAgB,C,CAAM,C;IACpC,mEAAO,CAAC,GAAG,CAAC,MAAM,CAAC,SAAS,CAAC,C;IAC7B,QAAQ,CAAC,CAAC,C;EACX,CAAA,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/utils/view/simulatedSingleEnterFrame.as"],
+"names":[]
+}

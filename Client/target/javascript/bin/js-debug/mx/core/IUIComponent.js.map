@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IUIComponent.js",
+"lineCount":118,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;oDAycuB,CAAC,C;;;;;;;;;;;;oEAUe,CAAC,C;;;;;;;;;;;;qEAUA,CAAC,C;;;;;;;;;;;;;8CAUxB,CAAC,aAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/core/IUIComponent.as"],
+"names":[]
+}

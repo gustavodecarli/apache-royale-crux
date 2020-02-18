@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IDynamicPropertyOutput.js",
+"lineCount":39,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4FA4C+B,CAAC,IAAW,EAAE,KAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/net/IDynamicPropertyOutput.as"],
+"names":[]
+}

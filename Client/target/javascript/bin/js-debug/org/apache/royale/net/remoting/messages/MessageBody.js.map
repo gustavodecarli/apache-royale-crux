@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MessageBody.js",
+"lineCount":63,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AAyDwB,mDAAhB,WAA2B,CAAC,C,CAC5B,C;EACW,C;AACX,C;;;;;;;;;;;;;AAiBW,uEAAgB,GAAG,MAAM,C;;;;;;;AAWzB,yEAAkB,GAAG,IAAI,C;;;;;;;AAexB,uHAAY,C;;;kFAWA,CAAC,C,CACzB,C;EACI,OAAO,KAAA,yDAAK,C;AAChB,C;;;kFAKwB,CAAC,KAAY,C,CACrC,C;EACI,KAAA,yDAAK,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Network/src/main/royale/org/apache/royale/net/remoting/messages/MessageBody.as"],
+"names":[]
+}

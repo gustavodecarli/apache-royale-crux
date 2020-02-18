@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"InvalidChannelError.js",
+"lineCount":32,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAyDoB,uCAAhB,WAAmC,CAAC,GAAU,C,CAC9C,C;oEACU,G,CAAI,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/errors/InvalidChannelError.as"],
+"names":[]
+}

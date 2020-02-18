@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SecureAMFChannel.js",
+"lineCount":49,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAqDoB,sCAAhB,WAAgC,CAAC,EAAgB,EAAE,GAAiB,C,CACpE,C;;;mEACU,E,EAAI,G,CAAI,C;AAClB,C;;;;;;;;;;yEAiBqC,CAAC,C,CACtC,C;EACI,OAAO,OAAO,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/channels/SecureAMFChannel.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"PostConstructProcessor.js",
+"lineCount":65,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AAmDkB,wDAAhB,WAAsC,CAAC,aAA6B,C,CACpE,C;;sFACU,aAAa,IAAI,I,CAAI,GAAK,CAAC,yDAAC,cAAe,CAAC,GAAG,a,EAAe,wD,CAA0B,C;AAClG,C;;;;;;;;;;;;;;;AAxBuB,uEAAuB,GAAG,eAAe,C;;;;;;;;AAiCvC,oFAAzB,WAA0C,CAAE,YAAoB,EAAE,IAAY,C,CAC9E,C;uGAC0B,Y,EAAc,I,GAAM,C;yCAE1B,CAAnB,YAAY,EAAS,OAAO,EAAE,EAAc,CAAC,C;EAEA,0BAAA,YAAA,C;EAA7C,KAA6C,gBAAJ,IAAI,mBAAa,E;;EAA/C,kBAAkC,kC;EAC7C,C;IACC,IAAO,wBAAH,CAAY,GAAG,IAAI,CAAC,MAAM,CAAE,WAAW,CAAC,IAAI,CAAC,IAAI,CAAE,C;IACvD,CAAC,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,CAAC,C;EACrB,C;;AACD,C;;;2FAnCqC,CAAC,C,CACtC,C;EACC,OAAO,mDAAiB,CAAC,cAAc,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/processors/PostConstructProcessor.as"],
+"names":[]
+}

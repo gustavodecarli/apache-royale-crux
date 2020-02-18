@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Button.js",
+"lineCount":61,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AA0D4B,8BAAhB,WAAsB,CAAC,C,CACvB,C;0DACa,C;AACb,C;;;;;;;;;;6DAawB,CAAC,C,CACzB,C;;EAOM,OAAe,oCAAP,KAAA,OAAO,EAAI,iBAAJ,CAAqB,CAAE,SAAS,C;AAErD,C;;;6DAIwB,CAAC,KAAY,C,CACrC,C;;EAOc,oCAAP,KAAA,OAAO,EAAI,iBAAJ,CAAqB,CAAE,SAAS,GAAG,KAAK,C;EAChD,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,YAAY,CAAC,CAAC,C;AAE5C,C;;;6DAcwB,CAAC,C,CACzB,C;;EAOM,OAAe,oCAAP,KAAA,OAAO,EAAI,iBAAJ,CAAqB,CAAE,SAAS,C;AAErD,C;;;6DAIwB,CAAC,KAAY,C,CACrC,C;;EAOc,oCAAP,KAAA,OAAO,EAAI,iBAAJ,CAAqB,CAAE,SAAS,GAAG,KAAK,C;EAChD,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,YAAY,CAAC,CAAC,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/Button.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IllegalOperationError.js",
+"lineCount":27,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AA4EoB,+BAAhB,WAAqC,CAAC,OAAmB,C,CACzD,C;;EACW,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/errors/IllegalOperationError.as"],
+"names":[]
+}

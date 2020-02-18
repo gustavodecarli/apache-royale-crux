@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"TitleBarView.js",
+"lineCount":94,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAqC6B,wHAAjB,WAA6B,CAAC,C,CAC9B,C;EACI,IAAY,8CAAR,QAAc,GAAG,IAAI,8BAAK,CAAC,OAAO,CAAC,C;EACvC,oCAAO,KAAA,OAAP,EAAA,6BAAA,OAAe,CAAC,aAAa,CAAC,QAAQ,CAAC,C;AAC3C,C;;;;;;;;;EAW8B,KAAA,6DAAY,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/views/TitleBarView.mxml"],
+"names":[]
+}

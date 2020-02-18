@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IExternalizable.js",
+"lineCount":37,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6EA8B6B,CAAC,KAAgB,C;;;;;;8EAEhB,CAAC,MAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/net/IExternalizable.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"PreDestroyMetadataTag.js",
+"lineCount":54,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;AAwDkB,qDAAhB,WAAqC,CAAC,C,CACtC,C;;EACC,KAAA,cAAc,GAAG,OAAO,C;AACzB,C;;;;;;;;;;;;;;AA3Bc,sEAAU,GAAG,CAAC,C;;;;;;;AAiCH,wEAAzB,WAAiC,CAAE,WAAyB,C,CAC5D,C;2FACiB,W,GAAa,C;EAE7B,IAAI,KAAA,MAAM,CAAE,OAAQ,CAAC,C;IACpB,KAAA,MAAM,GAAG,kCAAA,GAAG,CAAE,KAAA,MAAM,CAAE,OAAQ,CAAC,CAAC,KAAM,CAAC,C;AACzC,C;;;qFA3ByB,CAAC,C,CAC1B,C;EACC,OAAO,KAAA,MAAM,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/metadata/PreDestroyMetadataTag.as"],
+"names":[]
+}

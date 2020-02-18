@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"LayoutData.js",
+"lineCount":76,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;AA+BqB,wCAAhB,WAA0B,CAAC,C;;;;;;;;;;;;;;AAIlB,mGAAgB,C;;;;;;;AACV,oGAAiB,C;;;;;;;AACjB,oGAAmB,C;;;yEAEX,CAAC,C,CAC3B,C;EACC,OAAO,KAAA,gDAAO,C;AACf,C;;;yEAC0B,CAAC,KAAc,C,CACzC,C;EACU,KAAA,gDAAO,GAAG,KAAK,C;AACzB,C;;;0EAEiC,CAAC,C,CAC5B,C;EACI,OAAO,KAAA,iDAAQ,C;AACnB,C;;;0EAC2B,CAAC,KAAc,C,CAC1C,C;EACI,KAAA,iDAAQ,GAAG,KAAK,C;AACpB,C;;;0EAE2B,CAAC,C,CAC5B,C;EACI,OAAO,KAAA,iDAAQ,C;AACnB,C;;;0EAC2B,CAAC,KAAgB,C,CAC5C,C;EACI,KAAA,iDAAQ,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/layout/LayoutData.as"],
+"names":[]
+}

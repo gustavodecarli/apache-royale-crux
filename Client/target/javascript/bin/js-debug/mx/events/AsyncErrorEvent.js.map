@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"AsyncErrorEvent.js",
+"lineCount":61,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA+FiB,yBAAhB,WAA+B,CAAC,IAAW,EAAE,OAAuB,EAC5D,UAA0B,EAAE,IAAgB,EAAE,EAD6F,C,CAGnJ,C;;;;;sDACO,I,EAAM,O,EAAS,U,CAAW,C;AACjC,C;;;;;;;;;;;;;;;AApCoB,qCAAkB,GAAG,YAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/events/AsyncErrorEvent.as"],
+"names":[]
+}

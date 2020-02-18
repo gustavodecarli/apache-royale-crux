@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"BorderStyles.js",
+"lineCount":75,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;AAgCqB,0CAAhB,WAA4B,CAAC,C;;;;;;;;;;;;;;AAId,sGAAa,C;;;;;;;AAWb,sG,IAAW,C;;;;;;;AAWX,sGAAa,C;;;0EApBA,CAAC,C,CAC1B,C;EACI,OAAO,KAAA,iDAAM,C;AACjB,C;;;0EACyB,CAAC,KAAY,C,CACtC,C;EACI,KAAA,iDAAM,GAAG,KAAK,C;AAClB,C;;;0EAIyB,CAAC,C,CAC1B,C;EACI,OAAO,KAAA,iDAAM,C;AACjB,C;;;0EACyB,CAAC,KAAU,C,CACpC,C;EACI,KAAA,iDAAM,GAAG,KAAK,C;AAClB,C;;;0EAIyB,CAAC,C,CAC1B,C;EACI,OAAO,KAAA,iDAAM,C;AACjB,C;;;0EACyB,CAAC,KAAY,C,CACtC,C;EACI,KAAA,iDAAM,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/styles/BorderStyles.as"],
+"names":[]
+}

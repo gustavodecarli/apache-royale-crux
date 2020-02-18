@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IMetadataTag.js",
+"lineCount":63,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0EAqDiB,CAAE,OAAe,C;;;;;;;;;0EAMjB,CAAE,OAAe,C;;;;;;4EAEf,CAAE,WAAyB,C;;;;;;4EAE3B,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/IMetadataTag.as"],
+"names":[]
+}

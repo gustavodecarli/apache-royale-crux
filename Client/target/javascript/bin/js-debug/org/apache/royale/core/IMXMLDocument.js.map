@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IMXMLDocument.js",
+"lineCount":54,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2EAoDkC,CAAC,QAAe,EAAE,KAAW,C;;;;;;;;;;;;gFAUxB,CAAC,IAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IMXMLDocument.as"],
+"names":[]
+}

@@ -1,0 +1,25 @@
+{
+    "config": "flex",
+    "compilerOptions": {
+        "debug": true,
+        "targets": ["JSRoyale"],
+        "source-map": true,
+        "html-template": "./src/main/resources/jewel-index-template.html",
+        "theme": "${royalelib}/themes/JewelTheme/src/main/resources/defaults.css",
+        "output": "target",
+        "source-path": [
+            "src/main/royale"
+        ],
+        "js-library-path": [
+                "${royalelib}/js/themes/JewelThemeJS/target/JewelThemeJS.swc"
+        ]
+
+    },
+    "copySourcePathAssets": true,
+    // "additionalOptions": "-js-dynamic-access-unknown-members=true",
+    "additionalOptions": "-js-default-initializers=true -compiler.exclude-defaults-css-files=MXRoyale-0.9.7-SNAPSHOT-js.swc:defaults.css -keep-as3-metadata+=Inject,Dispatcher,EventHandler,PostConstruct,PreDestroy,ViewAdded,ViewRemoved,Bindable,Transient -keep-code-with-metadata=Inject",
+     "files":
+    [
+        "src/main/royale/App.mxml"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SystemManagerGlobals.js",
+"lineCount":74,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA+BmB,uDAA4B,GACR,CAAC,CAAC,C;;;;;;;AACnB,uDAA6B,C;;;;;;;AAEhC,gDAAuB,C;;;;;;;AAEvB,uEAA8C,C;;;;;;;AAE9C,sEAA6C,C;;;;;;;AAO7C,qCAAW,C;;;;;;;AAOX,2CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/managers/SystemManagerGlobals.as"],
+"names":[]
+}

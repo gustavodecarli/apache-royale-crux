@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IDocument.js",
+"lineCount":42,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iEA6CsB,CAAC,QAAe,EAAE,EAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IDocument.as"],
+"names":[]
+}

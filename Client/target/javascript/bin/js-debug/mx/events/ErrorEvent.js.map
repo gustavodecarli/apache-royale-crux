@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ErrorEvent.js",
+"lineCount":69,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAgGiB,oBAAhB,WAA0B,CAAC,IAAW,EAAE,OAAuB,EACvD,UAA0B,EAAE,IAAgB,EAAE,EADwF,C,CAG9I,C;;;;;iDACO,I,EAAM,O,EAAS,U,CAAW,C;EAC1B,IAAI,CAAC,IAAI,GAAG,IAAI,C;AACvB,C;;;;;;;;;;;;;;;AArCuB,0BAAY,GAAG,OAAO,C;;;;;;;AAwC/B,mCAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/events/ErrorEvent.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"LogEvent.js",
+"lineCount":133,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAyJoB,mBAAhB,WAAwB,CAAC,OAAmB,EACxC,KADwF,C,CAE5F,C;;;gDACU,mBAAQ,CAAC,G,EAAK,K,EAAO,K,CAAM,C;EAEjC,IAAI,CAAC,OAAO,GAAG,OAAO,C;EACtB,IAAI,CAAC,KAAK,GAAG,KAAK,C;AACtB,C;;;;;;;;;;;;;;;AAzGoB,uBAAU,GAAG,KAAK,C;;;;;;;;;;;;;;;;;;AAoBf,kCAAvB,WAAqC,CAAC,KAAU,C,CAChD,C;EACI,QAAQ,KAAK,EACb,C;IACI,KAAK,wBAAa,CAAC,IAAI,C;MAEnB,OAAO,MAAM,C;IAGjB,KAAK,wBAAa,CAAC,KAAK,C;MAEpB,OAAO,OAAO,C;IAGlB,KAAK,wBAAa,CAAC,KAAK,C;MAEpB,OAAO,OAAO,C;IAGlB,KAAK,wBAAa,CAAC,IAAI,C;MAEnB,OAAO,MAAM,C;IAGjB,KAAK,wBAAa,CAAC,KAAK,C;MAEpB,OAAO,OAAO,C;IAGlB,KAAK,wBAAa,CAAC,GAAG,C;MAElB,OAAO,KAAK,C;EAE1B,C;EAEA,OAAO,SAAS,C;AACd,C;;;;;;;AAwFW,mC,IAAS,C;;;;;;;AAcT,qCAAc,C;;;;;;;;AAaT,mCAAhB,WAAqB,CAAC,C,CACtB,C;EACI,OAAO,IAAI,mBAAQ,CAAC,KAAA,OAAO,EAAY,KAAA,KAAK,CAAC,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/logging/LogEvent.as"],
+"names":[]
+}

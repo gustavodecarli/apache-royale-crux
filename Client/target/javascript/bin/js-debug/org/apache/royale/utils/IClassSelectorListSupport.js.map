@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IClassSelectorListSupport.js",
+"lineCount":87,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+EAyCmB,CAAC,IAAW,C;;;;;;;;;;;;;;;;;kFAeT,CAAC,IAAW,C;;;;;;;;;;;;;;;;kFAaZ,CAAC,IAAW,EAAE,KAAa,C;;;;;;;;;;;;;;;;oFAazB,CAAC,IAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/IClassSelectorListSupport.as"],
+"names":[]
+}

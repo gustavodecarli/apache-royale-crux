@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IURLRequestHelper.js",
+"lineCount":37,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8FA4B4B,CAAE,OAAkB,EAAE,aAAsB,EAAE,YAA4B,EAC7F,eAA+B,EAAE,iBAAiC,EAClE,WAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/utils/services/IURLRequestHelper.as"],
+"names":[]
+}

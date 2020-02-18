@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MetadataArg.js",
+"lineCount":58,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AA4BkB,6CAAhB,WAA2B,CAAE,GAAU,EAAE,KAAa,C,CACtD,C;EACC,IAAI,CAAC,GAAG,GAAG,GAAG,C;EACd,IAAI,CAAC,KAAK,GAAG,KAAK,C;AACnB,C;;;;;;;;;;;;;AAMW,2DAAU,C;;;;;;;AAMV,6DAAY,C;;;;;;;;AAKP,gEAAhB,WAAwB,CAAC,C,CACzB,C;EACC,IAAO,sBAAH,GAAU,GAAG,eAAe,C;EAEhC,GAAG,IAAI,KAAA,GAAG,GAAG,KAAK,GAAG,KAAA,KAAK,GAAG,IAAI,C;EAEjC,OAAO,GAAG,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/MetadataArg.as"],
+"names":[]
+}

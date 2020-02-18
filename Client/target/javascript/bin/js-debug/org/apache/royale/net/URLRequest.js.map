@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"URLRequest.js",
+"lineCount":86,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;AAoFwB,gCAAhB,WAA0B,CAAC,GAAiB,C,CAC5C,C;;;qBAtBgC,mCAAa,CAAC,gB;gBAUzB,mCAAa,CAAC,G;EAaxB,C;EACP,IAAG,GAAG,IAAI,IAAI,EACd,C;IACI,IAAI,CAAC,GAAG,GAAG,GAAG,C;EAClB,C;EACA,IAAI,CAAC,cAAc,GAAG,CAAC,CAAC,C;AAC5B,C;;;;;;;;;;;;;AAjDK,8CAAU,C;;;;;;;AAUJ,+CAAW,C;;;;;;;AAUX,sDAAmD,C;;;;;;;AAUzD,iDAAiC,C;;;;;;;AAChC,2FAAqB,C;;;yEA4BO,CAAC,C,CACnC,C;EACI,OAAO,KAAA,gDAAe,C;AAC1B,C;;;yEAUkC,CAAC,KAAW,C,CAC9C,C;EACL,KAAA,gDAAe,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Network/src/main/royale/org/apache/royale/net/URLRequest.as"],
+"names":[]
+}

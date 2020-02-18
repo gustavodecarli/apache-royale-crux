@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SimpleHorizontalLayout.js",
+"lineCount":85,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAsDkB,4DAAhB,WAAsC,CAAC,C,CACvC,C;wFACQ,C;AACR,C;;;;;;;;;;;;;;;AAKoB,8EAAwB,GAAG,mBAAmB,C;;;;;;;;;;;;;;;AAYzC,wFAAzB,WAA0C,CAAC,KAAkB,C,CAC7D,C;;wGAC0B,C;EAIxB,IAAI,KAAA,aAAa,CAAC,QAAQ,CAAC,QAAQ,CAAC,C;IACnC,KAAA,aAAa,CAAC,MAAM,CAAC,QAAQ,CAAC,C;EAC/B,KAAA,aAAa,CAAC,GAAG,CAAC,QAAQ,CAAC,C;EAC3B,IAAG,KAAA,aAAa,CAAC,QAAQ,CAAC,YAAY,CAAC,C;IACtC,KAAA,aAAa,CAAC,MAAM,CAAC,YAAY,CAAC,C;EACnC,KAAA,aAAa,CAAC,GAAG,CAAC,YAAY,CAAC,C;AAEjC,C;;;;;;;;;;;;;;;AAYyB,6EAAzB,WAA+B,CAAC,C,CAChC,C;;EA2Fc,OAAO,IAAI,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/layouts/SimpleHorizontalLayout.as"],
+"names":[]
+}

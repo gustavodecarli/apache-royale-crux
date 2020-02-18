@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"SeleccionarEvent.js",
+"lineCount":49,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AAoCkB,yCAAhB,WAAgC,CAAE,IAAY,C,CAC9C,C;sEACQ,I,EAAM,I,CAAM,C;AACpB,C;;;;;;;;;;;;;;;AAZoB,qDAAoB,GAAG,aAAa,C;;;;;;;AAE7C,0DAAA;",
+"sources":["../../../../../src/main/royale/entidadesbasicas/eventos/SeleccionarEvent.as"],
+"names":[]
+}

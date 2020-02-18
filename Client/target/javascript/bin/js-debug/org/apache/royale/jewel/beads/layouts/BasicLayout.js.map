@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"BasicLayout.js",
+"lineCount":79,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAiDkB,iDAAhB,WAA2B,CAAC,C,CAC5B,C;6EACQ,C;AACR,C;;;;;;;;;;;;;;;AAKoB,mEAAwB,GAAG,cAAc,C;;;;;;;;;;;;;;;AAYpC,6EAAzB,WAA0C,CAAC,KAAkB,C,CAC7D,C;;6FAC0B,C;EAIxB,IAAI,KAAA,aAAa,CAAC,QAAQ,CAAC,QAAQ,CAAC,C;IACnC,KAAA,aAAa,CAAC,MAAM,CAAC,QAAQ,CAAC,C;EAC/B,KAAA,aAAa,CAAC,GAAG,CAAC,QAAQ,CAAC,C;EAC3B,IAAG,KAAA,aAAa,CAAC,QAAQ,CAAC,OAAO,CAAC,C;IACjC,KAAA,aAAa,CAAC,MAAM,CAAC,OAAO,CAAC,C;EAC9B,KAAA,aAAa,CAAC,GAAG,CAAC,OAAO,CAAC,C;AAE5B,C;;;;;;;;;AAMyB,kEAAzB,WAA+B,CAAC,C,CAChC,C;;EAqIc,OAAO,IAAI,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/layouts/BasicLayout.as"],
+"names":[]
+}

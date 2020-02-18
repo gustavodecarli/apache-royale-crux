@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IViewCursor.js",
+"lineCount":354,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;uDAiNoB,CAAC,MAAa,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;yDAyCZ,CAAC,MAAa,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;wDAyCf,CAAC,MAAa,C;;;;;;;;;;;;;;;;;;sDAgBhB,CAAC,IAAW,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;wDAuCV,CAAC,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4DAwCG,CAAC,C;;;;;;;;;;;;;;;;;;;;;;;;;;sDAwBP,CAAC,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;oDAoDH,CAAC,QAAuB,EAAE,MAAc,EAAE,QAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/collections/IViewCursor.as"],
+"names":[]
+}

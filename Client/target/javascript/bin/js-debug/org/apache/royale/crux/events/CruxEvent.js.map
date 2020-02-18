@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CruxEvent.js",
+"lineCount":75,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AA6BkB,uCAAhB,WAAyB,CAAE,IAAW,EAAE,IAAkB,C,CAC1D,C;;oEACQ,I,EAAM,I,EAAM,I,CAAM,C;EACzB,IAAI,CAAC,IAAI,GAAG,IAAI,C;AACjB,C;;;;;;;;;;;;;;;AAMoB,+CAAc,GAAG,aAAa,C;;;;;;;;AAM9B,qDAAoB,GAAG,cAAc,C;;;;;;;;AAMrC,iDAAgB,GAAG,eAAe,C;;;;;;;AAM3C,sDAAU,C;;;;;;;;AAMI,4DAAzB,WAAmC,CAAC,C,CACpC,C;EACC,OAAO,IAAI,uCAAS,CAAE,KAAA,IAAI,EAAE,KAAA,IAAK,CAAC,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/events/CruxEvent.as"],
+"names":[]
+}

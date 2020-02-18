@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Bean.js",
+"lineCount":94,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AA6BkB,2BAAhB,WAAoB,CAAC,MAAe,EAAE,IAAkB,EAAE,cAAoC,C,CAC9F,C;;;;EACC,IAAI,CAAC,MAAM,GAAG,MAAM,C;EACpB,IAAI,CAAC,IAAI,GAAG,IAAI,C;EAChB,IAAI,CAAC,cAAc,GAAG,cAAc,C;AACrC,C;;;;;;;;;;;;;AAEoB,6CAAS,C;;;;;;;AAclB,0CAAW,C;;;;;;;AAMX,oDAA6B,C;;;;;;;AAM7B,iDAAwB,C;;;;;;;AAMxB,iDAAmB,GAAG,KAAK,C;;;;;;;AAOtB,8CAAhB,WAAwB,CAAC,C,CACzB,C;EACC,OAAO,gBAAgB,GAAG,KAAA,MAAM,GAAG,UAAU,GAAG,KAAA,IAAI,GAAG,IAAI,C;AAC5D,C;;;4DAzCgC,CAAC,C,CACjC,C;EACC,OAAO,KAAA,OAAO,C;AACf,C;;;4DAC0B,CAAC,KAAO,C,CAClC,C;EACC,KAAA,OAAO,GAAG,KAAK,C;AAChB,C;;;0DA0BwB,CAAC,C,CACzB,C;EACC,OAAO,KAAA,MAAM,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/Bean.as"],
+"names":[]
+}

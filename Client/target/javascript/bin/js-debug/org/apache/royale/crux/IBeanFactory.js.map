@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IBeanFactory.js",
+"lineCount":88,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8DAmBsB,CAAE,IAAW,C;;iEAChB,CAAC,C;;;;;;kEAEA,CAAE,IAAU,C;;;;;;;;gEACd,CAAE,IAAS,EAAE,aAA6B,C;;;;;;;wEAClC,CAAE,YAA0B,EAAE,cAA8B,C;;;;;;qEAE/D,CAAE,IAAU,C;;;;;;mEACd,CAAE,IAAU,C;;;;;;2EACJ,CAAE,YAA2B,C;;;;;;;;;sEAGlC,CAAE,IAAY,C;;;;;;;sEACd,CAAE,IAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/IBeanFactory.as"],
+"names":[]
+}

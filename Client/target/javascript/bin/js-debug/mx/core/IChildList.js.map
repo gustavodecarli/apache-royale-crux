@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IChildList.js",
+"lineCount":248,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;gDAmHkB,CAAC,KAAkB,C;;;;;;;;;;;;;;;;;;;;;;;;;;;kDAwBjB,CAAC,KAAkB,EAAE,KAAS,C;;;;;;;;;;;;;;;;;;;;;;;;mDAsB7B,CAAC,KAAkB,C;;;;;;;;;;;;;;;;;;;;;;;;qDAsBjB,CAAC,KAAS,C;;;;;;;;;;;;;;;;;;kDAgBX,CAAC,KAAS,C;;;;;;;;;;;;;;;;;;sDAgBN,CAAC,IAAW,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;qDA6Cb,CAAC,KAAkB,C;;;;;;;;;;;;;;;;;;;;qDAkBrB,CAAC,KAAkB,EAAE,QAAY,C;;;;;;;;;;;;;;;;;;;;gDAkBtC,CAAC,KAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/core/IChildList.as"],
+"names":[]
+}

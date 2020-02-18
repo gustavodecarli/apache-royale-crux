@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"createEventInit.js",
+"lineCount":25,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;6CAwBI,WAA+B,CAAC,OAAuB,EACvB,UADwF,C,CAExH,C;;;EACI,OAAO,CAAE,SAAS,CAAE,OAAO,EAAE,YAAY,CAAE,UAAW,CAAsB,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/conversions/createEventInit.as"],
+"names":[]
+}

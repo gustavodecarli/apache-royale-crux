@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {   
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch",
+            // "url" : "http://localhost:8080/CairngormServer/",
+            //////// "webRoot" : "${workspaceFolder}/bin/js-debug",
+            "file": "${workspaceRoot}/target/bin/js-debug/index.html",
+            //"file" : "http://localhost:8080/CairngormServer/index.html",
+           //  "webRoot": "http://localhost:8080/CairngormServer/",
+            "preLaunchTask": "build",
+            "runtimeArgs": [
+                "--disable-web-security"
+             ],
+        },
+
+
+    ]
+}

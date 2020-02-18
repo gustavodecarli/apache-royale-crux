@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ConfigMap.js",
+"lineCount":58,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAkEoB,6BAAhB,WAAyB,CAAC,IAAkB,C,CAC5C,C;;yDACW,C;EAEP,IAAI,CAAC,IAAI,C;IACL,IAAI,GAAG,CAAC,CAAC,C;EACb,KAAA,mCAAK,GAAG,IAAI,C;EAElB,KAAA,wDAAY,GAAG,CAAC,CAAC,C;AACf,C;;;;;;;;;;;;;AAiBgB,gGAAkB,C;;;;;;;AAetB,2EAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/config/ConfigMap.as"],
+"names":[]
+}

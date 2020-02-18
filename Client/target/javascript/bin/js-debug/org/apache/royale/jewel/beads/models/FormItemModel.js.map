@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"FormItemModel.js",
+"lineCount":76,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AA0CkB,kDAAhB,WAA6B,CAAC,C,CAC9B,C;;wEA2CiC,gDAAS,CAAC,K;8EA1CnC,C;AACR,C;;;;;;;;;;;;;;AAEkB,yHAAiB,C;;;;;;;AAuCvB,2HAAoC,C;;;qFAnBd,CAAC,C,CACnC,C;EACC,OAAO,KAAA,4DAAS,C;AACjB,C;;;qFAK4B,CAAC,KAAa,C,CAC1C,C;EACU,IAAI,KAAK,IAAI,IAAI,C;IACb,KAAK,G,GAAG,E,CAAE,C;EACvB,IAAI,KAAK,IAAI,KAAA,4DAAS,EACtB,C;IACC,KAAA,4DAAS,GAAG,KAAK,C;IACjB,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,gBAAgB,CAAC,CAAC,C;EAC3C,C;AACD,C;;;uFAW8B,CAAC,C,CAC/B,C;EACC,OAAO,KAAA,8DAAW,C;AACnB,C;;;uFAE8B,CAAC,KAAY,C,CAC3C,C;EACC,KAAA,8DAAW,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/models/FormItemModel.as"],
+"names":[]
+}

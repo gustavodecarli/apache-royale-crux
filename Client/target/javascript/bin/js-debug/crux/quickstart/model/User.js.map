@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"User.js",
+"lineCount":73,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAqBa,uC,KAAQ,C;;;;;;;AACR,8C,QAAkB,C;;;;;;;AAClB,6C,QAAiB,C;;;;;;;AACjB,0C,QAAc,C;;;;;;;AAGT,0CAAhB,WAAqB,CAAC,C,CAAM,C;AAC3B,IAAO,0CAAH,GAAQ,GAAG,IAAI,0BAAI,CAAC,CAAC,C;AACzB,GAAG,CAAC,EAAE,GAAG,KAAA,EAAE,C;AACX,GAAG,CAAC,SAAS,GAAG,KAAA,SAAS,C;AACzB,GAAG,CAAC,QAAQ,GAAG,KAAA,QAAQ,C;AACvB,GAAG,CAAC,KAAK,GAAG,KAAA,KAAK,C;AACjB,OAAO,GAAG,CAAA;",
+"sources":["../../../../../../../src/main/royale/crux/quickstart/model/User.as"],
+"names":[]
+}

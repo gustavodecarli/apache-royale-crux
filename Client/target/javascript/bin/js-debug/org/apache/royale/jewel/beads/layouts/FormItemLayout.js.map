@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"FormItemLayout.js",
+"lineCount":76,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAiDkB,oDAAhB,WAA8B,CAAC,C,CAC/B,C;gFACQ,C;AACR,C;;;;;;;;;;;;;;;AAKoB,sEAAwB,GAAG,iBAAiB,C;;;;;;;;;;;;;;;AAYvC,gFAAzB,WAA0C,CAAC,KAAkB,C,CAC7D,C;;gGAC0B,C;EAIxB,IAAG,KAAA,aAAa,CAAC,QAAQ,CAAC,UAAU,CAAC,C;IACpC,KAAA,aAAa,CAAC,MAAM,CAAC,UAAU,CAAC,C;EACjC,KAAA,aAAa,CAAC,GAAG,CAAC,UAAU,CAAC,C;AAE/B,C;;;;;;;;;AAMyB,qEAAzB,WAA+B,CAAC,C,CAChC,C;;EAsBc,OAAO,IAAI,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/layouts/FormItemLayout.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"DispatcherBead.js",
+"lineCount":59,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AAiCoB,qCAAhB,WAA8B,CAAC,MAA8B,C,CAC7D,C;;kEACU,M,CAAO,C;AACjB,C;;;;;;;;;;;;;;AAkBY,uDAAe,C;;;;;;;;;;;AAeR,8DAAnB,WAAiC,CAAC,SAAgB,EAAC,OAAgB,EAAC,OAAqB,C,CACzF,C;;EACG,KAAA,OAA2B,CAAE,gBAAgB,CAAC,SAAS,EAAE,OAAO,EAAE,OAAO,CAAC,C;AAC7E,C;;;sEAZwB,CAAC,KAAa,C,CACxC,C;EACC,KAAA,OAAO,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/DispatcherBead.as"],
+"names":[]
+}

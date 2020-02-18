@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"RemotingMessage.js",
+"lineCount":71,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;AAsDoB,qCAAhB,WAA+B,CAAC,C,CAChC,C;iEACW,C;EACP,KAAA,SAAS,GAAG,EAAE,C;AAClB,C;;;;;;;;;;;;;;AAQY,gGAAiB,C;;;;;;;AAqBjB,6FAAc,C;;;yEATG,CAAC,C,CAC9B,C;EACI,OAAO,KAAA,gDAAU,C;AACrB,C;;;yEAC6B,CAAC,KAAY,C,CAC1C,C;EACI,KAAA,gDAAU,GAAG,KAAK,C;AACtB,C;;;sEAiB0B,CAAC,C,CAC3B,C;EACI,OAAO,KAAA,6CAAO,C;AAClB,C;;;sEAC0B,CAAC,KAAY,C,CACvC,C;EACI,KAAA,6CAAO,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/messages/RemotingMessage.as"],
+"names":[]
+}

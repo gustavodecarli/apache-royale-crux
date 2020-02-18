@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Bead.js",
+"lineCount":53,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;AAgCoB,2BAAhB,WAAoB,CAAC,C;;;;;;;;;;;;;;AAqBT,6CAAe,C;;;;;;;;;;;AAeR,oDAAnB,WAAiC,CAAC,SAAgB,EAAC,OAAgB,EAAC,OAAqB,C,CACzF,C;;EACG,KAAA,OAA2B,CAAE,gBAAgB,CAAC,SAAS,EAAE,OAAO,EAAE,OAAO,CAAC,C;AAC7E,C;;;4DAZwB,CAAC,KAAa,C,CACxC,C;EACC,KAAA,OAAO,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/Bead.as"],
+"names":[]
+}

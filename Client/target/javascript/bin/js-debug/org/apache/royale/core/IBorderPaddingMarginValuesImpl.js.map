@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IBorderPaddingMarginValuesImpl.js",
+"lineCount":138,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0FA6CgC,CAAC,UAAkB,EAAE,KAAmB,C;;;;;;;;;;;;;;2FAU7C,CAAC,UAAkB,EAAE,KAAmB,C;;;;;;;;;;;;;;;;4FAUjC,CAAC,UAAkB,EAAE,SAAsB,EAAE,UAAuB,EAAE,KAAmB,C;;;;;;;;;;;;;;;;;qGAWhF,CAAC,UAAkB,EAAE,SAAsB,EAAE,UAAuB,EAAE,KAAmB,C;;;;;;;;;;;;;;;;;;qFAYzG,CAAC,UAAkB,EAAE,SAAsB,EAAE,UAAuB,EAAE,KAAmB,C;;;;;;;;;;;;;;;;uFAUvF,CAAC,UAAkB,EAAE,SAAsB,EAAE,UAAuB,EAAE,KAAmB,C;;;;;;;;;;;;;;;;qGAU3E,CAAC,UAAkB,EAAE,SAAsB,EAAE,UAAuB,EAAE,KAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IBorderPaddingMarginValuesImpl.as"],
+"names":[]
+}

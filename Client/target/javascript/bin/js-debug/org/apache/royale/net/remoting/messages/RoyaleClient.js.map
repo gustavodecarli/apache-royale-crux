@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"RoyaleClient.js",
+"lineCount":88,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AA+GwB,oDAAhB,WAA4B,CAAC,C,CAC7B,C;gFACW,C;AACX,C;;;;;;;;;;;;;;;AAvDoB,yEAA2B,GAAG,KAAK,C;;;;;;;AAYpC,8DAAsB,C;;;;;;;;;;;;;;;;;;AAqBlB,gEAAvB,WAAkC,CAAC,C,CACnC,C;EACI,IAAI,qDAAA,SAAS,IAAI,IAAI,EAAC,C;IAClB,qDAAA,SAAS,GAAG,IAAI,oDAAY,CAAC,CAAC,C;EAClC,C;EAEA,OAAA,qDAAO,SAAS,C;AACpB,C;;;;;;;AAgCY,uHAAU,GAAG,IAAI,C;;;iFAeP,CAAC,C,CACvB,C;EACI,OAAO,KAAA,wDAAG,C;AACd,C;;;iFAKsB,CAAC,KAAY,C,CACnC,C;EACI,IAAI,KAAA,wDAAG,IAAI,KAAK,EAChB,C;IAEI,KAAA,wDAAG,GAAG,KAAK,C;EAEf,CAAA;",
+"sources":["frameworks/projects/Network/src/main/royale/org/apache/royale/net/remoting/messages/RoyaleClient.as"],
+"names":[]
+}

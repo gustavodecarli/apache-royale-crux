@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"BindableMetadataHost.js",
+"lineCount":44,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;AAyBkB,sDAAhB,WAAoC,CAAC,C,CACrC,C;kFACQ,C;AACR,C;;;;;;;;;;2FAK8B,CAAC,C,CAC/B,C;EACmC,0BAAA,KAAA,YAAA,C;EAAlC,KAAkC,gBAAJ,IAAI,mBAAa,E;;EAArC,UAAwB,kC;EAClC,C;IACC,IAAI,GAAG,CAAC,IAAI,IAAI,UAAU,C;MACzB,OAAO,IAAI,C;EACb,C;;EAEA,OAAO,KAAK,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/BindableMetadataHost.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ResourceManager.js",
+"lineCount":61,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmEuB,gDAAuC,C;;;;;;;AAMvC,qCAAyB,C;;;;;;;;;;;;;;;;AAmBrB,wCAAvB,WAAkC,CAAC,C,CACnC,C;EACI,IAAI,CAAA,6BAAC,QAAQ,EACb,C;IAwBL,IAAI,CAAA,6BAAC,QAAQ,C;MACZ,6BAAA,QAAQ,GAAG,IAAI,gCAAmB,CAAC,CAAC,C;EAEhC,C;EAEA,OAAA,6BAAO,QAAQ,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/resources/ResourceManager.as"],
+"names":[]
+}

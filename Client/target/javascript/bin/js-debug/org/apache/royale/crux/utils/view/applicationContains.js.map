@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"applicationContains.js",
+"lineCount":35,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;qDA8CC,WAAmC,CAAC,SAAmB,EAAE,OAAc,C,CAAU,C;EAChF,IAAI,CAAC,OAAO,C;IAAE,OAAO,KAAK,C;EAC1B,IAAI,CAAC,SAAS,C;IAAE,OAAO,KAAK,C;;EAM3B,OAAQ,SAA2B,CAAE,OAAO,CAAC,QAAQ,CAAC,OAAO,CAAC,OAAO,CAAC,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/utils/view/applicationContains.as"],
+"names":[]
+}

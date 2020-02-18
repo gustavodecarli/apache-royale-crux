@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"DefinitionBase.js",
+"lineCount":53,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;AA+BwB,2CAAhB,WAA8B,CAAC,IAAW,EAAE,OAAqB,C,CACjE,C;;EACI,KAAA,KAAK,GAAG,IAAI,C;EACZ,KAAA,QAAQ,GAAG,OAAO,C;AACtB,C;;;;;;;;;;;;;AAEc,2DAAY,C;;;;;;;AAMZ,8DAAe,C;;;0EALL,CAAC,C,CACzB,C;EACI,OAAO,KAAA,KAAK,C;AAChB,C;;;6EAI8B,CAAC,C,CAC/B,C;EACI,OAAO,KAAA,QAAQ,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/DefinitionBase.as"],
+"names":[]
+}

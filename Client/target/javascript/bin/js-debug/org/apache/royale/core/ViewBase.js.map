@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ViewBase.js",
+"lineCount":70,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA6DkB,+BAAhB,WAAwB,CAAC,C,CACzB,C;2DACQ,C;EAEP,KAAA,SAAS,GAAG,QAAQ,C;AACrB,C;;;;;;;;;;;;;;AAEY,2FAAwB,C;;;0EAcA,CAAC,C,CACrC,C;EACC,OAAO,KAAA,iDAAiB,C;AACzB,C;;;0EAK0C,CAAC,KAAY,C,CACjD,C;EACI,KAAA,iDAAiB,GAAG,KAAK,C;EACzB,iCAAS,CAAC,IAAI,EAAC,cAAc,CAAC,C;AAClC,C;;;qEAU+B,CAAC,C,CAChC,C;EACI,OAAO,IAAI,C;AACf,C;;;mEAI6B,CAAC,C,CAC9B,C;EACI,OAAO,IAAI,CAAA;",
+"sources":["frameworks/projects/Basic/src/main/royale/org/apache/royale/core/ViewBase.as"],
+"names":[]
+}

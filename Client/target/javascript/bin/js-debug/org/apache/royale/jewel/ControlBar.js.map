@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ControlBar.js",
+"lineCount":59,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA8DkB,kCAAhB,WAA0B,CAAC,C,CAC3B,C;8DACQ,C;EAEP,KAAA,SAAS,GAAG,kBAAkB,C;AAC/B,C;;;;;;;;;;;;;;;AAKyB,0DAAzB,WAAsC,CAAC,C,CACvC,C;0EACsB,C;EACrB,iDAAyB,CAAC,kCAAW,EAAE,aAAa,EAAE,IAAI,CAAC,C;AAC5D,C;;;;;;;;AAMkC,0DAA5B,WAAyC,CAAC,C,CAC1C,C;EACL,OAAO,+CAAmB,CAAC,IAAI,EAAC,KAAK,CAAC,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/ControlBar.as"],
+"names":[]
+}

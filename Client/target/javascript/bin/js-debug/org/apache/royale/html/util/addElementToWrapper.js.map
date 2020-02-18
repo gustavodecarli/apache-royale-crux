@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"addElementToWrapper.js",
+"lineCount":26,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;+CA8BI,WAAmC,CAAC,OAAc,EAAC,IAAW,C,CAC9D,C;EACI,IAAQ,sBAAJ,IAAuB,GAAG,QAAQ,CAAC,aAAa,CAAC,IAAI,CAAuB,C;EACrF,OAAO,CAAC,OAAO,GAAG,IAAI,C;EACb,OAAO,IAAI,CAAA;",
+"sources":["frameworks/projects/Basic/src/main/royale/org/apache/royale/html/util/addElementToWrapper.as"],
+"names":[]
+}

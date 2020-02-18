@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Operation.js",
+"lineCount":47,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;AAuDoB,8BAAhB,WAAyB,CAAC,YAAgD,EAAE,IAAkB,C,CAC9F,C;;;2DACU,Y,EAAc,I,CAAK,C;AAE7B,C;;;;;;;;;;;;;;;;AA2B8B,gGAA9B,WAAyC,CAAC,C,CAC1C,C;EACI,O,wCAAO,KAAA,wD,mBAAe,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/rpc/remoting/mxml/Operation.as"],
+"names":[]
+}

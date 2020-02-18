@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ICursorManager.js",
+"lineCount":68,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0DAsCoB,CAAC,C;;0DACD,CAAC,C;;;;;;;;;;yDACF,CAAC,WAAiB,EAAE,QAAgB,EACpD,OAAkB,EAAE,OAD4E,C;;;;;;4DAE7E,CAAC,QAAY,C;;gEACT,CAAC,C;;6DACJ,CAAC,C;;gEACE,CAAC,C;;;;;;uEAEM,CAAC,MAAa,C;;;;;;yEACZ,CAAC,MAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/managers/ICursorManager.as"],
+"names":[]
+}

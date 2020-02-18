@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"BeadViewBase.js",
+"lineCount":42,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA0CkB,mCAAhB,WAA4B,CAAC,C,CAC7B,C;+DACQ,C;AACR,C;;;;;;;;;;kEAW8B,CAAC,C,CACzB,C;EACI,OAAO,KAAA,OAAkB,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/BeadViewBase.as"],
+"names":[]
+}

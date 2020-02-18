@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IBeanProvider.js",
+"lineCount":41,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iEAqBkB,CAAE,IAAU,C;;;;;;oEACT,CAAE,IAAU,C;;oEACN,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/IBeanProvider.as"],
+"names":[]
+}

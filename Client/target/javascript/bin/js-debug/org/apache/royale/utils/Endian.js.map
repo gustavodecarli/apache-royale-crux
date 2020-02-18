@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Endian.js",
+"lineCount":53,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAsCsB,yCAAiB,GAAG,WAAW,C;;;;;;;;AAU/B,4CAAoB,GAAG,cAAc,C;;;;;;;AA6BtC,yCAMd,C;;;2DAjBkC,CAAC,C,CAAS,C;;EAK/C,OAAA,+BAAO,UAAU,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/Endian.as"],
+"names":[]
+}

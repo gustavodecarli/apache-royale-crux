@@ -1,0 +1,56 @@
+<j:Application xmlns:fx="http://ns.adobe.com/mxml/2009"
+               xmlns:j="library://ns.apache.org/royale/jewel"
+               xmlns:js="library://ns.apache.org/royale/basic"
+               xmlns:crux="library://ns.apache.org/royale/crux"
+               xmlns:mx="library://ns.apache.org/royale/mx"
+               xmlns:config="entidadesbasicas.config.*"
+               xmlns:view="entidadesbasicas.vistas.*"
+               initialize="setUp()">
+    <fx:Script>
+		<![CDATA[
+        import org.apache.royale.reflection.registerClassAlias;
+        import org.apache.royale.collections.ArrayList;
+
+
+       
+
+        public function setUp():void {
+            trace('application setUp stub');
+
+             registerClassAlias("flex.messaging.io.ArrayCollection", ArrayList);
+        }
+        ]]>
+	</fx:Script>
+
+    <j:beads>
+        <!-- support for simulated stage events in javascript (needed for Crux view processing)-->
+        <crux:JSStageEvents packageExclusionFilter="_default_"/>
+        <!-- BeanProviders simply contain the non-display objects that Crux should process. -->
+        <crux:Crux>
+            <crux:beanProviders>
+                <config:Beans/>
+            </crux:beanProviders>
+
+            <crux:config>
+            <!-- eventPackages value tells Crux the path to your Event classes, viewPackages is an optional value that speeds up processing of display classes. -->
+                <crux:CruxConfig
+                    eventPackages="entidadesbasicas.eventos.*"
+                    viewPackages="entidadesbasicas.vistas.*"/>
+            </crux:config>
+        </crux:Crux>
+        <js:ClassAliasBead />
+    </j:beads>
+
+
+
+
+    <j:valuesImpl>
+        <js:SimpleCSSValuesImpl />
+    </j:valuesImpl>
+
+    <j:initialView>
+            <j:View>
+                <view:MonedaForm id="monedaForm" />
+            </j:View>
+     </j:initialView>
+</j:Application>

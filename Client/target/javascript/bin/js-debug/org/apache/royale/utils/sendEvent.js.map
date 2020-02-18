@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"sendEvent.js",
+"lineCount":27,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;iCAkCE,WAAyB,CAAC,UAA2B,EAAC,KAAY,C,CAClE,C;;EAQM,OAAQ,UAA8B,CAAE,aAAa,CAAC,KAAK,CAAC,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/sendEvent.as"],
+"names":[]
+}

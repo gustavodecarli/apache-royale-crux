@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"AbstractEvent.js",
+"lineCount":74,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AA4CoB,2BAAhB,WAA6B,CAAC,IAAW,EAAE,OAAuB,EAAE,UAAyB,EACzF,KAAuB,EAAE,OAD4H,C,CAEzJ,C;;;;;wDACU,I,EAAM,O,EAAS,U,EAAY,O,CAAQ,C;EAEzC,KAAA,kCAAM,GAAG,KAAK,C;AAClB,C;;;;;;;;;;;;;;AAXY,wEAAiB,C;;;;;;;AA0BR,0FAArB,WAA6B,CAAC,CAAY,C,CAC1C,C;EACI,KAAA,kCAAM,GAAG,CAAC,C;AACd,C;;;;;;;;;;;;AAUqB,qGAArB,WAAwC,CAAC,C,CACzC,C;AACA,C;;;2DApByB,CAAC,C,CAC1B,C;EACI,OAAO,KAAA,kCAAM,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/rpc/events/AbstractEvent.as"],
+"names":[]
+}

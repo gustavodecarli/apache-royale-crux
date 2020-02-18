@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"AbstractAsynchronousOperation.js",
+"lineCount":95,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;AA2CkB,gEAAhB,WAA6C,CAAC,C,CAC9C,C;;oBAViC,CAAC,C;EAW1B,C;AACR,C;;;;;;;;;;;;;AAlBc,oFAAiB,GAAG,KAAK,C;;;;;;;AAMzB,qFAAqB,C;;;;;;;;AAqBnB,uFAAhB,WAA4B,CAAE,SAAqB,C,CACnD,C;EACC,KAAA,UAAU,CAAC,IAAI,CAAE,SAAU,CAAC,C;AAC7B,C;;;;;;;;AAKgB,mFAAhB,WAAwB,CAAE,IAAY,C,CACtC,C;EACC,IAAK,CAAE,KAAA,SAAS,EAChB,C;IACwC,0BAAA,KAAA,UAAA,C;IAAvC,KAAuC,gBAAJ,IAAI,mBAAW,E;;IAAvC,gBAA4B,kC;IACvC,C;MACC,SAAS,CAAC,MAAM,CAAE,IAAK,CAAC,C;IACzB,C;;IAEA,KAAA,SAAS,GAAG,IAAI,C;EACjB,C,CACA,KACA,C;EAEA,C;AACD,C;;;;;;;;AAKgB,+EAAhB,WAAoB,CAAE,IAAY,C,CAClC,C;EACC,IAAK,CAAE,KAAA,SAAS,EAChB,C;IACwC,0BAAA,KAAA,UAAA,C;IAAvC,KAAuC,gBAAJ,IAAI,mBAAW,E;;IAAvC,gBAA4B,kC;IACvC,C;MACC,SAAS,CAAC,KAAK,CAAE,IAAK,CAAC,C;IACxB,C;;IAEA,KAAA,SAAS,GAAG,IAAI,C;EACjB,C,CACA,KACA,C;EAEA,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/utils/async/AbstractAsynchronousOperation.as"],
+"names":[]
+}

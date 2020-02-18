@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ParameterDefinition.js",
+"lineCount":59,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AAgCwB,gDAAhB,WAAmC,CAAE,KAAU,EAAE,OAAc,C,CAC/D,C;6EACU,YAAY,GAAC,K,EAAO,O,CAAQ,C;AACtC,C;;;;;;;;;;;;;;;AA4CU,mEAAhB,WAAwB,CAAC,C,CAAQ,C;EAChC,OAAO,KAAA,KAAK,GAAC,aAAa,GAAC,KAAA,QAAQ,GAAC,SAAS,GAAC,KAAA,IAAI,CAAC,aAAa,C;AACjE,C;;;+EAzCwB,CAAC,C,CAAgB,C;;EAMvC,OAAO,2CAAc,CAAC,qBAAqB,C,wCAAC,KAAA,QAAQ,CAAC,I,CAAI,CAAC,C;AAG5D,C;;;mFAI4B,CAAC,C,CAAU,C;;EAMrC,O,GAAO,KAAA,QAAQ,CAAC,Q,CAAQ,C;AAG1B,C;;;gFAIyB,CAAC,C,CAAM,C;;EAM9B,O,CAAO,KAAA,QAAQ,CAAC,K,OAAK,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/ParameterDefinition.as"],
+"names":[]
+}

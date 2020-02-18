@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"View.js",
+"lineCount":112,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AA4CkB,4BAAhB,WAAoB,CAAC,C,CACrB,C;;oDAKmC,I;wDAJ3B,C;AACR,C;;;;;;;;;;;;;;AAEY,mFAAqB,C;;;;;;;AACrB,iFAA2B,C;;;;;;;AAC3B,gFAAoB,C;;;;;;;;AAKP,oDAAzB,WAAsC,CAAC,C,CACvC,C;EACC,IAAI,CAAC,KAAA,yCAAY,EACjB,C;IAEC,oCAAc,cAAU,CAAC,IAAI,CAAC,IAAI,CAAC,C;EACpC,C;oEAEqB,C;EAErB,IAAI,CAAC,KAAA,yCAAY,EACjB,C;IACC,2CAAmB,CAAC,qBAAqB,CAAC,KAAA,0CAAa,EAAE,IAAI,EAAE,KAAA,cAAc,CAAC,C;IAE9E,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,cAAc,CAAC,CAAC,C;IACxC,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,cAAc,CAAC,CAAC,C;IACxC,KAAA,yCAAY,GAAG,IAAI,C;EAGpB,C;AACD,C;;;;;;;;;AAkBgB,wDAAhB,WAAiC,CAAC,QAAe,EAAE,KAAW,C,CAC9D,C;EACC,KAAA,0CAAa,GAAG,QAAQ,C;EACxB,KAAA,4CAAe,GAAG,KAAK,C;AACxB,C;;;;;;;;;;;;;AAUgB,6DAAhB,WAAsC,CAAC,IAAU,C,CACjD,C;EACC,2CAAmB,CAAC,sBAAsB,CAAC,IAAI,EAAE,IAAI,CAAC,C;AACvD,C;;;;;;;AAYW,kDAAiB,C;;;qEArCM,CAAC,C,CACnC,C;EACC,OAAO,KAAA,4CAAe,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/View.as"],
+"names":[]
+}

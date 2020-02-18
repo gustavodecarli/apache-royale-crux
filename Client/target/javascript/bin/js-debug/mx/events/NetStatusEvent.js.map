@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"NetStatusEvent.js",
+"lineCount":67,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA+FiB,wBAAhB,WAA8B,CAAC,IAAW,EAAE,OAAuB,EAC3D,UAA0B,EAAE,IADoG,C,CAGxI,C;;;;qDACO,I,EAAM,O,EAAS,U,CAAW,C;EAChC,IAAI,CAAC,IAAI,GAAG,IAAI,C;AACjB,C;;;;;;;;;;;;;;;AArCoB,mCAAiB,GAAG,WAAW,C;;;;;;;AAwCxC,uCAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/events/NetStatusEvent.as"],
+"names":[]
+}

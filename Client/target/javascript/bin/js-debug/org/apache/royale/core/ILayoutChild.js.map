@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ILayoutChild.js",
+"lineCount":146,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;kEAgG0B,CAAC,KAAY,EAAE,OAAuB,C;;;;;;;;;;;;;;;;;iEAcvC,CAAC,KAAY,EAAE,OAAuB,C;;;;;;;;;;;;;;6DAY1C,CAAC,KAAY,C;;;;;;;;;;;;;;6DAYb,CAAC,KAAY,C;;;;;;;;;;;;;;;;;;;;;0EAiBA,CAAC,QAAe,EAAE,SAAgB,EAAE,OAAuB,C;;;;;;;;;;;;;8EAWvD,CAAC,C;;;;;;;;;;;;;+EAWA,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/ILayoutChild.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IMetadataHost.js",
+"lineCount":47,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;yFA6C+B,CAAE,IAAY,C;;;;;;;;yFAKd,CAAE,IAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/IMetadataHost.as"],
+"names":[]
+}

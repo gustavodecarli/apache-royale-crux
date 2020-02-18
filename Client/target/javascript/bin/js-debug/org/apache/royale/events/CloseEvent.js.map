@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CloseEvent.js",
+"lineCount":53,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AAkCkB,mCAAhB,WAA0B,CAAC,IAAW,EAAE,OAAqB,EAAE,UAAwB,EACtD,MADkH,C,CAEnJ,C;;;;gEACO,I,EAAM,O,EAAS,U,CAAW,C;EAEhC,IAAI,CAAC,MAAM,GAAG,MAAM,C;AACrB,C;;;;;;;;;;;;;;;AARoB,yCAAY,GAAG,OAAO,C;;;;;;;AAuB/B,oDAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/CloseEvent.as"],
+"names":[]
+}

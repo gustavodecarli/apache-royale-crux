@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MemberDefinitionBase.js",
+"lineCount":78,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AAgCwB,iDAAhB,WAAoC,CAAC,IAAW,EAAE,QAAgB,EAAE,KAAoB,EAAE,OAAqB,C,CAC/G,C;;EAEQ,IAAW,sBAAP,OAAW,G,CAAG,IAAI,CAAC,WAAW,CAAC,IAAI,C,MAAC,C;EACxC,IAAI,OAAO,IAAI,EAAC,EAAG,C;IACf,KAAA,sDAAI,GAAG,IAAI,CAAC,MAAM,CAAC,CAAC,EAAE,OAAO,CAAC,C;IAC9B,IAAI,GAAG,IAAI,CAAC,MAAM,CAAC,OAAO,GAAG,CAAC,CAAC,C;EACnC,C;8EAGE,I,EAAM,O,CAAQ,C;EACpB,KAAA,2DAAS,GAAG,QAAQ,C;EACpB,KAAA,wDAAM,GAAG,KAAK,C;AAClB,C;;;;;;;;;;;;;;AAGY,kHAAW,GAAG,EAAE,C;;;;;;;AAahB,uHAAiB,C;;;;;;;AAKvB,oHAAqB,C;;;+EAfJ,CAAC,C,CAAQ,C;;EAO5B,OAAO,KAAA,sDAAI,C;AACf,C;;;oFAG4B,CAAC,C,CAAS,C;EAClC,OAAO,KAAA,2DAAS,C;AACpB,C;;;iFAGmB,CAAC,C,CAAgB,C;EACzC,OAAO,KAAA,wDAAM,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/MemberDefinitionBase.as"],
+"names":[]
+}

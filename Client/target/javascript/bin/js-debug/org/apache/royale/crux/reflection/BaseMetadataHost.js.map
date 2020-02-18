@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"BaseMetadataHost.js",
+"lineCount":110,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;AA+BkB,kDAAhB,WAAgC,CAAC,C,CACjC,C;EACC,KAAA,YAAY,GAAG,CAAC,CAAC,C;AAClB,C;;;;;;;;;;;;;AAKc,kEAAO,C;;;;;;;AAKP,kEAAW,C;;;;;;;AAKX,0EAAmB,C;;;;;;;;AA8BjB,iFAAhB,WAAoC,CAAE,IAAY,C,CAClD,C;EAC4C,0BAAA,KAAA,YAAA,C;EAA3C,KAA2C,gBAAJ,IAAI,mBAAa,E;;EAA7C,kBAAgC,kC;EAC3C,C;IACC,IAAK,WAAW,CAAC,IAAI,IAAI,IAAI,EAC5B,C;MACC,OAAO,WAAW,C;IACnB,C;EACD,C;;EACD,OAAO,IAAI,C;AACZ,C;;;;;;;;AAEgB,iFAAhB,WAAoC,CAAE,IAAY,C,CAClD,C;EACC,OAAO,KAAA,oBAAoB,CAAE,IAAK,CAAC,IAAI,IAAI,C;AAC5C,C;;;iFA3CwB,CAAC,C,CACzB,C;EACC,OAAO,KAAA,KAAK,C;AACb,C;;;iFACwB,CAAE,KAAQ,C,CAClC,C;EACC,KAAA,KAAK,GAAG,KAAK,C;AACd,C;;;iFAEwB,CAAC,C,CACzB,C;EACC,OAAO,KAAA,KAAK,C;AACb,C;;;iFACwB,CAAE,KAAY,C,CACtC,C;EACC,KAAA,KAAK,GAAG,KAAK,C;AACd,C;;;yFAGgC,CAAC,C,CACjC,C;EACC,OAAO,KAAA,aAAa,C;AACrB,C;;;yFACgC,CAAE,KAAY,C,CAC9C,C;EACC,KAAA,aAAa,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/BaseMetadataHost.as"],
+"names":[]
+}

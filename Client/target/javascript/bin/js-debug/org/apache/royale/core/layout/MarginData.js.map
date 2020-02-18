@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MarginData.js",
+"lineCount":46,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;AAgCqB,wCAAhB,WAA0B,CAAC,C;;;;;;;;;;;;;;;;AAIZ,iGAAa,C;;;uEAED,CAAC,C,CACzB,C;EACI,OAAO,KAAA,8CAAK,C;AAChB,C;;;uEACwB,CAAC,KAAa,C,CACtC,C;EACI,KAAA,8CAAK,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/layout/MarginData.as"],
+"names":[]
+}

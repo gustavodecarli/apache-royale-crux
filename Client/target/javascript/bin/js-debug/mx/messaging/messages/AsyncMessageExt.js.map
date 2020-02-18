@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"AsyncMessageExt.js",
+"lineCount":60,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AA2CoB,qCAAhB,WAA+B,CAAC,OAAyB,C,CACzD,C;;iEACW,C;EACP,KAAA,8CAAQ,GAAG,OAAO,C;AACtB,C;;;;;;;;;;;;;;AAEyB,6DAAzB,WAAsC,CAAC,MAAkB,C,CACzD,C;EACI,IAAI,KAAA,8CAAQ,IAAI,IAAI,C;IAChB,KAAA,8CAAQ,CAAC,aAAa,CAAC,MAAM,CAAC,C;EAClC,I;kFACwB,M,GAAO,C;AACnC,C;;;;;;;AAoBY,8FAAqB,C;;;yEATK,CAAC,C,CACvC,C;EAEI,IAAI,KAAA,8CAAQ,IAAI,IAAI,C;IAChB,OAAO,KAAA,8CAAQ,CAAC,SAAS,C;EAE7B,O,4EAAsB,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/messages/AsyncMessageExt.as"],
+"names":[]
+}

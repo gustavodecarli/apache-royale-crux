@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"NullLayout.js",
+"lineCount":28,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AA6CwB,gDAAhB,WAA0B,CAAC,C,CAC3B,C;4EACW,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/layouts/NullLayout.as"],
+"names":[]
+}

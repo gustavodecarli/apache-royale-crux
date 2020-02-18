@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"ModeloBase.js",
+"lineCount":49,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAMa,oD,KAAQ,C;;;;;;;AAEH,uDAAhB,WAAqB,CAAC,C,CAAY,C;AAGjC,IAAU,uDAAN,MAAiB,GAAG,IAAI,uCAAU,CAAC,CAAC,C;AACxC,MAAM,CAAC,EAAE,GAAG,KAAA,EAAE,C;AAEd,OAAO,MAAM,CAAA;",
+"sources":["../../../../../../../src/main/royale/entidadesbasicas/modelo/base/ModeloBase.as"],
+"names":[]
+}

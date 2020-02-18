@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ICollectionView.js",
+"lineCount":142,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;gEA8KyB,CAAC,C;;;;;;;;;;;;;;;;;;;;;;;;4DAqBL,CAAC,IAAW,C;;qEAuBH,CAAC,C;;oEAaF,CAAC,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+DA8BN,CAAC,IAAW,EAAE,QAAsB,EACnC,QAAsB,EAAE,QADqF,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2DA8BlH,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/collections/ICollectionView.as"],
+"names":[]
+}

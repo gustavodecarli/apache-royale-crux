@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ProgressEvent.js",
+"lineCount":91,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAyCkB,sCAAhB,WAA6B,CAAC,IAAW,EAAE,OAAqB,EAAE,UAAwB,EACjF,OAAoB,EAAE,KADkH,C,CAEjJ,C;;;;;mEACU,I,EAAM,O,EAAS,U,CAAW,C;EACnC,IAAI,CAAC,OAAO,GAAG,OAAO,C;EACtB,IAAI,CAAC,KAAK,GAAG,KAAK,C;AACnB,C;;;;;;;;;;;;;;AAUW,wDAAc,C;;;;;;;AAUd,sDAAY,C;;;;;;;;AAUH,+CAAe,GAAG,UAAU,C;;;;;;;;AAU5B,sDAAsB,GAAG,gBAAgB,C;;;;;;;;;;;;;AAUpC,2DAAzB,WAAmC,CAAC,C,CACpC,C;EACC,OAAO,IAAI,sCAAa,CAAC,KAAA,IAAI,EAAE,KAAA,OAAO,EAAE,KAAA,UAAU,EAAE,KAAA,OAAO,EAAE,KAAA,KAAK,CAAC,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/ProgressEvent.as"],
+"names":[]
+}

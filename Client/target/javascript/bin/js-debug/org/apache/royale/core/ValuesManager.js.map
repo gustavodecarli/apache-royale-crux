@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ValuesManager.js",
+"lineCount":48,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AAyCkB,oCAAhB,WAA6B,CAAC,C;;;;;;;;;;;;;;AAIX,gDAAuB,C;;;+DAaL,CAAC,C,CACtC,C;EACC,OAAA,qCAAO,WAAW,C;AACnB,C;;;+DAKqC,CAAC,KAAiB,C,CACvD,C;EACC,qCAAA,WAAW,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/ValuesManager.as"],
+"names":[]
+}

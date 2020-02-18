@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"BeanEvent.js",
+"lineCount":93,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AA+BkB,uCAAhB,WAAyB,CAAE,IAAW,EAAE,MAAe,EAAE,QAAuB,C,CAChF,C;;;oEACQ,I,EAAM,I,EAAM,I,CAAM,C;EAEzB,IAAI,CAAC,MAAM,GAAG,MAAM,C;EACpB,IAAI,CAAC,QAAQ,GAAG,QAAQ,C;AACzB,C;;;;;;;;;;;;;;;AAEoB,gDAAe,GAAG,SAAS,C;;;;;;;;AAC3B,mDAAkB,GAAG,WAAW,C;;;;;;;;AAChC,sDAAqB,GAAG,cAAc,C;;;;;;;;AACtC,mDAAkB,GAAG,YAAY,C;;;;;;;AAK1C,wDAAQ,C;;;;;;;AAKR,0DAAe,C;;;;;;;;AAMD,4DAAzB,WAAmC,CAAC,C,CACpC,C;EACC,OAAO,IAAI,uCAAS,CAAE,KAAA,IAAI,EAAE,KAAA,MAAO,CAAC,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/events/BeanEvent.as"],
+"names":[]
+}

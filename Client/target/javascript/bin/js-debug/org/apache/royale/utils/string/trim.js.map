@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"trim.js",
+"lineCount":29,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;mCA6BI,WAAoB,CAAC,GAAU,C,CAC/B,C;EACI,kCAAM,CAAC,GAAG,IAAI,IAAI,EAAC,iCAAiC,CAAC,C;;EAoBjD,OAAO,GAAG,CAAC,IAAI,CAAC,CAAC,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/string/trim.as"],
+"names":[]
+}

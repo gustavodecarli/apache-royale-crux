@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"NetConnection.js",
+"lineCount":128,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;AA2CoB,oBAAhB,WAA6B,CAAC,C,CAC9B,C;;;iCAHkC,IAAI,mDAAgB,CAAC,C;EAInD,KAAA,uBAAE,CAAC,UAAU,GAAG,kCAAY,C;AAChC,C;;;;;;;;;;;;;;AALY,sDAA4C,C;;;;;;;;;;;;;AAsB3C,oCAAhB,WAAqB,CAAC,C,CACnB,C;AAEA,C;;;;;;;AAEY,8DAAkB,C;;;;;;;AAyBnB,qCAAa,C;;;;;;;AAWb,6C,IAAmB,C;;;;;;;AAElB,wDAAW,C;;;;;;;;;;;;;;AAwBP,sCAAhB,WAAuB,CAAC,GAAU,C,CAClC,C;EACI,KAAA,yBAAI,GAAG,GAAG,C;EACV,KAAA,uBAAE,CAAC,OAAO,CAAC,GAAG,CAAC,C;AACnB,C;;;;;;;;;;;;;;;;AAWgB,mCAAhB,WAAoB,CAAC,UAAiB,EAAE,SAA0B,EAAE,OAAgB,C,CACpF,C;EACI,KAAA,MAAM,GAAG,UAAU,C;EAEnB,IAAe,+CAAX,WAA2C,GAC/B,IAAI,+BAA+B,CAAC,SAAS,CAAC,cAAc,EACtB,SAAS,CAAC,aADoG,CACtF,C;EAC9E,KAAA,uBAAE,CAAC,IAAI,CAAC,IAAI,EAAE,WAAW,EAAE,OAAO,CAAC,C;AACvC,C;;;wDA1E6B,CAAC,C,CAC9B,C;EACI,OAAO,KAAA,+BAAU,C;AACrB,C;;;kDAkCuB,CAAC,C,CACxB,C;EACI,OAAO,KAAA,yBAAI,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/net/NetConnection.as"],
+"names":[]
+}

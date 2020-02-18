@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Concurrency.js",
+"lineCount":49,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA4CwB,4BAAW,GAAG,MAAM,C;;;;;;;;AAWpB,gCAAe,GAAG,UAAU,C;;;;;;;;AAY5B,8BAAa,GAAG,QAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/rpc/mxml/Concurrency.as"],
+"names":[]
+}

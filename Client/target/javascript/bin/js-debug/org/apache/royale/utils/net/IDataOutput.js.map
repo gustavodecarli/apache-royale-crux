@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IDataOutput.js",
+"lineCount":33,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;wEAgC4B,CAAC,MAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/net/IDataOutput.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Form.js",
+"lineCount":46,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAkEkB,4BAAhB,WAAoB,CAAC,C,CACrB,C;wDACQ,C;EACE,KAAA,SAAS,GAAG,YAAY,C;AAClC,C;;;;;;;;;;;;;;;AAM4B,oDAA5B,WAAyC,CAAC,C,CAC1C,C;EACC,OAAO,+CAAmB,CAAC,IAAI,EAAC,MAAM,CAAC,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/Form.as"],
+"names":[]
+}

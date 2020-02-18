@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IResourceManager.js",
+"lineCount":625,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;oEA+Q8B,CAAC,cAA8B,EAC9B,gBADgG,C;;;;;;;;;;;;;;;;;;;;;uEAmB9F,CAAC,MAAa,EAAE,UAAiB,C;;;;;;;;;;;;;;;;;;;iFAiBvB,CAAC,MAAa,C;;yDAuBtC,CAAC,C;;;;;;;;;;;;;;;;;6DAeG,CAAC,C;;;;;;;;;;;;;;;;;;0EAgBY,CAAC,C;;;;;;;;;;;;;;;;;;;;;;;0EAoBD,CAAC,MAAa,C;;;;;;;;;;;;;;;;;;;;;;;;;;oEAsBpB,CAAC,MAAa,EACb,UADgE,C;;;;;;;;;;;;;;;;;;;;;;;;iFAqBpD,CACnB,UAAiB,EACjB,YAF6G,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4DA6C/G,CAAC,UAAiB,EAAE,YAAmB,EACtC,MADoF,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4DA4CrF,CAAC,UAAiB,EAAE,YAAmB,EACtC,UAAuB,EACvB,MAFqI,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iEA6CjI,CAAC,UAAiB,EACjB,YAAmB,EACnB,MAFsH,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4DAyC5H,CAAC,UAAiB,EAAE,YAAmB,EACtC,MADoF,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;yDAwCxF,CAAC,UAAiB,EAAE,YAAmB,EACtC,MADiF,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0DAwCjF,CAAC,UAAiB,EAAE,YAAmB,EACtC,MADkF,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6DAmChF,CAAC,UAAiB,EAAE,YAAmB,EACtC,MADqF,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2DA4CxF,CAAC,UAAiB,EAAE,YAAmB,EACtC,MADmF,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iFAkC9D,CAEX,OAAa,EACb,WAAiB,EACjB,gBAJ4R,C;;;;;;;;;;;;;;;;;;;;;;;;;;wEA4B1R,CAAC,eAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/resources/IResourceManager.as"],
+"names":[]
+}

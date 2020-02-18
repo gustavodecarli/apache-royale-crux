@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Constant.js",
+"lineCount":43,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;AA6BkB,0CAAhB,WAAwB,CAAE,IAAW,EAAE,KAAa,C,CACpD,C;EACC,IAAI,CAAC,IAAI,GAAG,IAAI,C;EAChB,IAAI,CAAC,KAAK,GAAG,KAAK,C;AACnB,C;;;;;;;;;;;;;AAXW,yDAAW,C;;;;;;;AAKX,0DAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/Constant.as"],
+"names":[]
+}

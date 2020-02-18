@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"TextInput.js",
+"lineCount":52,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAiDkB,iCAAhB,WAAyB,CAAC,C,CAC1B,C;6DACQ,C;EAEE,KAAA,SAAS,GAAG,iBAAiB,C;AACvC,C;;;;;;;;;;;;;;;;AAOkC,yDAA5B,WAAyC,CAAC,C,CAC1C,C;EACI,KAAA,KAAK,GAAG,+CAAmB,CAAC,IAAI,EAAC,OAAO,CAAqB,C;EAC7D,KAAA,KAAK,CAAC,YAAY,CAAC,MAAM,EAAE,MAAM,CAAC,C;EAIlC,WAAW,CAAC,MAAM,CAAC,KAAA,KAAK,EAAE,OAAO,E,yCAAE,K,6CAAiB,CAAC,C;EACrD,WAAW,CAAC,MAAM,CAAC,KAAA,OAAO,EAAE,UAAU,E,yCAAE,K,6CAAiB,CAAC,C;EAE1D,KAAA,UAAU,GAAG,QAAQ,CAAC,aAAa,CAAC,KAAK,CAAuB,C;EAEhE,OAAO,KAAA,OAAO,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/TextInput.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ActionMessage.js",
+"lineCount":77,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;AA8DoB,qDAAhB,WAA6B,CAAC,C,CAC9B,C;;uEAwC4B,CAAC,C;wEA+BA,CAAC,C;EAtEnB,C;AACX,C;;;;;;;;;;;;;AAiBW,uEAAW,GAAG,CAAC,C;;;;;;;AAqBd,6HAAkB,C;;;;;;;AA+BlB,8HAAmB,C;;;sFApBL,CAAC,C,CAC3B,C;EACI,OAAO,KAAA,6DAAO,C;AAClB,C;;;sFAK0B,CAAC,KAAW,C,CACtC,C;EACI,KAAA,6DAAO,GAAG,KAAK,C;AACnB,C;;;uFAoB2B,CAAC,C,CAC5B,C;EACI,OAAO,KAAA,8DAAQ,C;AACnB,C;;;uFAK2B,CAAC,KAAW,C,CACvC,C;EACI,KAAA,8DAAQ,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Network/src/main/royale/org/apache/royale/net/remoting/messages/ActionMessage.as"],
+"names":[]
+}

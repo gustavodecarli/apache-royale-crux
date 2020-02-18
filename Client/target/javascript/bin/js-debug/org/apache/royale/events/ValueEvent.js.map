@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ValueEvent.js",
+"lineCount":65,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA0CkB,mCAAhB,WAA0B,CAAC,IAAW,EAAE,KAAc,EAAE,OAAqB,EAC3C,UAD0G,C,CAE5I,C;;;;gEACO,I,EAAM,O,EAAS,U,CAAW,C;EAEhC,IAAI,CAAC,KAAK,GAAG,KAAK,C;AACnB,C;;;;;;;;;;;;;;AAUW,mDAAO,C;;;;;;;;;;;;;AAUO,wDAAzB,WAAmC,CAAC,C,CACpC,C;EACC,OAAO,IAAI,mCAAU,CAAC,KAAA,IAAI,EAAE,KAAA,KAAK,EAAE,KAAA,OAAO,EAAE,KAAA,UAAU,CAAC,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/ValueEvent.as"],
+"names":[]
+}

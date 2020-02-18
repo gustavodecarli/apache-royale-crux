@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IOErrorEvent.js",
+"lineCount":61,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAiGiB,sBAAhB,WAA4B,CAAC,IAAW,EAAE,OAAuB,EACzD,UAA0B,EAAE,IAAgB,EAAE,EAD0F,C,CAGhJ,C;;;;;mDACO,I,EAAM,O,EAAS,U,CAAW,C;AACjC,C;;;;;;;;;;;;;;;AApCoB,+BAAe,GAAG,SAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/events/IOErrorEvent.as"],
+"names":[]
+}

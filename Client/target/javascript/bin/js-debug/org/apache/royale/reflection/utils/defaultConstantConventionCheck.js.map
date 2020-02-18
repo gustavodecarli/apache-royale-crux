@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"defaultConstantConventionCheck.js",
+"lineCount":23,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;iEA0BI,WAAgD,CAAC,SAAgB,C,CAAU,C;EACvE,O,GAAO,SAAS,IAAI,mBAAmB,CAAC,IAAI,CAAC,SAAS,C,CAAC,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/utils/defaultConstantConventionCheck.as"],
+"names":[]
+}

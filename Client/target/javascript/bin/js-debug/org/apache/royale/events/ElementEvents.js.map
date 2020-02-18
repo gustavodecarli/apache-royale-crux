@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ElementEvents.js",
+"lineCount":33,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAuDsB,oDAAoB,GAAG,CAC7B,OAAO,CAAE,CAAC,EACtB,UAAU,CAAE,CAAC,EACD,QAAQ,CAAE,CAAC,EACX,OAAO,CAAE,CAAC,EACV,SAAS,CAAE,CAAC,EACZ,MAAM,CAAE,CAAC,EACrB,WAAW,CAAE,CAAC,EACd,UAAU,CAAE,CAAC,EACb,SAAS,CAAE,CAAC,EACZ,WAAW,CAAE,CAAC,EACd,WAAW,CAAE,CAAC,EACd,UAAU,CAAE,CAAC,EACb,SAAS,CAAE,CAAC,EACZ,OAAO,CAAE,CACV,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/ElementEvents.as"],
+"names":[]
+}

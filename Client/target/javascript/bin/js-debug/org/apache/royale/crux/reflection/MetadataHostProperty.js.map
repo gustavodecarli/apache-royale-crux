@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MetadataHostProperty.js",
+"lineCount":47,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;AA2BkB,sDAAhB,WAAoC,CAAC,C,CACrC,C;kFACQ,C;AACR,C;;;;;;;;;;;;;;AAGc,kFAAoC,C;;;iGAId,CAAC,C,CACrC,C;EACC,OAAO,KAAA,iBAAiB,C;AACzB,C;;;iGAEoC,CAAE,KAAyB,C,CAC/D,C;EACC,KAAA,iBAAiB,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/MetadataHostProperty.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CursorError.js",
+"lineCount":29,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;AAoDoB,iCAAhB,WAA2B,CAAC,OAAc,C,CAC1C,C;8DACU,O,CAAQ,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/collections/errors/CursorError.as"],
+"names":[]
+}

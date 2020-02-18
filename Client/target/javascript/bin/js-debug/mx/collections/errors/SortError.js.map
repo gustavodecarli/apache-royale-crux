@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SortError.js",
+"lineCount":29,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmDoB,+BAAhB,WAAyB,CAAC,OAAc,C,CACxC,C;4DACU,O,CAAQ,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/collections/errors/SortError.as"],
+"names":[]
+}

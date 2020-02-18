@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"State.js",
+"lineCount":88,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA6CkB,8BAAhB,WAAqB,CAAC,UAAwB,C,CAC9C,C;;EACQ,C;AACR,C;;;;;;;;;;;;;AAEkB,6EAAY,C;;;;;;;AAoBZ,oFAAmB,C;;;;;;;AAoBnB,kFAAgB,C;;;6DA9BJ,CAAC,C,CACzB,C;EACI,OAAO,KAAA,oCAAK,C;AAChB,C;;;6DACwB,CAAC,KAAY,C,CACrC,C;EACI,KAAA,oCAAK,GAAG,KAAK,C;AACjB,C;;;oEAc+B,CAAC,C,CAChC,C;EACI,OAAO,KAAA,2CAAY,C;AACvB,C;;;oEAC+B,CAAC,KAAY,C,CAC5C,C;EACI,KAAA,2CAAY,GAAG,KAAK,C;AACxB,C;;;kEAY6B,CAAC,C,CAC9B,C;EACI,OAAO,KAAA,yCAAU,C;AACrB,C;;;kEAC6B,CAAC,KAAW,C,CACzC,C;EACI,KAAA,yCAAU,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/states/State.as"],
+"names":[]
+}

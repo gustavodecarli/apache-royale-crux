@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Event.js",
+"lineCount":144,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AAmKwB,8BAAhB,WAAqB,CAAC,IAAW,EAAE,OAAuB,EAAE,UAA0B,C,CAAE,C;;;2DAC9E,I,CAAK,C;EACpB,IAAI,CAAC,OAAO,GAAG,OAAO,C;EACtB,IAAI,CAAC,UAAU,GAAG,UAAU,C;AACvB,C;;;;;;;;;;;;;;;AATc,qCAAa,GAAG,QAAQ,C;;;;;;;;AACxB,uCAAe,GAAG,UAAU,C;;;;;;;;AAC5B,qCAAa,GAAG,QAAQ,C;;;;;;;;AACxB,mCAAW,GAAG,MAAM,C;;;;;;;AAQ7B,gDAAe,C;;;;;;;AACf,mDAAkB,C;;;;;;;AAQjB,oGAAoC,C;;;;;;AAOhC,iEAAhB,WAAwC,CAAC,C,CACzC,C;EACC,KAAA,2DAA4B,GAAG,IAAI,C;AACpC,C;;;;;;;AAEgB,mDAAhB,WAA0B,CAAC,C,CAC3B,C;EACC,OAAO,IAAI,8BAA8B,CAAC,KAAA,IAAI,EAAE,KAAA,OAAO,EAAE,KAAA,UAAU,CAAC,C;AACrE,C;;;;;;;AAEgB,2DAAhB,WAAkC,CAAC,C,CACnC,C;EACC,OAAO,KAAA,gBAAgB,C;AACxB,C;;;;;;;;;;;;;;;;;AAasB,qDAAhB,WAA4B,CAAC,eAAgC,C,CAC7D,C;EACI,IAAI,eAAe,KAAK,KAAA,MAAM,C;IACtC,OAAO,IAAI,C;EACH,IAAU,oCAAN,KAAA,MAAM,EAAI,qCAAJ,CAAkB,IAAK,KAAA,MAAgB,CAAE,cAAc,KAAK,eAAe,C;IAC7F,OAAO,IAAI,C;EACH,OAAO,KAAK,C;AAChB,C;;;oFAtCyC,CAAC,C,CAChD,C;EACC,OAAO,KAAA,2DAA4B,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/Event.as"],
+"names":[]
+}

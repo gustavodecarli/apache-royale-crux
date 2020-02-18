@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SimpleButton.js",
+"lineCount":55,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAgTkB,0DAAhB,WAA4B,CAAC,C,CAC7B,C;sFACQ,C;EACE,KAAA,SAAS,GAAG,cAAc,C;AACpC,C;;;;;;;;;;;;;;;;AAMkC,kFAA5B,WAAyC,CAAC,C,CAC1C,C;EACL,+CAAmB,CAAC,IAAI,EAAE,QAAQ,CAAC,C;EAC1B,KAAA,OAAO,CAAC,YAAY,CAAC,MAAM,EAAE,QAAQ,CAAC,C;EAEtC,OAAO,KAAA,OAAO,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/supportClasses/button/SimpleButton.as"],
+"names":[]
+}

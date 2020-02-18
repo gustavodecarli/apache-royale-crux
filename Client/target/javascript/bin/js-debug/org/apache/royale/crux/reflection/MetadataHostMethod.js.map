@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MetadataHostMethod.js",
+"lineCount":102,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;AA+BkB,oDAAhB,WAAkC,CAAC,C,CACnC,C;;qBA4BkC,CAAC,C;gFA3B3B,C;AACR,C;;;;;;;;;;;;;;AAEc,gFAAkC,C;;;;;;;AAmBlC,0EAAiB,C;;;;;;;AAKjB,0EAAsB,C;;;+FApBA,CAAC,C,CACrC,C;EACC,OAAO,KAAA,iBAAiB,C;AACzB,C;;;+FAEoC,CAAE,KAAuB,C,CAC7D,C;EACC,KAAA,iBAAiB,GAAG,KAAK,C;AAC1B,C;;;yFAiB8B,CAAC,C,CAC/B,C;EACC,OAAO,KAAA,WAAW,C;AACnB,C;;;yFAE8B,CAAE,KAAY,C,CAC5C,C;EACC,KAAA,WAAW,GAAG,KAAK,C;AACpB,C;;;yFAM8B,CAAC,C,CAC/B,C;EACC,OAAO,KAAA,WAAW,C;AACnB,C;;;6FAKkC,CAAC,C,CACnC,C;EACC,O,CAAO,KAAA,UAAU,CAAC,M,MAAM,C;AACzB,C;;;qGAK0C,CAAC,C,CAC3C,C;EACC,IAA0B,sBAAtB,sBAA0B,GAAG,CAAC,C;EAES,0BAAA,KAAA,UAAA,C;EAA3C,KAA2C,gBAAJ,IAAI,mBAAW,E;;EAA5C,gBAAiC,kC;EAC3C,C;IACC,IAAI,CAAC,SAAS,CAAC,QAAQ,C;MACtB,sBAAsB,EAAE,C;EAC1B,C;;EAEA,OAAO,sBAAsB,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/MetadataHostMethod.as"],
+"names":[]
+}

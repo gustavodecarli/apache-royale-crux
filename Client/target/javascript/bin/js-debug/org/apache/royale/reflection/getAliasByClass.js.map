@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"getAliasByClass.js",
+"lineCount":38,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;4CA+BI,WAA+B,CAAC,WAAiB,C,CAAS,C;EACtD,IAAO,sBAAH,GAAU,C;EACd,IAAI,WAAW,IAAI,IAAI,C;IAAE,MAAM,IAAI,SAAS,CAAC,yCAAyC,CAAC,C;;EAOnF,IAAQ,iBAAJ,IAAM,GAAG,WAAW,CAAC,SAAS,CAAC,iBAAiB,C;EACpD,IAAI,IAAI,EAAE,C;IACN,GAAG,G,wCAAG,IAAI,CAAC,K,CAAK,C;IAChB,IAAI,GAAG,IAAI,EAAE,C;MAAE,GAAG,GAAG,IAAI,C;EAC7B,C;EAAE,I;IAAK,GAAG,GAAC,IAAI,C;EAEnB,OAAO,GAAG,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/getAliasByClass.as"],
+"names":[]
+}

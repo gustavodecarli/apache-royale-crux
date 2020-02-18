@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IContainerBaseStrandChildrenHost.js",
+"lineCount":63,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;wFAmCsB,CAAC,CAAQ,EAAE,aAA4B,C;;;;;;;;0FACrC,CAAC,CAAQ,EAAE,KAAS,EAAE,aAA4B,C;;;;;;;2FACjD,CAAC,CAAQ,EAAE,aAA4B,C;;;;;;;6FACrC,CAAC,CAAQ,C;;;;;;;0FACZ,CAAC,KAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IContainerBaseStrandChildrenHost.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MouseEventConverter.js",
+"lineCount":45,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA8L+B,0DAAvB,WAA8B,CAAC,WAAkB,EAAC,YAA0C,C,CAC5F,C;;EACI,IAAS,mDAAL,KAAgB,GAAG,IAAI,mCAAU,CAAC,WAAW,CAAC,MAAM,CAAC,EAAE,WAAW,CAAC,SAAS,CAAC,EAAE,WAAW,CAAC,YAAY,CAAC,CAAC,C;EACtH,IAAG,CAAC,YAAY,EAChB,C;IACC,YAAY,GAAG,IAAI,wBAAwB,CAAC,WAAgC,EAAC,WAAW,CAAC,eAAe,CAAC,CAAC,C;EAC3G,C;EACS,KAAK,CAAC,SAAS,CAAC,YAAY,CAAC,C;EAC7B,OAAO,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/utils/MouseEventConverter.as"],
+"names":[]
+}

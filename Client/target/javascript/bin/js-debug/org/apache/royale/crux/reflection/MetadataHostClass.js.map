@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MetadataHostClass.js",
+"lineCount":23,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;AA4BkB,mDAAhB,WAAiC,CAAC,C,CAClC,C;+EACQ,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/reflection/MetadataHostClass.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IServiceHelper.js",
+"lineCount":35,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4FAqB6B,CAAE,IAAe,EAAE,aAAsB,EAAE,YAA4B,EAAE,WAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/utils/services/IServiceHelper.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"RoyaleClient.js",
+"lineCount":89,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AAsHiB,yBAAhB,WAA4B,CAAC,C,CAC7B,C;qDACQ,C;AACR,C;;;;;;;;;;;;;;;AAvDuB,8CAA2B,GAAG,KAAK,C;;;;;;;AAavC,mCAAmC,C;;;;;;;;;;;;;;;;;;AAqB/B,qCAAvB,WAAkC,CAAC,C,CACnC,C;EACC,IAAI,0BAAA,SAAS,IAAI,IAAI,C;IACpB,0BAAA,SAAS,GAAG,IAAI,yBAAyB,CAAC,CAAC,C;EAE5C,OAAA,0BAAO,SAAS,C;AACjB,C;;;;;;;AA+Be,oFAA8B,GAAG,KAAK,C;;;qHAUJ,CAAC,C,CAC/C,C;EACI,OAAO,KAAA,gDAAsB,C;AACjC,C;;;qHAK8C,CAAC,KAAa,C,CAC5D,C;EACI,IAAI,KAAA,gDAAsB,IAAI,KAAK,EACnC,C;IACI,IAAS,6CAAL,KAAyB,GAAG,6BAAmB,CAAC,iBAAiB,CAAC,IAAI,EAAE,uBAAuB,EAAE,KAAA,gDAAsB,EAAE,KAAK,CAAC,C;IACnI,KAAA,gDAAsB,GAAG,KAAK,C;IAC9B,KAAA,aAAa,CAAC,KAAK,CAAC,C;EACxB,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/RoyaleClient.as"],
+"names":[]
+}

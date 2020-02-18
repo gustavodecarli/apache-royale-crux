@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ErrorMessage.js",
+"lineCount":147,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmFoB,kCAAhB,WAA4B,CAAC,C,CAC7B,C;8DACW,C;AACX,C;;;;;;;;;;;;;;;AAjCoB,4DAAgC,GAAG,8BAA8B,C;;;;;;;;AAajE,wDAA4B,GAAG,sBAAsB,C;;;;;;;AA4B7D,0FAAiB,C;;;;;;;AAuBjB,4FAAmB,C;;;;;;;AAoBnB,4FAAmB,C;;;;;;;AAqBnB,0FAAiB,C;;;;;;;AAsBjB,6FAAoB,C;;;;;;;;AA+BP,4DAAzB,WAAwC,CAAC,C,CACzC,C;EACI,OAAO,IAAI,C;AACf,C;;;sEA1G6B,CAAC,C,CAC9B,C;EACI,OAAO,KAAA,6CAAU,C;AACrB,C;;;sEAC6B,CAAC,KAAY,C,CAC1C,C;EACI,KAAA,6CAAU,GAAG,KAAK,C;AACtB,C;;;wEAa+B,CAAC,C,CAChC,C;EACI,OAAO,KAAA,+CAAY,C;AACvB,C;;;wEAC+B,CAAC,KAAY,C,CAC5C,C;EACI,KAAA,+CAAY,GAAG,KAAK,C;AACxB,C;;;wEAc+B,CAAC,C,CAChC,C;EACI,OAAO,KAAA,+CAAY,C;AACvB,C;;;wEAC+B,CAAC,KAAY,C,CAC5C,C;EACI,KAAA,+CAAY,GAAG,KAAK,C;AACxB,C;;;sEAe6B,CAAC,C,CAC9B,C;EACI,OAAO,KAAA,6CAAU,C;AACrB,C;;;sEAC6B,CAAC,KAAY,C,CAC1C,C;EACI,KAAA,6CAAU,GAAG,KAAK,C;AACtB,C;;;yEAcgC,CAAC,C,CACjC,C;EACI,OAAO,KAAA,gDAAa,C;AACxB,C;;;yEACgC,CAAC,KAAY,C,CAC7C,C;EACI,KAAA,gDAAa,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/messages/ErrorMessage.as"],
+"names":[]
+}

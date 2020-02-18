@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ObjectProxy.js",
+"lineCount":77,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmJoB,oBAAhB,WAA2B,CAAC,IAAkB,EAAE,GAAiB,EACrC,UAD2F,C,CAEvH,C;;;;EACF,iCAAA,KAAK,CAAC,6BAA6B,CAAC,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/utils/ObjectProxy.as"],
+"names":[]
+}

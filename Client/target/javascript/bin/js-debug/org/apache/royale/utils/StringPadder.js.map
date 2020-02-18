@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"StringPadder.js",
+"lineCount":62,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAuDyB,wCAAvB,WAA0B,CAAC,GAAU,EAAC,OAAc,EAAC,IAAQ,EAAC,QAAsB,C,CACpF,C;;EACC,GAAG,GAAG,GAAG,GAAG,GAAG,GAAG,EAAE,C;EAEpB,IAAI,IAAE,CAAC,C;EACP,IAAI,I,CAAI,GAAG,CAAC,M,MAAM,C;EAClB,IAAK,sBAAD,CAAQ,GAAG,IAAI,KAAK,CAAC,IAAI,CAAC,CAAC,IAAI,CAAC,OAAO,CAAC,C;EAC5C,IAAG,QAAQ,C;IACV,OAAO,GAAG,GAAG,CAAC,C;EACf,I;IACC,OAAO,CAAC,GAAG,GAAG,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/StringPadder.as"],
+"names":[]
+}

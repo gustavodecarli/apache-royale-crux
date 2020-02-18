@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"LayoutChangeNotifier.js",
+"lineCount":58,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AA+CkB,yDAAhB,WAAoC,CAAC,C;;;;;;;;;;;;;;;;AAKnB,oIAAQ,GAAG,SAAS,C;;;gGAWA,CAAC,KAAY,C,CAC7C,C;EACI,KAAA,gEAAM,GAAG,KAAK,C;AAClB,C;;;mGAa6B,CAAC,KAAY,C,CAChD,C;EACC,IAAI,KAAA,gEAAM,KAAK,KAAK,EACX,C;IACI,KAAA,gEAAM,GAAG,KAAK,C;IACd,IAAW,oCAAP,KAAA,OAAO,EAAI,gCAAJ,CAAa,C;MACV,KAAA,OAAQ,CAAC,IAAI,CAAC,aAAa,CAAC,IAAI,8BAAK,CAAC,cAAc,CAAC,CAAC,C;IACpE,I;MACI,uCAAe,CAAC,KAAA,OAAO,EAAC,cAAc,CAAC,C;EAC/C,CAAA;",
+"sources":["frameworks/projects/Basic/src/main/royale/org/apache/royale/html/beads/layouts/LayoutChangeNotifier.as"],
+"names":[]
+}

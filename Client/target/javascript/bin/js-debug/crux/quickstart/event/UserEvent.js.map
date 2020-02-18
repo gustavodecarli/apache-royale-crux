@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"UserEvent.js",
+"lineCount":49,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AAkCkB,+BAAhB,WAAyB,CAAE,IAAY,C,CACvC,C;4DACQ,I,EAAM,I,CAAM,C;AACpB,C;;;;;;;;;;;;;;;AAZoB,mDAA4B,GAAG,UAAU,C;;;;;;;AAElD,8CAAA;",
+"sources":["../../../../../../../src/main/royale/crux/quickstart/event/UserEvent.as"],
+"names":[]
+}

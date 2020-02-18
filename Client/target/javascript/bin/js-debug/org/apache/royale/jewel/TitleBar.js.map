@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"TitleBar.js",
+"lineCount":89,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA4DkB,gCAAhB,WAAwB,CAAC,C,CACzB,C;4DACQ,C;EAEP,KAAA,SAAS,GAAG,gBAAgB,C;AAC7B,C;;;;;;;;;;;;;;;AAqEyB,wDAAzB,WAAsC,CAAC,C,CACvC,C;wEACsB,C;EACrB,iDAAyB,CAAC,kCAAW,EAAE,aAAa,EAAE,IAAI,CAAC,C;AAC5D,C;;;;;;;;AAMkC,wDAA5B,WAAyC,CAAC,C,CAC1C,C;EACL,OAAO,+CAAmB,CAAC,IAAI,EAAC,KAAK,CAAC,C;AACjC,C;;;gEAvEmB,CAAC,C,CAC1B,C;EACC,OAAsB,KAAA,KAAM,CAAC,KAAK,C;AACnC,C;;;gEAIyB,CAAC,KAAY,C,CACtC,C;EACgB,KAAA,KAAM,CAAC,KAAK,GAAG,KAAK,C;AACpC,C;;;oEAW6B,CAAC,C,CAC9B,C;EACC,OAAsB,KAAA,KAAM,CAAC,SAAS,C;AACvC,C;;;oEAI6B,CAAC,KAAY,C,CAC1C,C;EACgB,KAAA,KAAM,CAAC,SAAS,GAAG,KAAK,C;AACxC,C;;;0EAYmC,CAAC,C,CACpC,C;EACC,OAAsB,KAAA,KAAM,CAAC,eAAe,C;AAC7C,C;;;0EAImC,CAAC,KAAa,C,CACjD,C;EACgB,KAAA,KAAM,CAAC,eAAe,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/TitleBar.as"],
+"names":[]
+}

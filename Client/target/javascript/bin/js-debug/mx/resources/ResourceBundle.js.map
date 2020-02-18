@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ResourceBundle.js",
+"lineCount":126,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAgHoB,2BAAhB,WAA8B,CAAC,MAAoB,EACpB,UADkF,C,CAEjH,C;;;;8CAsD8B,CAAC,C;EA7CpB,C;EAEP,KAAA,mDAAO,GAAG,MAAM,C;EAChB,KAAA,uDAAW,GAAG,UAAU,C;EAExB,KAAA,oCAAQ,GAAG,KAAA,UAAU,CAAC,CAAC,C;AAC3B,C;;;;;;;;;;;;AAjEuB,8EAAa,C;;;;;;AAiFpB,6FAAkB,C;;;;;;;AAuBtB,0EAAoB,C;;;;;;AAuBhB,yFAAc,C;;;;;;;;;;;;;;;;;;;;;AAqCX,gDAAnB,WAA6B,CAAC,C,CAC9B,C;EACI,OAAO,CAAC,CAAC,C;AACb,C;;;;;;;;;AAKiB,4EAAjB,WAA2B,CAAC,GAAU,C,CACtC,C;EACI,IAAS,sBAAL,KAAY,GAAG,KAAA,OAAO,CAAC,GAAG,CAAC,C;EAC/B,IAAI,CAAC,KAAK,EACV,C;IACI,MAAM,IAAI,KAAK,CAAC,MAAM,GAAG,GAAG,GACZ,oCAAoC,GAAG,KAAA,UADsD,CAC3C,C;EACtE,C;EACA,OAAO,KAAK,C;AAChB,C;;;gEA1F8B,CAAC,C,CAC/B,C;EACI,OAAO,KAAA,uDAAW,C;AACtB,C;;;6DAoB2B,CAAC,C,CAC5B,C;EACI,OAAO,KAAA,oCAAQ,C;AACnB,C;;;4DAoB0B,CAAC,C,CAC3B,C;EACI,OAAO,KAAA,mDAAO,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/resources/ResourceBundle.as"],
+"names":[]
+}

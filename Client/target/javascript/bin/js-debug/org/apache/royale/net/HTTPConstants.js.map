@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"HTTPConstants.js",
+"lineCount":121,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;AA0JwB,mCAAhB,WAA6B,CAAC,C;;;;;;;;;;;;;;;AA3HV,uCAAU,GAAG,KAAK,C;;;;;;;;AAWlB,wCAAW,GAAG,MAAM,C;;;;;;;;AAUpB,uCAAU,GAAG,KAAK,C;;;;;;;;AAWlB,oDAAuB,GAAG,mCAAmC,C;;;;;;;;AAWnE,0CAAa,GAAG,QAAQ,C;;;;;;;;AAUxB,wCAAW,GAAG,MAAM,C;;;;;;;;AAUd,4CAAe,GAAG,UAAU,C;;;;;;;;AAU5B,uDAA0B,GAAG,oBAAoB,C;;;;;;;;AAUvD,4CAAe,GAAG,SAAS,C;;;;;;;;AAU3B,kDAAqB,GAAG,eAAe,C;;;;;;;;AAUjC,0CAAa,GAAG,YAAY,C;;;;;;;;AAgB5B,mDAAsB,GAAG,oBAAA;",
+"sources":["frameworks/projects/Network/src/main/royale/org/apache/royale/net/HTTPConstants.as"],
+"names":[]
+}

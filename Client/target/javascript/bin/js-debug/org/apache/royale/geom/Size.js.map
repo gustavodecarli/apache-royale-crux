@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Size.js",
+"lineCount":45,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;AAiCoB,2BAAhB,WAAoB,CAAC,KAAgB,EAAE,MAAiB,C,CACxD,C;;;EACI,IAAI,CAAC,KAAK,GAAG,KAAK,C;EAClB,IAAI,CAAC,MAAM,GAAG,MAAM,C;AACxB,C;;;;;;;;;;;;;AAEW,2CAAY,C;;;;;;;AACZ,4CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/geom/Size.as"],
+"names":[]
+}

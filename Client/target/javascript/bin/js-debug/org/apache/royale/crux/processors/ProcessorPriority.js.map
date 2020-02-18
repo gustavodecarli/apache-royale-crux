@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ProcessorPriority.js",
+"lineCount":89,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmCsB,8DAAgB,GAAG,GAAG,C;;;;;;;;AAQtB,+DAAiB,GAAG,GAAG,C;;;;;;;;AAQvB,0DAAa,GAAG,GAAG,C;;;;;;;;AAOnB,iEAAoB,GAAG,GAAG,C;;;;;;;;AAO1B,8DAAgB,GAAG,GAAG,C;;;;;;;;AAOtB,2DAAc,GAAG,GAAG,C;;;;;;;;AAQpB,kEAAmB,GAAG,GAAG,C;;;;;;;;AAQzB,kEAAmB,GAAG,GAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/processors/ProcessorPriority.as"],
+"names":[]
+}

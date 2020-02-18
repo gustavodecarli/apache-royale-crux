@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ObjectEncoding.js",
+"lineCount":49,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAgDqB,0BAAS,GAAG,CAAC,C;;;;;;;;AAWV,0BAAS,GAAG,CAAC,C;;;;;;;;AAWb,6BAAY,GAAG,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/net/ObjectEncoding.as"],
+"names":[]
+}

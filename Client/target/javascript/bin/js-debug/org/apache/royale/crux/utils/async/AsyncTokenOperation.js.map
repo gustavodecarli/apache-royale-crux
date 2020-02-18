@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"AsyncTokenOperation.js",
+"lineCount":54,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AA8BkB,sDAAhB,WAAmC,CAAC,KAAiB,C,CACrD,C;kFACQ,C;EAEP,KAAK,CAAC,YAAY,CAAE,IAAI,mDAAa,C,yCAAC,K,qCAAa,E,yCAAE,K,mCAAa,CAAE,CAAC,C;AACtE,C;;;;;;;;;;;;;;;AASmB,8EAAnB,WAAgC,CAAE,IAAY,C,CAC9C,C;EACC,KAAA,QAAQ,CAAE,IAAK,CAAC,C;AACjB,C;;;;;;;;AAKmB,6EAAnB,WAA+B,CAAE,IAAY,C,CAC7C,C;EACC,KAAA,IAAI,CAAE,IAAK,CAAC,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/utils/async/AsyncTokenOperation.as"],
+"names":[]
+}

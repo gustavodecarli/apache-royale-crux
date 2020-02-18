@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"LogEventLevel.js",
+"lineCount":73,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAkDwB,8BAAS,GAAG,IAAI,C;;;;;;;;AAWhB,8BAAS,GAAG,CAAC,C;;;;;;;;AAWb,6BAAQ,GAAG,CAAC,C;;;;;;;;AAWZ,6BAAQ,GAAG,CAAC,C;;;;;;;;AAYZ,8BAAS,GAAG,CAAC,C;;;;;;;;AAUb,4BAAO,GAAG,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/logging/LogEventLevel.as"],
+"names":[]
+}

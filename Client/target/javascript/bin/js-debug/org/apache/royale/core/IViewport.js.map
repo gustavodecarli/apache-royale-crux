@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IViewport.js",
+"lineCount":75,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iEAkDsB,CAAC,CAAQ,EAAE,CAAQ,C;;;;;;;;;;;;;;;uFAYG,CAAC,KAAY,EAAE,MAAa,C;;;;;;;;;;;;;;;;sFAcvB,CAAC,WAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IViewport.as"],
+"names":[]
+}

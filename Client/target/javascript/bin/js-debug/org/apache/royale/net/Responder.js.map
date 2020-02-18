@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Responder.js",
+"lineCount":52,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;AAgCkB,+BAAhB,WAAyB,CAAC,SAAkB,EAAE,SAAkB,C,CAChE,C;EACU,IAAI,CAAC,SAAS,GAAG,SAAS,C;EAC1B,IAAI,CAAC,SAAS,GAAG,SAAS,C;AACpC,C;;;;;;;;;;;;;AAOiB,mDAAkB,C;;;;;;;AAOlB,mDAAkB,C;;;;;;;AAYb,4DAAhB,WAAkC,CAAC,C,CACnC,C;EACI,OAAO,IAAI,CAAA;",
+"sources":["frameworks/projects/Network/src/main/royale/org/apache/royale/net/Responder.as"],
+"names":[]
+}

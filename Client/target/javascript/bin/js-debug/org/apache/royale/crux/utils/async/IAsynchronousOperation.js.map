@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IAsynchronousOperation.js",
+"lineCount":46,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2FAwBuB,CAAE,SAAqB,C;;;;;;;uFAK3B,CAAE,IAAY,C;;;;;;;mFAKlB,CAAE,IAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/utils/async/IAsynchronousOperation.as"],
+"names":[]
+}

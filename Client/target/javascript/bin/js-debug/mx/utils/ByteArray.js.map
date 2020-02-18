@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ByteArray.js",
+"lineCount":70,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;AA4CkB,kBAAhB,WAAyB,CAAC,C,CAC1B,C;8CACO,C;AACP,C;;;;;;;;;;;;;;;;AACgB,0CAAhB,WAA6B,CAAC,MAAW,EAAE,OAAc,C,CACzD,C;EACA,OAAO,EAAE,C;AACT,C;;;;;;;;AACgB,2CAAhB,WAA8B,CAAC,KAAY,EAAE,OAAc,C,CAC3D,C;AACA,C;;;;;;;AACgB,uCAAhB,WAA0B,CAAC,C,CACrB,C;EACG,OAAO,IAAI,C;AACd,C;;;;;;;AACgB,wCAAhB,WAA2B,CAAC,MAAQ,C,CACpC,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/utils/ByteArray.as"],
+"names":[]
+}

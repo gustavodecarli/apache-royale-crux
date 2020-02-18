@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"getTargetWrapper.js",
+"lineCount":27,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;yCAoBI,WAAgC,CAAC,GAAU,C,CAC3C,C;EACI,IAAI,GAAG,EACZ,C;IACC,IAAI,GAAG,CAAC,cAAc,C;MACrB,OAAO,GAAG,CAAC,cAAc,C;IAC1B,IAAI,GAAG,CAAC,UAAU,IAAI,GAAG,CAAC,UAAU,CAAC,cAAc,C;MAC/C,OAAO,GAAG,CAAC,UAAU,CAAC,cAAc,C;EACzC,C;EACD,OAAO,GAAG,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/getTargetWrapper.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"HTTPHeader.js",
+"lineCount":79,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA0EkB,gCAAhB,WAA0B,CAAC,IAAkB,EAAE,KAAmB,C,CAClE,C;;;EACQ,C;EACP,IAAI,CAAC,IAAI,GAAG,IAAI,C;EAChB,IAAI,CAAC,KAAK,GAAG,KAAK,C;AACnB,C;;;;;;;;;;;;;;AAvCoB,6CAAmB,GAAG,cAAc,C;;;;;;;;AAUpC,+CAAqB,GAAG,gBAAgB,C;;;;;;;;AAWxC,2CAAiB,GAAG,YAAY,C;;;;;;;AA4BzC,+CAAW,C;;;;;;;AAUX,gDAAA;",
+"sources":["frameworks/projects/Network/src/main/royale/org/apache/royale/net/HTTPHeader.as"],
+"names":[]
+}

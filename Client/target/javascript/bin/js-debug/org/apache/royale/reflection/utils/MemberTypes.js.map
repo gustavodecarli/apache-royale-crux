@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MemberTypes.js",
+"lineCount":47,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;AAiC4B,wDAAc,GAAG,CAAC,C;;;;;;;AAClB,wDAAc,GAAG,CAAC,C;;;;;;;AAClB,sDAAY,GAAG,CAAC,C;;;;;;;AAChB,0DAAgB,GAAG,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/utils/MemberTypes.as"],
+"names":[]
+}

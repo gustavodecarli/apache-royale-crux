@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"MessagingError.js",
+"lineCount":61,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAoDoB,kCAAhB,WAA8B,CAAC,GAAU,C,CACzC,C;+DACU,G,CAAI,C;AACd,C;;;;;;;;;;;;;;;;;;;;;;;AAmBgB,qDAAhB,WAAwB,CAAC,C,CACzB,C;EACI,IAAS,sBAAL,KAAY,GAAG,iBAAiB,C;EACpC,IAAI,KAAA,OAAO,IAAI,IAAI,C;IACf,KAAK,IAAI,YAAY,GAAG,KAAA,OAAO,GAAG,IAAI,C;EAC1C,I;IACI,KAAK,IAAI,GAAG,C;EAChB,OAAO,KAAK,CAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/messaging/errors/MessagingError.as"],
+"names":[]
+}

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"UserForm.js",
+"lineCount":217,
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA2Cc,4C;;;;;;;AAIK,+CAAhB,WAAuB,CAAC,GAAQ,C,CAAM,C;EACrC,IAAI,CAAC,IAAI,GAAG,GAAG,C;AAChB,C;;;;;;;;;AAOiB,8EAAjB,WAAyB,CAAC,C,CAC1B,C;EACC,KAAA,IAAI,CAAC,SAAS,GAAG,KAAA,SAAS,CAAC,IAAI,C;EAC/B,KAAA,IAAI,CAAC,QAAQ,GAAG,KAAA,QAAQ,CAAC,IAAI,C;EAC7B,KAAA,IAAI,CAAC,KAAK,GAAG,KAAA,KAAK,CAAC,IAAI,C;EACvB,IAAW,+CAAP,KAAiB,GAAG,IAAI,+BAAS,CAAE,+BAAS,CAAC,mBAAoB,CAAC,C;EACtE,KAAK,CAAC,IAAI,GAAG,KAAA,IAAI,C;EACjB,KAAA,aAAa,CAAE,KAAM,CAAC,C;AACvB,C;;;;;;;;;;;;;;;;;;;;;;;;;;;EAmBgD,KAAA,sCAAQ,CAAA;",
+"sources":["../../../../../../../src/main/royale/crux/quickstart/view/UserForm.mxml"],
+"names":[]
+}

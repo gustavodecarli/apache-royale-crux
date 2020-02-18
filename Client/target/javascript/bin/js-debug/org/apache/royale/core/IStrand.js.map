@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IStrand.js",
+"lineCount":71,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2DAgDkB,CAAC,IAAU,C;;;;;;;;;;;;;;;;;iEAcL,CAAC,gBAAsB,C;;;;;;;;;;;;;;;8DAY1B,CAAC,IAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IStrand.as"],
+"names":[]
+}

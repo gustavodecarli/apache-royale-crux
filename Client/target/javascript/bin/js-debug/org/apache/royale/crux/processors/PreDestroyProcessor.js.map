@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"PreDestroyProcessor.js",
+"lineCount":65,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AAmDkB,qDAAhB,WAAmC,CAAC,aAA2B,C,CAC/D,C;;mFACU,aAAa,IAAI,I,CAAI,GAAK,CAAC,sDAAC,WAAY,CAAC,GAAG,a,EAAe,qD,CAAuB,C;AAC5F,C;;;;;;;;;;;;;;;AAxBuB,iEAAkB,GAAG,YAAY,C;;;;;;;;AAiC/B,oFAAzB,WAA6C,CAAE,YAAkB,EAAE,IAAU,C,CAC7E,C;uGAC6B,Y,EAAc,I,GAAM,C;yCAE7B,CAAnB,YAAY,EAAS,OAAO,EAAE,EAAc,CAAC,C;EAEH,0BAAA,YAAA,C;EAA1C,KAA0C,gBAAJ,IAAI,mBAAa,E;;EAA7C,kBAAgC,kC;EAC1C,C;IACC,IAAK,wBAAD,CAAU,GAAG,IAAI,CAAC,MAAM,CAAE,WAAW,CAAC,IAAI,CAAC,IAAI,CAAE,C;IACrD,CAAC,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,CAAC,C;EACrB,C;;AACD,C;;;wFAnCqC,CAAC,C,CACtC,C;EACC,OAAO,mDAAiB,CAAC,WAAW,CAAA;",
+"sources":["frameworks/projects/Crux/src/main/royale/org/apache/royale/crux/processors/PreDestroyProcessor.as"],
+"names":[]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"getStyle.js",
+"lineCount":22,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;qCAyBE,WAAwB,CAAC,OAAsB,C,CAC/C,C;EACE,OAAO,OAAO,CAAC,OAAO,CAAC,KAAK,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/utils/html/getStyle.as"],
+"names":[]
+}

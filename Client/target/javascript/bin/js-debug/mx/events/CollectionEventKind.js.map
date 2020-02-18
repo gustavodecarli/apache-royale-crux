@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CollectionEventKind.js",
+"lineCount":89,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAkDwB,iCAAU,GAAG,KAAK,C;;;;;;;;AAYlB,kCAAW,GAAG,MAAM,C;;;;;;;;AAWpB,qCAAc,GAAG,SAAS,C;;;;;;;;AAU1B,oCAAa,GAAG,QAAQ,C;;;;;;;;AAWxB,qCAAc,GAAG,SAAS,C;;;;;;;;AAY1B,oCAAa,GAAG,QAAQ,C;;;;;;;;AAWxB,mCAAY,GAAG,OAAO,C;;;;;;;;AAYtB,oCAAa,GAAG,QAAA;",
+"sources":["frameworks/projects/MXRoyale/src/main/royale/mx/events/CollectionEventKind.as"],
+"names":[]
+}

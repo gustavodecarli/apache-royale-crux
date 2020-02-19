@@ -19,4 +19,5 @@ cd ./apache-royale-crux/Client
 
 mvn royale:compile-app
  
-open -a "Google Chrome" ./target/bin/js-debug/index.html
+open -a "Google Chrome" ./target/bin/js-debug/index.html --args --disable-web-security 
+(if this not work, run from the vscode the client)

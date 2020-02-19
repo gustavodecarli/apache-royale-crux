@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ItemAddedEvent.js",
+"lineCount":66,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAoDkB,uCAAhB,WAA8B,CAAC,IAAW,EAAE,OAAqB,EAAE,UAAwB,C,CAC3F,C;;;;;oEAOoB,I,CAAK,C;EAGxB,KAAA,IAAI,GAAG,IAAI,C;AACZ,C;;;;;;;;;;;;;;AAUW,sDAAW,C;;;;;;;;AAKG,4DAAzB,WAAmC,CAAC,C,CACpC,C;EACC,IAAY,uDAAR,QAAuB,GAAG,IAAI,uCAAc,CAAC,KAAA,IAAI,CAAC,C;EACtD,QAAQ,CAAC,IAAI,GAAG,KAAA,IAAI,C;EACpB,OAAO,QAAQ,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/ItemAddedEvent.as"],
+"names":[]
+}

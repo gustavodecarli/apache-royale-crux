@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Viewport.js",
+"lineCount":44,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AAiDkB,+CAAhB,WAAwB,CAAC,C,CACzB,C;2EACiB,C;AACjB,C;;;;;;;;;;gFAOmC,CAAC,KAAa,C,CACjD,C;EACC,KAAA,OAAO,GAAG,KAAK,C;EAEf,KAAA,WAAW,GAAG,iDAAyB,CAAC,mCAAY,EAAE,cAAc,EAAE,KAAA,OAAO,CAAW,C;EAExF,IAAI,CAAC,KAAA,WAAW,C;IACf,KAAA,WAAW,GAAG,KAAe,C;EAGrB,KAAA,WAAW,CAAC,OAAO,CAAC,SAAS,CAAC,GAAG,CAAC,UAAU,CAAC,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/supportClasses/Viewport.as"],
+"names":[]
+}

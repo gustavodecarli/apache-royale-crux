@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CustomEvent.js",
+"lineCount":59,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmDkB,oCAAhB,WAA2B,CAAC,IAAW,EAAE,OAAqB,EAAE,UAAwB,C,CACxF,C;;;iEACgB,I,EAAM,O,EAAS,U,CAAW,C;AAC1C,C;;;;;;;;;;;;;;;;;;;;AAUyB,yDAAzB,WAAmC,CAAC,C,CACpC,C;EACC,OAAO,IAAI,oCAAW,CAAC,KAAA,IAAI,EAAE,KAAA,OAAO,EAAE,KAAA,UAAU,CAAC,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/CustomEvent.as"],
+"names":[]
+}

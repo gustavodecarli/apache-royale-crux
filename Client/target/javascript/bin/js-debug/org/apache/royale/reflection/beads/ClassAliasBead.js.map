@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ClassAliasBead.js",
+"lineCount":79,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA0DkB,iDAAhB,WAA8B,CAAC,C;;;;;;;;;;;;;;AAIb,qHAAe,C;;;;;;;;;;;;;;AAuCX,uEAAhB,WAA2B,CAAC,QAAe,EAAE,EAAgB,C,CAC7D,C;;EACI,IAAY,oCAAR,QAAQ,EAAI,8BAAJ,CAAW,EAAE,C;IACrB,KAAA,MAAM,GAAW,QAAS,C;EAC9B,C;AACJ,C;;;kFAhC0B,CAAC,KAAa,C,CACxC,C;EACI,IAAI,KAAA,yDAAO,IAAI,KAAK,C;IAAE,MAAM,C;EAC5B,KAAA,yDAAO,GAAG,KAAK,C;EACf,IAAO,gDAAH,GAAa,GAAG,KAAkB,C;EACtC,IAAQ,sBAAJ,IAAW,GAAG,GAAG,CAAC,IAAI,CAAC,CAAC,C;EAC5B,IAAO,sBAAH,GAAU,GAAG,IAAI,CAAC,oBAAoB,CAAC,C;EAC3C,IAAI,GAAG,EACP,C;IACI,KAAK,IAAM,sBAAF,EAAS,IAAI,GAAG,EACzB,C;MACI,IAAS,sBAAL,KAAY,G,wCAAG,GAAG,CAAC,EAAE,C,CAAC,C;MAC1B,IAAK,sBAAD,CAAO,G,6BAAG,gDAAmB,CAAC,EAAE,C,CAAU,C;MAC9C,IAAI,CAAC,C;QACD,+CAAkB,CAAC,KAAK,EAAE,CAAC,CAAC,C;IACpC,C;EACJ,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/beads/ClassAliasBead.as"],
+"names":[]
+}

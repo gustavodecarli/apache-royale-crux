@@ -8,7 +8,7 @@
  */
 
 goog.provide('entidadesbasicas.controlador.SeleccionarController');
-/* Royale Dependency List: entidadesbasicas.modelo.base.ModeloBase,entidadesbasicas.servicios.SeleccionarService,mx.rpc.events.FaultEvent,mx.rpc.events.ResultEvent,org.apache.royale.crux.utils.services.ServiceHelper,org.apache.royale.events.ValueChangeEvent,org.apache.royale.jewel.Alert,org.apache.royale.utils.Language*/
+/* Royale Dependency List: entidadesbasicas.modelo.base.ModeloBase,entidadesbasicas.servicios.SeleccionarService,mx.rpc.events.FaultEvent,mx.rpc.events.ResultEvent,org.apache.royale.collections.ArrayList,org.apache.royale.crux.utils.services.ServiceHelper,org.apache.royale.events.ValueChangeEvent,org.apache.royale.utils.Language*/
 
 goog.require('org.apache.royale.events.EventDispatcher');
 
@@ -50,7 +50,14 @@ entidadesbasicas.controlador.SeleccionarController.prototype.serviceHelper = nul
  * @export
  * @type {entidadesbasicas.modelo.base.ModeloBase}
  */
-entidadesbasicas.controlador.SeleccionarController.prototype.modelo_ = null;
+entidadesbasicas.controlador.SeleccionarController.prototype.currentModelo_ = null;
+
+
+/**
+ * @export
+ * @type {org.apache.royale.collections.ArrayList}
+ */
+entidadesbasicas.controlador.SeleccionarController.prototype.models_ = null;
 
 
 /**
@@ -60,7 +67,7 @@ entidadesbasicas.controlador.SeleccionarController.prototype.modelo_ = null;
  */
 entidadesbasicas.controlador.SeleccionarController.prototype.createDefault = function() {
 org.apache.royale.utils.Language.trace('[PostConstruct] executing createDefaultUser in UserController');
-this.modelo = new entidadesbasicas.modelo.base.ModeloBase();
+this.currentModelo = new entidadesbasicas.modelo.base.ModeloBase();
 };
 
 
@@ -81,8 +88,7 @@ this.serviceHelper.executeServiceCall(this.userService.ejecutar(modelo), org.apa
  * @param {mx.rpc.events.ResultEvent} event
  */
 entidadesbasicas.controlador.SeleccionarController.prototype.entidadesbasicas_controlador_SeleccionarController_handleSaveUserResult = function(event) {
-this.modelo = org.apache.royale.utils.Language.as(event.result, entidadesbasicas.modelo.base.ModeloBase);
-org.apache.royale.jewel.Alert.show('User saved successfully! id:' + event.result, 'Success');
+this.models = org.apache.royale.utils.Language.as(event.result, org.apache.royale.collections.ArrayList);
 };
 
 
@@ -95,19 +101,35 @@ org.apache.royale.utils.Language.trace(event.fault.faultDetail);
 };Object.defineProperties(entidadesbasicas.controlador.SeleccionarController.prototype, /** @lends {entidadesbasicas.controlador.SeleccionarController.prototype} */ {
 /** @export
   * @type {entidadesbasicas.modelo.base.ModeloBase} */
-modelo: {
+currentModelo: {
 /** @this {entidadesbasicas.controlador.SeleccionarController} */
 get: function() {
-return this.modelo_;
+return this.currentModelo_;
 },
 
 /** @this {entidadesbasicas.controlador.SeleccionarController} */
 set: function(value) {
-if (value != this.modelo_) {
-    var oldValue = this.modelo_;
-    this.modelo_ = value;
+if (value != this.currentModelo_) {
+    var oldValue = this.currentModelo_;
+    this.currentModelo_ = value;
     this.dispatchEvent(org.apache.royale.events.ValueChangeEvent.createUpdateEvent(
-         this, "modelo", oldValue, value));
+         this, "currentModelo", oldValue, value));
+}
+}},/** @export
+  * @type {org.apache.royale.collections.ArrayList} */
+models: {
+/** @this {entidadesbasicas.controlador.SeleccionarController} */
+get: function() {
+return this.models_;
+},
+
+/** @this {entidadesbasicas.controlador.SeleccionarController} */
+set: function(value) {
+if (value != this.models_) {
+    var oldValue = this.models_;
+    this.models_ = value;
+    this.dispatchEvent(org.apache.royale.events.ValueChangeEvent.createUpdateEvent(
+         this, "models", oldValue, value));
 }
 }}}
 );
@@ -137,7 +159,8 @@ return {
   },
   accessors: function () {
     return {
-      'modelo': { type: 'entidadesbasicas.modelo.base.ModeloBase', access: 'readwrite', declaredBy: 'entidadesbasicas.controlador.SeleccionarController', metadata: function () { return [ { name: 'Bindable' } ]; }}
+      'currentModelo': { type: 'entidadesbasicas.modelo.base.ModeloBase', access: 'readwrite', declaredBy: 'entidadesbasicas.controlador.SeleccionarController', metadata: function () { return [ { name: 'Bindable' } ]; }},
+      'models': { type: 'org.apache.royale.collections.ArrayList', access: 'readwrite', declaredBy: 'entidadesbasicas.controlador.SeleccionarController', metadata: function () { return [ { name: 'Bindable' } ]; }}
     };
   },
   methods: function () {

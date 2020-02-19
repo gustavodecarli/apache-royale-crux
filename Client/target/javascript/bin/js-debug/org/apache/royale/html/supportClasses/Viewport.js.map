@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"Viewport.js",
+"lineCount":126,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAyDkB,8CAAhB,WAAwB,CAAC,C;;;;;;;;;;;;;;;;AAIX,oEAAkB,C;;;;;;;AAelB,gEAAe,C;;;;;;;AAuCV,uEAAnB,WAAiC,CAAC,C,CAClC,C;EACC,KAAA,WAAW,CAAC,OAAO,CAAC,KAAK,CAAC,QAAQ,GAAG,QAAQ,C;AAC9C,C;;;;;;;;;;;;;;AAUsB,oEAAhB,WAA2B,CAAC,CAAQ,EAAE,CAAQ,C,CAC9C,C;;AAKA,C;;;;;;;;;;;;;;AAUU,0FAAhB,WAAiD,CAAC,KAAY,EAAE,MAAa,C,CAC7E,C;;AAOA,C;;;;;;;;;;;;;AAUgB,yFAAhB,WAAgD,CAAC,WAAgB,C,CACjE,C;;AAUA,C;;;oFAtGqC,CAAC,C,CAChC,C;EACI,OAAO,KAAA,WAAW,C;AACtB,C;;;+EAuBoB,CAAC,KAAa,C,CACxC,C;EACC,KAAA,OAAO,GAAG,KAAK,C;EAEf,IAAK,wBAAD,CAAU,GAA2D,oCAAxD,oCAAc,cAAU,CAAC,QAAQ,CAAC,KAAK,EAAE,cAAc,CAAC,EAAI,QAAJ,CAAY,C;EACrF,IAAI,CAAC,EACL,C;IACC,KAAA,WAAW,GAAG,IAAI,CAAC,CAAC,CAAW,C;EAChC,C;EAEA,IAAI,CAAC,KAAA,WAAW,C;IACf,KAAA,WAAW,GAAG,KAAe,C;EAC9B,KAAA,cAAc,CAAC,CAAC,CAAA;",
+"sources":["frameworks/projects/Basic/src/main/royale/org/apache/royale/html/supportClasses/Viewport.as"],
+"names":[]
+}

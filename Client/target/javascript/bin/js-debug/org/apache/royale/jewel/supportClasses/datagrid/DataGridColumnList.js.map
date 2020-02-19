@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"DataGridColumnList.js",
+"lineCount":46,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAwDkB,kEAAhB,WAAkC,CAAC,C,CACnC,C;8FACQ,C;EACP,KAAA,SAAS,GAAG,mBAAmB,C;AAChC,C;;;;;;;;;;;;;;AAcW,uFAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/supportClasses/datagrid/DataGridColumnList.as"],
+"names":[]
+}

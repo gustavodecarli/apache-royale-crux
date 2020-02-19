@@ -26,7 +26,7 @@
   <!-- Specifies the version of the compiled SWF -->
   <swf-version>14</swf-version>
 
-  <output>/Users/gustavo/Documents/Desarrollo/royale/test/apache-royale-cairngorm/Cairngorm/target/CruxQuickStart-0.9.7-SNAPSHOT.swf</output>
+  <output>/Users/gustavo/Documents/Desarrollo/royale/crux-remote/Client/target/CruxQuickStart-0.9.7-SNAPSHOT.swf</output>
 
   <compiler>
 
@@ -40,7 +40,7 @@
 
     <!-- List of path elements that form the roots of ActionScript class hierarchies. -->
     <source-path>
-           <path-element>/Users/gustavo/Documents/Desarrollo/royale/test/apache-royale-cairngorm/Cairngorm/src/main/royale</path-element>
+           <path-element>/Users/gustavo/Documents/Desarrollo/royale/crux-remote/Client/src/main/royale</path-element>
     </source-path>
 
     <!-- Allow the source-path to have path-elements which contain other path-elements -->
@@ -134,7 +134,7 @@
     <namespaces>
       <namespace>
         <uri>http://ns.adobe.com/mxml/2009</uri>
-        <manifest>/Users/gustavo/Documents/Desarrollo/royale/test/apache-royale-cairngorm/Cairngorm/target/mxml-language-manifest.xml</manifest>
+        <manifest>/Users/gustavo/Documents/Desarrollo/royale/crux-remote/Client/target/mxml-language-manifest.xml</manifest>
       </namespace>
     </namespaces>
 

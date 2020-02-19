@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IItemRendererParent.js",
+"lineCount":77,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+EA+C0B,CAAC,QAAsB,EAAE,aAAqB,C;;;;;;;iFAC5C,CAAC,QAAsB,EAAE,KAAS,C;;;;;;kFACjC,CAAC,QAAsB,C;;;;;;;uFAClB,CAAC,KAAS,C;;;;;;;iFACV,CAAC,KAAS,C;;sFACX,CAAC,C;;sFACD,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/IItemRendererParent.as"],
+"names":[]
+}

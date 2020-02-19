@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ClassFactory.js",
+"lineCount":71,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;AAgEkB,mCAAhB,WAA4B,CAAC,SAAoB,C,CACjD,C;;EACC,IAAI,CAAC,SAAS,GAAG,SAAS,C;AAC3B,C;;;;;;;;;;;;;AAvBW,uDAAe,C;;;;;;;AAUf,wDAAiB,C;;;;;;;;;;;;;AAuBZ,yDAAhB,WAA2B,CAAC,C,CAC5B,C;EACC,IAAO,iBAAH,GAAK,GAAG,IAAI,KAAA,SAAS,CAAC,CAAC,C;EAE3B,IAAI,KAAA,UAAU,EAAE,C;IACf,KAAK,IAAQ,sBAAJ,IAAW,IAAI,KAAA,UAAU,EAAE,C;MACnC,GAAG,CAAC,IAAI,CAAC,GAAG,KAAA,UAAU,CAAC,IAAI,CAAC,C;IAC7B,C;EACD,C;EAEA,OAAO,GAAG,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/ClassFactory.as"],
+"names":[]
+}

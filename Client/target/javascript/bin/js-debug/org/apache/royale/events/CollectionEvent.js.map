@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"CollectionEvent.js",
+"lineCount":118,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAuDkB,wCAAhB,WAA+B,CAAC,IAAW,EAAE,OAAqB,EAAE,UAAwB,C,CAC5F,C;;;qEACgB,I,EAAM,O,EAAS,U,CAAW,C;AAC1C,C;;;;;;;;;;;;;;;AAzBoB,mDAAiB,GAAG,WAAW,C;;;;;;;;AAC/B,qDAAmB,GAAG,aAAa,C;;;;;;;;AAC7B,0DAAwB,GAAG,iBAAiB,C;;;;;;;;AAClD,qDAAmB,GAAG,aAAa,C;;;;;;;;AACnC,2DAAyB,GAAG,mBAAmB,C;;;;;;;AA+BxD,wD,IAAS,C;;;;;;;AAUH,uDAAW,C;;;;;;;AAUjB,wDAAW,C;;;;;;;AAES,6DAAzB,WAAmC,CAAC,C,CACpC,C;EACI,IAAmB,wDAAf,eAA+B,GAAG,IAAI,wCAAe,CAAC,KAAA,IAAI,EAAE,KAAA,OAAO,EAAE,KAAA,UAAU,CAAC,C;EAC7F,eAAe,CAAC,IAAI,GAAG,KAAA,IAAI,C;EAC3B,eAAe,CAAC,KAAK,GAAG,KAAA,KAAK,C;EAC7B,eAAe,CAAC,KAAK,GAAG,KAAA,KAAK,C;EAE7B,OAAO,eAAe,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/CollectionEvent.as"],
+"names":[]
+}

@@ -60,7 +60,7 @@ entidadesbasicas.servicios.SeleccionarService.prototype.ejecutar = function(user
   var /** @type {mx.rpc.remoting.mxml.RemoteObject} */ unRemote = new mx.rpc.remoting.mxml.RemoteObject();
   unRemote.destination = "monedas";
   unRemote.setDocument(null, "idsds");
-  unRemote.endpoint = "http://localhost:8080/CairngormServer/messagebroker/amf";
+  unRemote.endpoint = "http://localhost:8080/CruxServer/messagebroker/amf";
   return unRemote.getOperation("seleccionar").send();
 };
 

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ItemClickedEvent.js",
+"lineCount":80,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAuDkB,yCAAhB,WAAgC,CAAC,IAAW,EAAE,OAAqB,EAAE,UAAwB,C,CAC7F,C;;;;;sEAOQ,I,CAAK,C;EAGZ,KAAA,KAAK,GAAG,EAAC,C;EACT,KAAA,IAAI,GAAG,IAAI,C;AACZ,C;;;;;;;;;;;;;;AAUW,yDAAY,C;;;;;;;AAUZ,wDAAW,C;;;;;;;;;;;;;AAYG,8DAAzB,WAAmC,CAAC,C,CACpC,C;EACC,IAAY,yDAAR,QAAyB,GAAG,IAAI,yCAAgB,CAAC,KAAA,IAAI,CAAC,C;EAC1D,QAAQ,CAAC,KAAK,GAAG,KAAA,KAAK,C;EACtB,QAAQ,CAAC,IAAI,GAAG,KAAA,IAAI,C;EACpB,OAAO,QAAQ,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/ItemClickedEvent.as"],
+"names":[]
+}

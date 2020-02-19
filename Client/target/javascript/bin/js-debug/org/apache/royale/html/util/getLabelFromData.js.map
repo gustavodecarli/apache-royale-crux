@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"getLabelFromData.js",
+"lineCount":39,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;4CA4BI,WAAgC,CAAC,GAAU,EAAC,IAAW,C,CACvD,C;EAEI,IAAQ,oCAAJ,IAAI,EAAI,MAAJ,CAAU,C;IAAE,OAAO,EAAE,GAAG,IAAI,C;EACpC,IAAG,CAAC,IAAI,C;IAAE,OAAO,EAAE,C;EAEnB,IAAI,GAAG,CAAC,YAAY,CAAC,C;IAAE,OAAO,EAAE,GAAG,IAAI,CAAC,GAAG,CAAC,YAAY,CAAC,CAAC,C;EAC1D,IAAI,GAAG,CAAC,WAAW,CAAC,C;IAAE,OAAO,EAAE,GAAG,IAAI,CAAC,GAAG,CAAC,WAAW,CAAC,CAAC,C;EACxD,IAAS,sBAAL,KAAY,G,wCAAG,IAAI,CAAC,OAAO,C,CAAC,C;EAChC,IAAG,KAAK,IAAI,IAAI,EAAC,C;IACb,OAAO,KAAK,C;EAChB,C;EACA,OAAO,EAAE,GAAG,IAAI,CAAA;",
+"sources":["frameworks/projects/Basic/src/main/royale/org/apache/royale/html/util/getLabelFromData.as"],
+"names":[]
+}

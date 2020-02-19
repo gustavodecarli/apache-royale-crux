@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"DataGridCollectionViewModel.js",
+"lineCount":87,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA6CkB,+DAAhB,WAA2C,CAAC,C,CAC5C,C;2FACQ,C;AACR,C;;;;;;;;;;;;;;AAEY,kJAAc,C;;;;;;;AAuBd,sJAAuB,C;;;;;;;AAwBlB,iKAAjB,WAAwC,CAAC,KAAW,C,CACpD,C;EACC,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,oBAAoB,CAAC,CAAC,C;AAC/C,C;;;iGAvC2B,CAAC,C,CAC5B,C;EACC,OAAO,KAAA,wEAAQ,C;AAChB,C;;;iGAC2B,CAAC,KAAW,C,CACvC,C;EACC,IAAI,KAAA,wEAAQ,IAAI,KAAK,EAAE,C;IACtB,KAAA,wEAAQ,GAAG,KAAK,C;IAChB,KAAA,aAAa,CAAE,IAAI,8BAAK,CAAC,gBAAgB,CAAC,CAAC,C;EAC5C,C;AACD,C;;;qGAY+B,CAAC,C,CAChC,C;EACC,OAAO,KAAA,4EAAY,C;AACpB,C;;;qGAC+B,CAAC,KAAgB,C,CAChD,C;EACC,IAAI,KAAA,4EAAY,IAAI,KAAK,EAAE,C;IAC1B,KAAA,4EAAY,GAAG,KAAK,C;IACpB,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,oBAAoB,CAAC,CAAC,C;IAE9C,KAAA,4EAAY,CAAC,gBAAgB,CAAC,qBAAqB,E,yCAAE,K,yHAAuB,CAAC,C;EAC9E,CAAA;",
+"sources":["frameworks/projects/Basic/src/main/royale/org/apache/royale/html/beads/models/DataGridCollectionViewModel.as"],
+"names":[]
+}

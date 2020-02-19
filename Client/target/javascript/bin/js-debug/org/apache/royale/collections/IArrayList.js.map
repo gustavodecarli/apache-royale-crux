@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"IArrayList.js",
+"lineCount":157,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;qEAuEkB,CAAC,C;;;;;;;;;;;;;uEAUO,CAAC,KAAS,C;;;;;;;;;;;;;0EAUb,CAAC,IAAW,C;;;;;;;;;;;;qEAUjB,CAAC,IAAW,C;;;;;;;;;;;;;uEAUV,CAAC,IAAW,EAAE,KAAS,C;;;;;;;;;;;;;;;uEAWvB,CAAC,IAAW,EAAE,KAAS,C;;;;;;;;;;;;;wEAUtB,CAAC,IAAW,C;;;;;;;;;;;;;;0EAWV,CAAC,KAAS,C;;uEAUb,CAAC,C;;;;;;;;;;;;yEAUC,CAAC,IAAW,C;;;;;;;;;;;;2EAUV,CAAC,KAAA;",
+"sources":["frameworks/projects/Collections/src/main/royale/org/apache/royale/collections/IArrayList.as"],
+"names":[]
+}

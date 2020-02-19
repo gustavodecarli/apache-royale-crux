@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ListPresentationModel.js",
+"lineCount":89,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA4CkB,0DAAhB,WAAqC,CAAC,C,CACtC,C;sFACQ,C;AACR,C;;;;;;;;;;;;;;AAEY,0IAAiB,GAAG,EAAE,C;;;;;;;AAqBtB,sIAAa,GAAG,MAAM,C;;;;;;;AAqBpB,4EAAe,C;;;8FAjCA,CAAC,C,CAC9B,C;EACC,OAAO,KAAA,qEAAU,C;AAClB,C;;;8FAC6B,CAAC,KAAY,C,CAC1C,C;EACC,IAAI,KAAK,IAAI,KAAA,qEAAU,EAAE,C;IACxB,KAAA,qEAAU,GAAG,KAAK,C;IAClB,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,kBAAkB,CAAC,CAAC,C;EAC7C,C;AACD,C;;;0FAWyB,CAAC,C,CAC1B,C;EACC,OAAO,KAAA,iEAAM,C;AACd,C;;;0FACyB,CAAC,KAAY,C,CACtC,C;EACC,IAAI,KAAK,IAAI,KAAA,iEAAM,EAAE,C;IACpB,KAAA,iEAAM,GAAG,KAAK,C;IACd,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,cAAc,CAAC,CAAC,C;EACzC,C;AACD,C;;;2FAW0B,CAAC,KAAa,C,CACxC,C;EACC,KAAA,OAAO,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/beads/models/ListPresentationModel.as"],
+"names":[]
+}

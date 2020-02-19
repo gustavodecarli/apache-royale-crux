@@ -8,7 +8,7 @@
  */
 
 goog.provide('entidadesbasicas.vistas.MonedaForm');
-/* Royale Dependency List: org.apache.royale.binding.ContainerDataBinding,org.apache.royale.jewel.Form,org.apache.royale.jewel.FormHeading,org.apache.royale.jewel.Button,entidadesbasicas.eventos.SeleccionarEvent,org.apache.royale.events.MouseEvent,org.apache.royale.events.ValueChangeEvent*/
+/* Royale Dependency List: org.apache.royale.binding.ContainerDataBinding,org.apache.royale.jewel.Form,org.apache.royale.jewel.FormHeading,org.apache.royale.jewel.Button,org.apache.royale.jewel.DataGrid,org.apache.royale.jewel.supportClasses.datagrid.DataGridColumn,entidadesbasicas.eventos.SeleccionarEvent,org.apache.royale.events.MouseEvent,org.apache.royale.events.ValueChangeEvent*/
 
 goog.require('org.apache.royale.jewel.GridCell');
 
@@ -31,7 +31,7 @@ entidadesbasicas.vistas.MonedaForm = function() {
    * @private
    * @type {org.apache.royale.jewel.Form}
    */
-  this.$ID3_;
+  this.$ID6_;
   
   /**
    * @private
@@ -44,6 +44,24 @@ entidadesbasicas.vistas.MonedaForm = function() {
    * @type {org.apache.royale.jewel.Button}
    */
   this.$ID2_;
+  
+  /**
+   * @private
+   * @type {org.apache.royale.jewel.DataGrid}
+   */
+  this.dg_;
+  
+  /**
+   * @private
+   * @type {org.apache.royale.jewel.supportClasses.datagrid.DataGridColumn}
+   */
+  this.$ID3_;
+  
+  /**
+   * @private
+   * @type {org.apache.royale.jewel.supportClasses.datagrid.DataGridColumn}
+   */
+  this.$ID4_;
   
   /**
    * @private
@@ -113,6 +131,23 @@ entidadesbasicas.vistas.MonedaForm.prototype.moneda_ = null;
 
 /**
  * @export
+ * @type {org.apache.royale.collections.ArrayList}
+ */
+entidadesbasicas.vistas.MonedaForm.prototype.monedas_ = null;
+
+
+/**
+ * @export
+ * @param {org.apache.royale.collections.ArrayList} val
+ */
+entidadesbasicas.vistas.MonedaForm.prototype.setMonedas = function(val) {
+  this.monedas = val;
+  this.dg.dataProvider = val;
+};
+
+
+/**
+ * @export
  * @param {entidadesbasicas.modelo.Moneda} val
  */
 entidadesbasicas.vistas.MonedaForm.prototype.setUser = function(val) {
@@ -150,6 +185,22 @@ if (value != this.moneda_) {
     this.dispatchEvent(org.apache.royale.events.ValueChangeEvent.createUpdateEvent(
          this, "moneda", oldValue, value));
 }
+}},/** @export
+  * @type {org.apache.royale.collections.ArrayList} */
+monedas: {
+/** @this {entidadesbasicas.vistas.MonedaForm} */
+  get: function() {
+  return this.monedas_;
+  },
+
+/** @this {entidadesbasicas.vistas.MonedaForm} */
+set: function(value) {
+if (value != this.monedas_) {
+    var oldValue = this.monedas_;
+    this.monedas_ = value;
+    this.dispatchEvent(org.apache.royale.events.ValueChangeEvent.createUpdateEvent(
+         this, "monedas", oldValue, value));
+}
 }}}
 );/**
  * @export
@@ -162,7 +213,21 @@ entidadesbasicas.vistas.MonedaForm.prototype.$EH0 = function(event)
 
 
 Object.defineProperties(entidadesbasicas.vistas.MonedaForm.prototype, /** @lends {entidadesbasicas.vistas.MonedaForm.prototype} */ {
-'MXMLDescriptor': {
+/** @export */
+    dg: {
+    /** @this {entidadesbasicas.vistas.MonedaForm} */
+    get: function() {
+      return this.dg_;
+    },
+    /** @this {entidadesbasicas.vistas.MonedaForm} */
+    set: function(value) {
+      if (value != this.dg_) {
+        this.dg_ = value;
+        this.dispatchEvent(org.apache.royale.events.ValueChangeEvent.createUpdateEvent(this, 'dg', null, value));
+      }
+    }
+  },
+  'MXMLDescriptor': {
     /** @this {entidadesbasicas.vistas.MonedaForm} */
     get: function() {
       if (this.mxmldd == undefined)
@@ -175,7 +240,7 @@ Object.defineProperties(entidadesbasicas.vistas.MonedaForm.prototype, /** @lends
           1,
           '_id',
           true,
-          '$ID3',
+          '$ID6',
           0,
           0,
           [
@@ -186,7 +251,7 @@ Object.defineProperties(entidadesbasicas.vistas.MonedaForm.prototype, /** @lends
             '$ID1',
             'label',
             true,
-            'User Form (Crux Quickstart Example)',
+            'Crux + Remote Object + Jewel',
             0,
             0,
             null,
@@ -202,6 +267,61 @@ Object.defineProperties(entidadesbasicas.vistas.MonedaForm.prototype, /** @lends
             1,
             'click',
 this.$EH0,
+            null,
+            org.apache.royale.jewel.DataGrid,
+            5,
+            '_id',
+            true,
+            'dg',
+            'width',
+            true,
+            400,
+            'height',
+            true,
+            500,
+            'emphasis',
+            true,
+            'primary',
+            'columns',
+            null,
+            [
+              org.apache.royale.jewel.supportClasses.datagrid.DataGridColumn,
+              4,
+              '_id',
+              true,
+              '$ID3',
+              'label',
+              true,
+              'Codigo',
+              'dataField',
+              true,
+              'codigo',
+              'columnWidth',
+              true,
+              200,
+              0,
+              0,
+              null,
+              org.apache.royale.jewel.supportClasses.datagrid.DataGridColumn,
+              4,
+              '_id',
+              true,
+              '$ID4',
+              'label',
+              true,
+              'Descripcion',
+              'dataField',
+              true,
+              'descripcion',
+              'columnWidth',
+              true,
+              200,
+              0,
+              0,
+              null
+            ],
+            0,
+            0,
             null
           ]
         ];
@@ -232,12 +352,14 @@ entidadesbasicas.vistas.MonedaForm.prototype.ROYALE_REFLECTION_INFO = function (
   return {
     accessors: function () {
       return {
+        'monedas': { type: 'org.apache.royale.collections.ArrayList', access: 'readwrite', declaredBy: 'entidadesbasicas.vistas.MonedaForm', metadata: function () { return [ { name: 'Bindable' } ]; }},
         'moneda': { type: 'entidadesbasicas.modelo.Moneda', access: 'readwrite', declaredBy: 'entidadesbasicas.vistas.MonedaForm', metadata: function () { return [ { name: 'Bindable' } ]; }}
       };
     },
     methods: function () {
       return {
-        'setUser': { type: 'void', declaredBy: 'entidadesbasicas.vistas.MonedaForm', parameters: function () { return [ 'entidadesbasicas.modelo.Moneda', false ]; }, metadata: function () { return [ { name: 'Inject', args: [ { key: 'source', value: 'SelleccionarController.currentUser' }, { key: 'bind', value: 'true' } ] } ]; }},
+        'setMonedas': { type: 'void', declaredBy: 'entidadesbasicas.vistas.MonedaForm', parameters: function () { return [ 'org.apache.royale.collections.ArrayList', false ]; }, metadata: function () { return [ { name: 'Inject', args: [ { key: 'source', value: 'userController.models' }, { key: 'bind', value: 'true' } ] } ]; }},
+        'setUser': { type: 'void', declaredBy: 'entidadesbasicas.vistas.MonedaForm', parameters: function () { return [ 'entidadesbasicas.modelo.Moneda', false ]; }, metadata: function () { return [ { name: 'Inject', args: [ { key: 'source', value: 'userController.currentModelo' }, { key: 'bind', value: 'true' } ] } ]; }},
         'MonedaForm': { type: '', declaredBy: 'entidadesbasicas.vistas.MonedaForm'}
       };
     }
@@ -248,6 +370,7 @@ entidadesbasicas.vistas.MonedaForm.prototype.ROYALE_REFLECTION_INFO = function (
  * @type {number}
  */
 entidadesbasicas.vistas.MonedaForm.prototype.ROYALE_COMPILE_FLAGS = 15;
+goog.exportProperty(entidadesbasicas.vistas.MonedaForm.prototype, 'setMonedas', entidadesbasicas.vistas.MonedaForm.prototype.setMonedas);
 goog.exportProperty(entidadesbasicas.vistas.MonedaForm.prototype, 'setUser', entidadesbasicas.vistas.MonedaForm.prototype.setUser);
 
 

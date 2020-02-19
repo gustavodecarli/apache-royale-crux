@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ContainerBase.js",
+"lineCount":126,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAqFkB,8DAAhB,WAA6B,CAAC,C,CAC9B,C;0FACQ,C;AACR,C;;;;;;;;;;;;;;AAEY,uJAA2C,C;;;;;;;;;;;AAoHvC,oFAAhB,WAA2B,CAAC,CAAQ,EAAE,aAA4B,C,CAClE,C;;sGACkB,C,EAAG,a,GAAc,C;AACnC,C;;;;;;;;;;;;AAOgB,sFAAhB,WAA6B,CAAC,CAAQ,EAAE,KAAS,EAAE,aAA4B,C,CAC/E,C;;wGACoB,C,EAAG,K,EAAO,a,GAAc,C;AAC5C,C;;;;;;;;;;;AAOgB,uFAAhB,WAA8B,CAAC,CAAQ,EAAE,aAA4B,C,CACrE,C;;yGACqB,C,EAAG,a,GAAc,C;AACtC,C;;;;;;;;;;;AAOgB,yFAAhB,WAAgC,CAAC,CAAQ,C,CACzC,C;EACC,O,yGAA6B,C,GAAE,C;AAChC,C;;;;;;;;;;;AAOgB,sFAAhB,WAA6B,CAAC,KAAS,C,CACvC,C;EACC,O,sGAA0B,K,GAAM,C;AACjC,C;;;uGA1J2C,CAAC,C,CAC5C,C;EACC,IAAI,KAAA,8EAAe,IAAI,IAAI,EAAE,C;IAC5B,KAAA,8EAAe,GAAG,IAAI,kDAA2B,CAAC,IAAI,CAAC,C;EACxD,C;EACA,OAAO,KAAA,8EAAe,C;AACvB,C;;;qGA+FgC,CAAC,C,CACjC,C;EACC,O,uGAAwB,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/supportClasses/container/ContainerBase.as"],
+"names":[]
+}

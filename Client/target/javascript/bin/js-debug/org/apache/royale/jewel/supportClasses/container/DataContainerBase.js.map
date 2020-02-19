@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"DataContainerBase.js",
+"lineCount":76,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAsDkB,kEAAhB,WAAiC,CAAC,C,CAClC,C;8FACQ,C;AACR,C;;;;;;;;;;;;;;AAMY,8JAAsB,C;;;;;;;;AAKT,0FAAzB,WAAsC,CAAC,C,CACvC,C;EACC,IAAI,CAAC,KAAA,iFAAc,EACnB,C;IACC,oCAAc,cAAU,CAAC,IAAI,CAAC,IAAI,CAAC,C;IACnC,KAAA,iFAAc,GAAG,IAAI,C;EACtB,C;0GAEqB,C;EAErB,KAAA,aAAa,CAAC,IAAI,8BAAK,CAAC,cAAc,CAAC,CAAC,C;AACzC,C;;;;;;;AAyBY,6JAAsB,GAAG,IAAI,C;;;yGAUT,CAAC,C,CACjC,C;EACC,OAAO,KAAA,gFAAa,C;AACrB,C;;;yGACgC,CAAC,KAAc,C,CAC/C,C;EACC,KAAA,gFAAa,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/supportClasses/container/DataContainerBase.as"],
+"names":[]
+}

@@ -24,41 +24,70 @@ goog.require('mx.messaging.messages.CommandMessageExt');
 goog.require('mx.messaging.messages.ErrorMessage');
 goog.require('mx.messaging.messages.MessagePerformanceInfo');
 goog.require('mx.messaging.messages.RemotingMessage');
+goog.require('org.apache.royale.collections.ArrayList');
+goog.require('org.apache.royale.core.ItemRendererClassFactory');
+goog.require('org.apache.royale.core.ItemRendererClassFactory');
 goog.require('org.apache.royale.core.SimpleCSSValuesImpl');
 goog.require('org.apache.royale.crux.Crux');
 goog.require('org.apache.royale.crux.CruxConfig');
 goog.require('org.apache.royale.crux.beads.JSStageEvents');
 goog.require('org.apache.royale.events.Event');
+goog.require('org.apache.royale.html.beads.ContainerView');
+goog.require('org.apache.royale.html.beads.ContainerView');
 goog.require('org.apache.royale.html.beads.GroupView');
 goog.require('org.apache.royale.html.beads.GroupView');
-goog.require('org.apache.royale.html.beads.GroupView');
+goog.require('org.apache.royale.html.beads.controllers.ItemRendererMouseController');
+goog.require('org.apache.royale.html.beads.models.ButtonBarModel');
+goog.require('org.apache.royale.html.beads.models.DataGridCollectionViewModel');
+goog.require('org.apache.royale.html.beads.models.ViewportModel');
+goog.require('org.apache.royale.html.beads.models.ViewportModel');
+goog.require('org.apache.royale.html.beads.models.ViewportModel');
 goog.require('org.apache.royale.jewel.Application');
 goog.require('org.apache.royale.jewel.View');
-goog.require('org.apache.royale.jewel.beads.controllers.AlertController');
+goog.require('org.apache.royale.jewel.beads.controllers.ItemRendererMouseController');
+goog.require('org.apache.royale.jewel.beads.controllers.ListSingleSelectionMouseController');
+goog.require('org.apache.royale.jewel.beads.controllers.ListSingleSelectionMouseController');
+goog.require('org.apache.royale.jewel.beads.itemRenderers.DataItemRendererFactoryForCollectionView');
+goog.require('org.apache.royale.jewel.beads.itemRenderers.DataItemRendererFactoryForCollectionView');
 goog.require('org.apache.royale.jewel.beads.layouts.BasicLayout');
+goog.require('org.apache.royale.jewel.beads.layouts.BasicLayout');
+goog.require('org.apache.royale.jewel.beads.layouts.ButtonBarLayout');
+goog.require('org.apache.royale.jewel.beads.layouts.ButtonBarLayout');
+goog.require('org.apache.royale.jewel.beads.layouts.DataGridLayout');
 goog.require('org.apache.royale.jewel.beads.layouts.FormLayout');
 goog.require('org.apache.royale.jewel.beads.layouts.GridCellLayout');
 goog.require('org.apache.royale.jewel.beads.layouts.HorizontalLayout');
 goog.require('org.apache.royale.jewel.beads.layouts.HorizontalLayout');
-goog.require('org.apache.royale.jewel.beads.layouts.HorizontalLayout');
-goog.require('org.apache.royale.jewel.beads.layouts.NullLayout');
 goog.require('org.apache.royale.jewel.beads.layouts.NullLayout');
 goog.require('org.apache.royale.jewel.beads.layouts.VerticalLayout');
-goog.require('org.apache.royale.jewel.beads.models.AlertModel');
+goog.require('org.apache.royale.jewel.beads.models.ArrayListSelectionModel');
+goog.require('org.apache.royale.jewel.beads.models.DataGridPresentationModel');
 goog.require('org.apache.royale.jewel.beads.models.TextModel');
 goog.require('org.apache.royale.jewel.beads.models.TextModel');
-goog.require('org.apache.royale.jewel.beads.models.TitleBarModel');
-goog.require('org.apache.royale.jewel.beads.views.AlertView');
+goog.require('org.apache.royale.jewel.beads.views.ButtonBarView');
+goog.require('org.apache.royale.jewel.beads.views.DataGridView');
 goog.require('org.apache.royale.jewel.beads.views.FormHeadingView');
-goog.require('org.apache.royale.jewel.beads.views.TitleBarView');
+goog.require('org.apache.royale.jewel.beads.views.ListView');
+goog.require('org.apache.royale.jewel.itemRenderers.ButtonBarItemRenderer');
+goog.require('org.apache.royale.jewel.itemRenderers.DataGridItemRenderer');
+goog.require('org.apache.royale.jewel.itemRenderers.ListItemRenderer');
+goog.require('org.apache.royale.jewel.supportClasses.Viewport');
+goog.require('org.apache.royale.jewel.supportClasses.datagrid.DataGridButtonBar');
+goog.require('org.apache.royale.jewel.supportClasses.datagrid.DataGridColumnList');
+goog.require('org.apache.royale.jewel.supportClasses.datagrid.DataGridListArea');
+goog.require('org.apache.royale.jewel.supportClasses.scrollbar.ScrollingViewport');
+goog.require('org.apache.royale.jewel.supportClasses.scrollbar.ScrollingViewport');
 goog.require('org.apache.royale.net.remoting.messages.ActionMessage');
 goog.require('org.apache.royale.net.remoting.messages.MessageBody');
 goog.require('org.apache.royale.net.remoting.messages.MessageHeader');
+goog.require('org.apache.royale.reflection.beads.ClassAliasBead');
+goog.require('org.apache.royale.reflection.registerClassAlias');
 goog.require('org.apache.royale.jewel.Application');
 goog.require('org.apache.royale.reflection.getDefinitionByName');
 goog.require('mx.utils.UIDUtil');
 goog.require('org.apache.royale.crux.BeanFactory');
 goog.require('mx.events.SecurityErrorEvent');
+goog.require('org.apache.royale.jewel.supportClasses.datagrid.DataGridColumn');
 goog.require('mx.net.ObjectEncoding');
 goog.require('mx.net.NetConnection');
 goog.require('org.apache.royale.core.IStyleObject');
@@ -76,7 +105,6 @@ goog.require('mx.logging.LogEventLevel');
 goog.require('org.apache.royale.crux.utils.services.CruxURLRequest');
 goog.require('org.apache.royale.utils.Endian');
 goog.require('org.apache.royale.utils.Base64');
-goog.require('org.apache.royale.jewel.Button');
 goog.require('org.apache.royale.crux.ISetUpValidator');
 goog.require('mx.utils.ObjectUtil');
 goog.require('org.apache.royale.crux.metadata.PreDestroyMetadataTag');
@@ -101,12 +129,14 @@ goog.require('org.apache.royale.crux.IInitializing');
 goog.require('mx.events.AsyncErrorEvent');
 goog.require('mx.managers.SystemManagerGlobals');
 goog.require('mx.events.IOErrorEvent');
-goog.require('org.apache.royale.events.CloseEvent');
 goog.require('org.apache.royale.debugging.assertType');
 goog.require('mx.core.IFlexModuleFactory');
+goog.require('org.apache.royale.geom.Size');
 goog.require('org.apache.royale.utils.sendStrandEvent');
 goog.require('mx.logging.LogEvent');
 goog.require('org.apache.royale.reflection.TypeDefinition');
+goog.require('org.apache.royale.core.IState');
+goog.require('org.apache.royale.core.IContentView');
 goog.require('org.apache.royale.crux.utils.chain.IAsyncChainStep');
 goog.require('org.apache.royale.crux.utils.event.EventHandler');
 goog.require('org.apache.royale.crux.reflection.MetadataArg');
@@ -116,8 +146,6 @@ goog.require('org.apache.royale.debugging.assert');
 goog.require('org.apache.royale.reflection.MethodDefinition');
 goog.require('org.apache.royale.reflection.MetaDataDefinition');
 goog.require('mx.collections.errors.CursorError');
-goog.require('org.apache.royale.jewel.Alert');
-goog.require('org.apache.royale.html.beads.layouts.LayoutChangeNotifier');
 goog.require('org.apache.royale.core.AllCSSValuesImpl');
 goog.require('org.apache.royale.crux.processors.IFactoryProcessor');
 goog.require('org.apache.royale.utils.StringTrimmer');
@@ -130,7 +158,6 @@ goog.require('org.apache.royale.reflection.getDynamicFields');
 goog.require('mx.rpc.remoting.mxml.Operation');
 goog.require('mx.messaging.events.ChannelFaultEvent');
 goog.require('mx.errors.IllegalOperationError');
-goog.require('org.apache.royale.binding.MXMLBeadViewDataBinding');
 goog.require('org.apache.royale.crux.utils.services.CruxResponder');
 goog.require('mx.messaging.config.ServerConfig');
 goog.require('mx.core.IPropertyChangeNotifier');
@@ -151,6 +178,7 @@ goog.require('org.apache.royale.reflection.ParameterDefinition');
 goog.require('org.apache.royale.reflection.utils.filterForMetaTags');
 goog.require('org.apache.royale.crux.processors.DispatcherProcessor');
 goog.require('org.apache.royale.utils.html.getStyle');
+goog.require('org.apache.royale.core.ContainerBaseStrandChildren');
 goog.require('org.apache.royale.utils.loadBeadFromValuesManager');
 goog.require('entidadesbasicas.servicios.SeleccionarService');
 goog.require('org.apache.royale.crux.reflection.TypeDescriptor');
@@ -169,7 +197,6 @@ goog.require('org.apache.royale.core.layout.LayoutData');
 goog.require('mx.messaging.errors.NoChannelAvailableError');
 goog.require('org.apache.royale.utils.StringPadder');
 goog.require('org.apache.royale.crux.utils.view.applicationContains');
-goog.require('org.apache.royale.jewel.TitleBar');
 goog.require('org.apache.royale.utils.Timer');
 goog.require('mx.rpc.ActiveCalls');
 goog.require('mx.logging.errors.InvalidCategoryError');
@@ -184,12 +211,15 @@ goog.require('mx.events.NetStatusEvent');
 goog.require('mx.messaging.RoyaleClient');
 goog.require('org.apache.royale.reflection.utils.getMembersWithNameMatch');
 goog.require('org.apache.royale.crux.utils.view.simulatedSingleEnterFrame');
+goog.require('org.apache.royale.events.ItemClickedEvent');
 goog.require('org.apache.royale.crux.reflection.MethodParameter');
+goog.require('org.apache.royale.html.util.getLabelFromData');
 goog.require('org.apache.royale.crux.utils.services.MockDelegateHelper');
 goog.require('mx.utils.ArrayUtil');
 goog.require('org.apache.royale.events.MouseEvent');
 goog.require('mx.logging.Log');
 goog.require('mx.utils.URLUtil');
+goog.require('org.apache.royale.core.SimpleCSSStylesWithFlex');
 goog.require('org.apache.royale.utils.LocaleUtils');
 goog.require('org.apache.royale.reflection.nativejs.AS3Number');
 goog.require('org.apache.royale.core.styles.BorderStyles');
@@ -207,6 +237,7 @@ goog.require('org.apache.royale.geom.Point');
 goog.require('mx.resources.LocaleSorter');
 goog.require('org.apache.royale.crux.processors.ProcessorPriority');
 goog.require('org.apache.royale.reflection.utils.getMembers');
+goog.require('org.apache.royale.events.ItemAddedEvent');
 goog.require('org.apache.royale.crux.reflection.TypeCache');
 goog.require('org.apache.royale.reflection.getAliasByClass');
 goog.require('mx.utils.StringUtil');
@@ -222,13 +253,14 @@ goog.require('org.apache.royale.net.remoting.amf.AMFBinaryData');
 goog.require('org.apache.royale.crux.ITearDownValidator');
 goog.require('QName');
 goog.require('org.apache.royale.crux.binding.CruxBinding');
-goog.require('org.apache.royale.states.State');
 goog.require('mx.netmon.NetworkMonitor');
 goog.require('org.apache.royale.core.ValuesManager');
 goog.require('org.apache.royale.events.ValueChangeEvent');
+goog.require('org.apache.royale.core.ClassFactory');
 goog.require('mx.messaging.errors.ArgumentError');
 goog.require('mx.messaging.messages.MessagePerformanceUtils');
 goog.require('org.apache.royale.utils.StringUtil');
+goog.require('org.apache.royale.events.CollectionEvent');
 goog.require('org.apache.royale.net.Responder');
 goog.require('org.apache.royale.reflection.nativejs.AS3Vector');
 goog.require('mx.collections.SortField');
@@ -236,6 +268,7 @@ goog.require('mx.utils.ByteArray');
 goog.require('org.apache.royale.utils.string.trim');
 goog.require('entidadesbasicas.controlador.SeleccionarController');
 goog.require('org.apache.royale.utils.net.IDynamicPropertyWriter');
+goog.require('org.apache.royale.jewel.beads.controls.TextAlign');
 goog.require('org.apache.royale.crux.factories.MetadataHostFactory');
 goog.require('org.apache.royale.core.layout.MarginData');
 goog.require('mx.messaging.errors.InvalidChannelError');
@@ -243,11 +276,11 @@ goog.require('org.apache.royale.crux.processors.EventHandlerProcessor');
 goog.require('org.apache.royale.crux.binding.BindingUtils');
 goog.require('org.apache.royale.crux.metadata.EventHandlerMetadataTag');
 goog.require('org.apache.royale.reflection.nativejs.AS3uint');
+goog.require('org.apache.royale.jewel.DataGrid');
 goog.require('mx.managers.ICursorManager');
 goog.require('mx.rpc.mxml.Concurrency');
 goog.require('org.apache.royale.crux.reflection.MetadataHostClass');
 goog.require('mx.messaging.channels.SecureAMFChannel');
-goog.require('org.apache.royale.jewel.ControlBar');
 goog.require('mx.rpc.Fault');
 goog.require('org.apache.royale.binding.ChainBinding');
 goog.require('mx.utils.RPCStringUtil');
@@ -255,10 +288,10 @@ goog.require('mx.logging.ILoggingTarget');
 goog.require('mx.rpc.events.InvokeEvent');
 goog.require('org.apache.royale.crux.reflection.ClassConstant');
 goog.require('org.apache.royale.binding.PropertyWatcher');
-goog.require('org.apache.royale.jewel.VGroup');
 goog.require('org.apache.royale.utils.sendEvent');
 goog.require('org.apache.royale.crux.utils.chain.IChain');
 goog.require('org.apache.royale.crux.processors.PostConstructProcessor');
+goog.require('org.apache.royale.events.ItemRemovedEvent');
 goog.require('org.apache.royale.events.ValueEvent');
 goog.require('org.apache.royale.crux.processors.CruxInterfaceProcessor');
 goog.require('org.apache.royale.crux.IBeanFactoryAware');
@@ -266,7 +299,6 @@ goog.require('org.apache.royale.utils.UIDUtil');
 goog.require('org.apache.royale.conversions.createEventInit');
 goog.require('org.apache.royale.crux.CruxManager');
 goog.require('XMLList');
-goog.require('org.apache.royale.jewel.beads.views.AlertTitleBarView');
 goog.require('org.apache.royale.reflection.nativejs.AS3Boolean');
 goog.require('org.apache.royale.utils.string.splitAndTrim');
 goog.require('mx.collections.errors.SortError');
@@ -276,7 +308,7 @@ goog.require('mx.messaging.events.MessageAckEvent');
 goog.require('org.apache.royale.jewel.FormHeading');
 goog.require('org.apache.royale.crux.IDispatcherAware');
 goog.require('mx.events.PropertyChangeEvent');
-/* Royale Dependency List: org.apache.royale.crux.beads.JSStageEvents,org.apache.royale.crux.Crux,entidadesbasicas.config.Beans,org.apache.royale.crux.CruxConfig,org.apache.royale.core.SimpleCSSValuesImpl,org.apache.royale.jewel.View,entidadesbasicas.vistas.MonedaForm,org.apache.royale.events.Event,mx.messaging.config.LoaderConfig,mx.messaging.messages.CommandMessage,org.apache.royale.net.remoting.messages.ActionMessage,mx.messaging.messages.ErrorMessage,org.apache.royale.net.remoting.messages.MessageHeader,mx.messaging.messages.CommandMessageExt,entidadesbasicas.modelo.Moneda,mx.messaging.messages.MessagePerformanceInfo,mx.messaging.messages.AcknowledgeMessageExt,mx.messaging.messages.RemotingMessage,mx.collections.ArrayList,mx.collections.ArrayCollection,mx.messaging.messages.AcknowledgeMessage,org.apache.royale.net.remoting.messages.MessageBody,mx.messaging.messages.AsyncMessageExt,mx.messaging.config.ConfigMap,mx.messaging.messages.AsyncMessage,org.apache.royale.html.beads.GroupView,org.apache.royale.jewel.beads.layouts.NullLayout,org.apache.royale.html.beads.GroupView,org.apache.royale.jewel.beads.layouts.BasicLayout,org.apache.royale.jewel.beads.layouts.VerticalLayout,org.apache.royale.jewel.beads.layouts.GridCellLayout,org.apache.royale.jewel.beads.layouts.FormLayout,org.apache.royale.jewel.beads.views.AlertView,org.apache.royale.jewel.beads.layouts.NullLayout,org.apache.royale.jewel.beads.models.AlertModel,org.apache.royale.jewel.beads.controllers.AlertController,org.apache.royale.html.beads.GroupView,org.apache.royale.jewel.beads.layouts.HorizontalLayout,org.apache.royale.jewel.beads.views.FormHeadingView,org.apache.royale.jewel.beads.layouts.HorizontalLayout,org.apache.royale.jewel.beads.models.TextModel,org.apache.royale.jewel.beads.models.TextModel,org.apache.royale.jewel.beads.views.TitleBarView,org.apache.royale.jewel.beads.layouts.HorizontalLayout,org.apache.royale.jewel.beads.models.TitleBarModel*/
+/* Royale Dependency List: org.apache.royale.crux.beads.JSStageEvents,org.apache.royale.crux.Crux,entidadesbasicas.config.Beans,org.apache.royale.crux.CruxConfig,org.apache.royale.reflection.beads.ClassAliasBead,org.apache.royale.core.SimpleCSSValuesImpl,org.apache.royale.jewel.View,entidadesbasicas.vistas.MonedaForm,org.apache.royale.collections.ArrayList,org.apache.royale.events.Event,org.apache.royale.reflection.registerClassAlias,mx.messaging.config.LoaderConfig,mx.messaging.messages.CommandMessage,org.apache.royale.net.remoting.messages.ActionMessage,mx.messaging.messages.ErrorMessage,org.apache.royale.net.remoting.messages.MessageHeader,mx.messaging.messages.CommandMessageExt,entidadesbasicas.modelo.Moneda,mx.messaging.messages.MessagePerformanceInfo,mx.messaging.messages.AcknowledgeMessageExt,mx.messaging.messages.RemotingMessage,mx.collections.ArrayList,mx.collections.ArrayCollection,mx.messaging.messages.AcknowledgeMessage,org.apache.royale.net.remoting.messages.MessageBody,mx.messaging.messages.AsyncMessageExt,mx.messaging.config.ConfigMap,mx.messaging.messages.AsyncMessage,org.apache.royale.html.beads.controllers.ItemRendererMouseController,org.apache.royale.html.beads.GroupView,org.apache.royale.jewel.beads.layouts.NullLayout,org.apache.royale.html.beads.GroupView,org.apache.royale.jewel.beads.layouts.BasicLayout,org.apache.royale.jewel.beads.layouts.GridCellLayout,org.apache.royale.html.beads.ContainerView,org.apache.royale.jewel.supportClasses.Viewport,org.apache.royale.jewel.beads.layouts.BasicLayout,org.apache.royale.html.beads.models.ViewportModel,org.apache.royale.jewel.beads.layouts.FormLayout,org.apache.royale.jewel.beads.views.ButtonBarView,org.apache.royale.jewel.itemRenderers.ButtonBarItemRenderer,org.apache.royale.jewel.beads.layouts.ButtonBarLayout,org.apache.royale.html.beads.models.ButtonBarModel,org.apache.royale.jewel.beads.controllers.ListSingleSelectionMouseController,org.apache.royale.core.ItemRendererClassFactory,org.apache.royale.jewel.beads.itemRenderers.DataItemRendererFactoryForCollectionView,org.apache.royale.jewel.beads.views.DataGridView,org.apache.royale.jewel.beads.layouts.ButtonBarLayout,org.apache.royale.jewel.supportClasses.datagrid.DataGridColumnList,org.apache.royale.jewel.beads.layouts.DataGridLayout,org.apache.royale.html.beads.models.DataGridCollectionViewModel,org.apache.royale.jewel.supportClasses.datagrid.DataGridListArea,org.apache.royale.jewel.beads.models.DataGridPresentationModel,org.apache.royale.jewel.supportClasses.datagrid.DataGridButtonBar,org.apache.royale.html.beads.ContainerView,org.apache.royale.jewel.supportClasses.scrollbar.ScrollingViewport,org.apache.royale.jewel.beads.layouts.HorizontalLayout,org.apache.royale.html.beads.models.ViewportModel,org.apache.royale.jewel.itemRenderers.DataGridItemRenderer,org.apache.royale.jewel.beads.views.FormHeadingView,org.apache.royale.jewel.beads.layouts.HorizontalLayout,org.apache.royale.jewel.beads.models.TextModel,org.apache.royale.jewel.beads.models.TextModel,org.apache.royale.jewel.beads.views.ListView,org.apache.royale.jewel.itemRenderers.ListItemRenderer,org.apache.royale.jewel.supportClasses.scrollbar.ScrollingViewport,org.apache.royale.jewel.beads.layouts.VerticalLayout,org.apache.royale.jewel.beads.models.ArrayListSelectionModel,org.apache.royale.jewel.beads.controllers.ListSingleSelectionMouseController,org.apache.royale.core.ItemRendererClassFactory,org.apache.royale.html.beads.models.ViewportModel,org.apache.royale.jewel.beads.itemRenderers.DataItemRendererFactoryForCollectionView,org.apache.royale.jewel.beads.controllers.ItemRendererMouseController*/
 
 goog.require('org.apache.royale.jewel.Application');
 
@@ -315,15 +347,21 @@ App = function() {
   
   /**
    * @private
-   * @type {org.apache.royale.core.SimpleCSSValuesImpl}
+   * @type {org.apache.royale.reflection.beads.ClassAliasBead}
    */
   this.$ID4_;
   
   /**
    * @private
-   * @type {org.apache.royale.jewel.View}
+   * @type {org.apache.royale.core.SimpleCSSValuesImpl}
    */
   this.$ID5_;
+  
+  /**
+   * @private
+   * @type {org.apache.royale.jewel.View}
+   */
+  this.$ID6_;
   
   /**
    * @private
@@ -352,7 +390,7 @@ App = function() {
       1,
       '_id',
       true,
-      '$ID4',
+      '$ID5',
       0,
       0,
       null
@@ -364,7 +402,7 @@ App = function() {
       1,
       '_id',
       true,
-      '$ID5',
+      '$ID6',
       0,
       0,
       [
@@ -429,6 +467,14 @@ App = function() {
       ],
       0,
       0,
+      null,
+      org.apache.royale.reflection.beads.ClassAliasBead,
+      1,
+      '_id',
+      true,
+      '$ID4',
+      0,
+      0,
       null
     ],
     0,
@@ -453,6 +499,7 @@ goog.exportSymbol('App', App);
  */
 App.prototype.setUp = function() {
   org.apache.royale.utils.Language.trace('application setUp stub');
+  org.apache.royale.reflection.registerClassAlias("flex.messaging.io.ArrayCollection", org.apache.royale.collections.ArrayList);
 };
 
 
@@ -554,6 +601,10 @@ this["WebkitBoxSizing"] = "border-box";
 this["boxSizing"] = "border-box"},
 0,
 1,
+"org.apache.royale.html.supportClasses.DataItemRenderer",
+function() {this["iBeadController"] = org.apache.royale.html.beads.controllers.ItemRendererMouseController},
+0,
+1,
 "global",
 function() {this["effectTimerInterval"] = 10.0},
 0,
@@ -629,12 +680,15 @@ function() {this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.BasicLay
 this["iBeadView"] = org.apache.royale.html.beads.GroupView},
 0,
 1,
-"org.apache.royale.jewel.VGroup",
-function() {this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.VerticalLayout},
-0,
-1,
 "org.apache.royale.jewel.GridCell",
 function() {this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.GridCellLayout},
+0,
+1,
+"org.apache.royale.jewel.Container",
+function() {this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.BasicLayout;
+this["iBeadView"] = org.apache.royale.html.beads.ContainerView;
+this["iViewport"] = org.apache.royale.jewel.supportClasses.Viewport;
+this["iViewportModel"] = org.apache.royale.html.beads.models.ViewportModel},
 0,
 1,
 "org.apache.royale.jewel.Form",
@@ -717,13 +771,6 @@ this["height"] = 84.0;
 this["padding"] = 20.0;
 this["position"] = "absolute";
 this["width"] = 100.0},
-0,
-1,
-"org.apache.royale.jewel.Alert",
-function() {this["iBeadController"] = org.apache.royale.jewel.beads.controllers.AlertController;
-this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.NullLayout;
-this["iBeadModel"] = org.apache.royale.jewel.beads.models.AlertModel;
-this["iBeadView"] = org.apache.royale.jewel.beads.views.AlertView},
 0,
 1,
 ".jewel.badge",
@@ -831,6 +878,16 @@ this["borderTopRightRadius"] = 0.25},
 ".jewel.buttonbar .jewel.togglebutton.last",
 function() {this["borderBottomRightRadius"] = 0.25;
 this["borderTopRightRadius"] = 0.25},
+0,
+1,
+"org.apache.royale.jewel.ButtonBar",
+function() {this["iBeadController"] = org.apache.royale.jewel.beads.controllers.ListSingleSelectionMouseController;
+this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.ButtonBarLayout;
+this["iBeadModel"] = org.apache.royale.html.beads.models.ButtonBarModel;
+this["iBeadView"] = org.apache.royale.jewel.beads.views.ButtonBarView;
+this["iDataProviderItemRendererMapper"] = org.apache.royale.jewel.beads.itemRenderers.DataItemRendererFactoryForCollectionView;
+this["iItemRenderer"] = org.apache.royale.jewel.itemRenderers.ButtonBarItemRenderer;
+this["iItemRendererClassFactory"] = org.apache.royale.core.ItemRendererClassFactory},
 0,
 1,
 ".jewel.card",
@@ -947,11 +1004,6 @@ this["minHeight"] = 34.0;
 this["padding"] = 0.0},
 0,
 1,
-"org.apache.royale.jewel.ControlBar",
-function() {this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.HorizontalLayout;
-this["iBeadView"] = org.apache.royale.html.beads.GroupView},
-0,
-1,
 ".jewel.combobox",
 function() {this["display"] = "inline-flex"},
 0,
@@ -1058,6 +1110,28 @@ this["width"] = "auto"},
 ".jewel.datagrid .jewel.list.column .jewel.item.datagrid",
 function() {this["borderBottom"] = [1.0, "solid", 15592941];
 this["width"] = 100.0},
+0,
+1,
+"org.apache.royale.jewel.DataGrid",
+function() {this["columnClass"] = org.apache.royale.jewel.supportClasses.datagrid.DataGridColumnList;
+this["headerClass"] = org.apache.royale.jewel.supportClasses.datagrid.DataGridButtonBar;
+this["headerLayoutClass"] = org.apache.royale.jewel.beads.layouts.ButtonBarLayout;
+this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.DataGridLayout;
+this["iBeadModel"] = org.apache.royale.html.beads.models.DataGridCollectionViewModel;
+this["iBeadView"] = org.apache.royale.jewel.beads.views.DataGridView;
+this["iDataGridPresentationModel"] = org.apache.royale.jewel.beads.models.DataGridPresentationModel;
+this["listAreaClass"] = org.apache.royale.jewel.supportClasses.datagrid.DataGridListArea},
+0,
+1,
+"org.apache.royale.jewel.supportClasses.datagrid.DataGridListArea",
+function() {this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.HorizontalLayout;
+this["iBeadView"] = org.apache.royale.html.beads.ContainerView;
+this["iViewport"] = org.apache.royale.jewel.supportClasses.scrollbar.ScrollingViewport;
+this["iViewportModel"] = org.apache.royale.html.beads.models.ViewportModel},
+0,
+1,
+"org.apache.royale.jewel.supportClasses.datagrid.DataGridColumnList",
+function() {this["iItemRenderer"] = org.apache.royale.jewel.itemRenderers.DataGridItemRenderer},
 0,
 1,
 ".jewel.datechooser .jewel.table",
@@ -2061,6 +2135,22 @@ function() {this["overflow"] = "initial"},
 function() {this["overflow"] = "initial"},
 0,
 1,
+"org.apache.royale.jewel.List",
+function() {this["iBeadController"] = org.apache.royale.jewel.beads.controllers.ListSingleSelectionMouseController;
+this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.VerticalLayout;
+this["iBeadModel"] = org.apache.royale.jewel.beads.models.ArrayListSelectionModel;
+this["iBeadView"] = org.apache.royale.jewel.beads.views.ListView;
+this["iDataProviderItemRendererMapper"] = org.apache.royale.jewel.beads.itemRenderers.DataItemRendererFactoryForCollectionView;
+this["iItemRenderer"] = org.apache.royale.jewel.itemRenderers.ListItemRenderer;
+this["iItemRendererClassFactory"] = org.apache.royale.core.ItemRendererClassFactory;
+this["iViewport"] = org.apache.royale.jewel.supportClasses.scrollbar.ScrollingViewport;
+this["iViewportModel"] = org.apache.royale.html.beads.models.ViewportModel},
+0,
+1,
+"org.apache.royale.jewel.itemRenderers.ListItemRenderer",
+function() {this["iBeadController"] = org.apache.royale.jewel.beads.controllers.ItemRendererMouseController},
+0,
+1,
 ".jewel.numericstepper .jewel.textinput",
 function() {this["display"] = "inline-flex"},
 0,
@@ -2783,12 +2873,6 @@ this["cursor"] = "unset"},
 function() {this["backgroundColor"] = "transparent";
 this["minHeight"] = 34.0;
 this["padding"] = 0.0},
-0,
-1,
-"org.apache.royale.jewel.TitleBar",
-function() {this["iBeadLayout"] = org.apache.royale.jewel.beads.layouts.HorizontalLayout;
-this["iBeadModel"] = org.apache.royale.jewel.beads.models.TitleBarModel;
-this["iBeadView"] = org.apache.royale.jewel.beads.views.TitleBarView},
 0,
 1,
 ".jewel.togglebutton",

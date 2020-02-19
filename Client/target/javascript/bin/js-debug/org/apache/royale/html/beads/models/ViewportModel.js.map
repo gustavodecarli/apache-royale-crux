@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ViewportModel.js",
+"lineCount":77,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;AAgCkB,iDAAhB,WAA6B,CAAC,C,CAC9B,C;6EACQ,C;AACR,C;;;;;;;;;;;;;;AAEkB,4HAAuB,C;;;;;;;AAC7B,4HAAuB,C;;;;;;;AAEvB,qHAAe,C;;;yFAKY,CAAC,C,CAClC,C;EACI,OAAO,KAAA,gEAAc,C;AACzB,C;;;yFACiC,CAAC,KAAc,C,CAChD,C;EACI,KAAA,gEAAc,GAAG,KAAK,C;AAC1B,C;;;yFAKiC,CAAC,C,CAClC,C;EACI,OAAO,KAAA,gEAAc,C;AACzB,C;;;yFACiC,CAAC,KAAc,C,CAChD,C;EACI,KAAA,gEAAc,GAAG,KAAK,C;AAC1B,C;;;kFAEoB,CAAC,KAAa,C,CACxC,C;EACC,KAAA,yDAAO,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Basic/src/main/royale/org/apache/royale/html/beads/models/ViewportModel.as"],
+"names":[]
+}

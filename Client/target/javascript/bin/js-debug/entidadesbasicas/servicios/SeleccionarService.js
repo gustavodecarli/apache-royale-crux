@@ -42,6 +42,13 @@ entidadesbasicas.servicios.SeleccionarService.prototype.entidadesbasicas_servici
 
 
 /**
+ * @private
+ * @type {mx.rpc.remoting.mxml.RemoteObject}
+ */
+entidadesbasicas.servicios.SeleccionarService.prototype.entidadesbasicas_servicios_SeleccionarService_unRemoteObject = null;
+
+
+/**
  * In a real app, we'd invoke a RemoteObject, HTTPService, etc.
  * For this simple example, we'll set a random ID on the returned User
  * to simulate the process of saving a User.
@@ -50,10 +57,11 @@ entidadesbasicas.servicios.SeleccionarService.prototype.entidadesbasicas_servici
  * @return {mx.rpc.AsyncToken}
  */
 entidadesbasicas.servicios.SeleccionarService.prototype.ejecutar = function(user) {
-  var /** @type {mx.rpc.remoting.mxml.RemoteObject} */ unRemoteObject = new mx.rpc.remoting.mxml.RemoteObject();
-  unRemoteObject.destination = "monedas";
-  unRemoteObject.endpoint = "http://localhost:8080/CairngormServer/messagebroker/amf";
-  return unRemoteObject.getOperation("seleccionar").send();
+  var /** @type {mx.rpc.remoting.mxml.RemoteObject} */ unRemote = new mx.rpc.remoting.mxml.RemoteObject();
+  unRemote.destination = "monedas";
+  unRemote.setDocument(null, "idsds");
+  unRemote.endpoint = "http://localhost:8080/CairngormServer/messagebroker/amf";
+  return unRemote.getOperation("seleccionar").send();
 };
 
 

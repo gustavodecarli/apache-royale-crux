@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ScrollingViewport.js",
+"lineCount":89,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AA+DkB,kEAAhB,WAAiC,CAAC,C,CAClC,C;8FACQ,C;AACR,C;;;;;;;;;;;;;;;AA4CyB,8GAAzB,WAA0D,CAAC,KAAY,EAAE,MAAa,C,CACtF,C;AAEA,C;;;;;;;;AAKyB,6GAAzB,WAAyD,CAAC,WAAgB,C,CAC1E,C;AAEA,C;;;mHArD0C,CAAC,C,CAC3C,C;EACC,OAAO,IAAI,CAAC,WAAW,CAAC,UAAU,CAAC,SAAS,C;AAC7C,C;;;mHAC0C,CAAC,KAAY,C,CACvD,C;EACC,IAAI,CAAC,WAAW,CAAC,UAAU,CAAC,SAAS,GAAG,KAAK,C;AAC9C,C;;;qHAE4C,CAAC,C,CAC7C,C;EACC,OAAO,IAAI,CAAC,WAAW,CAAC,UAAU,CAAC,UAAU,C;AAC9C,C;;;qHAC4C,CAAC,KAAY,C,CACzD,C;EACC,IAAI,CAAC,WAAW,CAAC,UAAU,CAAC,UAAU,GAAG,KAAK,C;AAC/C,C;;;mGAMmC,CAAC,KAAa,C,CACjD,C;2GACgB,K,GAAK,C;EACpB,IAAa,6CAAT,SAAgB,C;EACpB,IAAI,KAAA,WAAW,IAAI,IAAI,EAAE,C;IACxB,SAAS,GAAG,KAAe,C;EAC5B,C,CAAE,KAAK,C;IACN,SAAS,GAAG,KAAA,WAAqB,C;EAClC,C;EAMA,KAAA,WAAW,CAAC,OAAO,CAAC,SAAS,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/supportClasses/scrollbar/ScrollingViewport.as"],
+"names":[]
+}

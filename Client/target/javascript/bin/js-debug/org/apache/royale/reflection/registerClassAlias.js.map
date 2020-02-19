@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"registerClassAlias.js",
+"lineCount":36,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;+CA+BI,WAAkC,CAAC,SAAgB,EAAE,WAAiB,C,CAAO,C;;EAMrE,IAAI,WAAW,IAAI,IAAI,C;IAAE,MAAM,IAAI,SAAS,CAAC,yCAAyC,CAAC,C;EACvF,IAAI,SAAS,IAAI,IAAI,C;IAAE,MAAM,IAAI,SAAS,CAAC,uCAAuC,CAAC,C;EACnF,IAAI,SAAS,CAAC,MAAM,IAAE,CAAC,C;IAAE,MAAM,IAAI,SAAS,CAAC,+CAA+C,CAAC,C;EAC7F,2CAAc,CAAC,kBAAkB,CAAC,SAAS,EAAG,WAAW,CAAC,CAAA;",
+"sources":["frameworks/projects/Reflection/src/main/royale/org/apache/royale/reflection/registerClassAlias.as"],
+"names":[]
+}

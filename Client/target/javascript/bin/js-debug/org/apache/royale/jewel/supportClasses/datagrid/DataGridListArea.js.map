@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"DataGridListArea.js",
+"lineCount":23,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;AAwBwB,gEAAhB,WAAgC,CAAC,C,CACjC,C;4FACW,C;EAEhB,KAAA,SAAS,GAAG,UAAU,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/supportClasses/datagrid/DataGridListArea.as"],
+"names":[]
+}

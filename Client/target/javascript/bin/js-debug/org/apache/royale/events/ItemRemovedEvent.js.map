@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ItemRemovedEvent.js",
+"lineCount":66,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAqDkB,yCAAhB,WAAgC,CAAC,IAAW,EAAE,OAAqB,EAAE,UAAwB,C,CAC7F,C;;;;;sEAOoB,I,CAAK,C;EAGxB,KAAA,IAAI,GAAG,IAAI,C;AACZ,C;;;;;;;;;;;;;;AAUW,wDAAW,C;;;;;;;;AAKG,8DAAzB,WAAmC,CAAC,C,CACpC,C;EACC,IAAY,yDAAR,QAAyB,GAAG,IAAI,yCAAgB,CAAC,KAAA,IAAI,CAAC,C;EAC1D,QAAQ,CAAC,IAAI,GAAG,KAAA,IAAI,C;EACpB,OAAO,QAAQ,CAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/events/ItemRemovedEvent.as"],
+"names":[]
+}

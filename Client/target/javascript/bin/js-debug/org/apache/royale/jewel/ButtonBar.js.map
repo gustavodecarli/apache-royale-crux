@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"ButtonBar.js",
+"lineCount":56,
+"sourceRoot":"file:////Users/gustavo/Documents/sdks/apache-royale-0.9.7/royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;;;;AA2DkB,iCAAhB,WAAyB,CAAC,C,CAC1B,C;6DACQ,C;EAEE,KAAA,SAAS,GAAG,iBAAiB,C;AACvC,C;;;;;;;;;;;;;;;AAgDkC,yDAA5B,WAAyC,CAAC,C,CAC1C,C;EACL,OAAO,+CAAmB,CAAC,IAAI,EAAC,KAAK,CAAC,C;AACjC,C;;;wEAxC0B,CAAC,C,CACjC,C;EACC,OAAsB,KAAA,KAAM,CAAC,YAAY,C;AAC1C,C;;;wEAIgC,CAAC,KAAW,C,CAC5C,C;EACgB,KAAA,KAAM,CAAC,YAAY,GAAG,KAAK,CAAA;",
+"sources":["frameworks/projects/Jewel/src/main/royale/org/apache/royale/jewel/ButtonBar.as"],
+"names":[]
+}

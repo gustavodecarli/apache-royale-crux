@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"SimpleCSSStylesWithFlex.js",
+"lineCount":244,
+"sourceRoot":"file:///f:/jenkins/jenkins-slave/workspace/Royale-asjs",
+"mappings":"A;;;;;;;;;;;;;;;;;;;;;;;AA4CkB,8CAAhB,WAAuC,CAAC,C,CACxC,C;;mBAIoC,CAC1B,KAAK,CAAE,CAAC,EACR,QAAQ,CAAE,CAAC,EACX,MAAM,CAAE,CAAC,EACT,OAAO,CAAE,CAAC,EACV,SAAS,CAAE,CAAC,EACZ,aAAa,CAAE,CAAC,EAChB,cAAc,CAAE,CAAC,EACjB,YAAY,CAAE,CAAC,EACf,eAAe,CAAE,CAAC,EAClB,QAAQ,CAAE,CAAC,EACX,YAAY,CAAE,CAAC,EACf,aAAa,CAAE,CAAC,EAChB,WAAW,CAAE,CAAC,EACd,cAAc,CAAE,CAAC,EACjB,eAAe,CAAE,CAAC,EAClB,YAAY,CAAE,CAAC,EACf,UAAU,CAAE,CAAC,EACb,OAAO,CAAE,CAAC,EACV,YAAY,CAAE,CAAC,EACf,WAAW,CAAE,CAAC,EACd,iBAAiB,CAAE,CAAC,EACpB,iBAAiB,CAAE,CAAC,EACpB,aAAa,CAAE,CAAC,EAChB,aAAa,CAAE,CAAC,EAChB,cAAc,CAAE,CAAC,EACjB,aAAa,CAAE,CAAC,EACzB,UAAU,CAAE,CAAC,EACb,YAAY,CAAE,CAAC,EACf,OAAO,CAAE,CACJ,C;EAjCE,C;AACR,C;;;;;;;;;;;;;AAEiB,kEA8BV,C;;;;;;;AAMU,4DAAK,C;;;;;;;AACL,+DAAQ,C;;;;;;;AACR,6DAAM,C;;;;;;;AACN,8DAAO,C;;;;;;;AACP,gEAAS,C;;;;;;;AACf,oEAAa,C;;;;;;;AACP,qEAAc,C;;;;;;;AACd,mEAAY,C;;;;;;;AACZ,sEAAe,C;;;;;;;AACf,+DAAQ,C;;;;;;;AACR,mEAAY,C;;;;;;;AACZ,oEAAa,C;;;;;;;AACb,kEAAW,C;;;;;;;AACX,qEAAc,C;;;;;;;AACd,sEAAe,C;;;;;;;AACf,mEAAY,C;;;;;;;AACZ,iEAAU,C;;;;;;;AACV,8DAAO,C;;;;;;;AACP,mEAAY,C;;;;;;;AACZ,kEAAW,C;;;;;;;AACX,wEAAiB,C;;;;;;;AACjB,wEAAiB,C;;;;;;;AACjB,oEAAa,C;;;;;;;AACb,oEAAa,C;;;;;;;AACb,qEAAc,C;;;;;;;AACd,oEAAa,C;;;;;;;AACnB,iEAAU,C;;;;;;;AACV,mEAAY,C;;;;;;;AACZ,8DAAA;",
+"sources":["frameworks/projects/Core/src/main/royale/org/apache/royale/core/SimpleCSSStylesWithFlex.as"],
+"names":[]
+}

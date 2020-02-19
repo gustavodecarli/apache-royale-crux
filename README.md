@@ -7,13 +7,14 @@ Create one folder for download.
 
 git clone https://github.com/gustavodecarli/apache-royale-crux.git
 
-Server 
+1. Server
+
 cd ./apache-royale-crux/Server
 
 mvn tomcat7:run-war
 
 
-Client
+2. Client
 
 cd ./apache-royale-crux/Client
 
